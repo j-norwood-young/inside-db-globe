@@ -1,0 +1,122 @@
+{
+  "DE": [
+    { "city": "Berlin", "lat": 52.52, "lon": 13.405 },
+    { "city": "Munich", "lat": 48.137, "lon": 11.575 },
+    { "city": "Hamburg", "lat": 53.551, "lon": 9.993 },
+    { "city": "Frankfurt", "lat": 50.11, "lon": 8.682 },
+    { "city": "Cologne", "lat": 50.938, "lon": 6.96 }
+  ],
+  "IT": [
+    { "city": "Rome", "lat": 41.9, "lon": 12.496 },
+    { "city": "Milan", "lat": 45.464, "lon": 9.19 },
+    { "city": "Turin", "lat": 45.07, "lon": 7.686 },
+    { "city": "Naples", "lat": 40.852, "lon": 14.268 }
+  ],
+  "FR": [
+    { "city": "Paris", "lat": 48.857, "lon": 2.352 },
+    { "city": "Lyon", "lat": 45.764, "lon": 4.835 },
+    { "city": "Marseille", "lat": 43.296, "lon": 5.369 },
+    { "city": "Toulouse", "lat": 43.604, "lon": 1.444 }
+  ],
+  "AT": [
+    { "city": "Vienna", "lat": 48.208, "lon": 16.373 },
+    { "city": "Graz", "lat": 47.07, "lon": 15.437 },
+    { "city": "Linz", "lat": 48.311, "lon": 14.285 }
+  ],
+  "CH": [
+    { "city": "Geneva", "lat": 46.204, "lon": 6.143 },
+    { "city": "Zurich", "lat": 47.377, "lon": 8.541 },
+    { "city": "Basel", "lat": 47.559, "lon": 7.588 }
+  ],
+  "BR": [
+    { "city": "São Paulo", "lat": -23.55, "lon": -46.633 },
+    { "city": "Rio de Janeiro", "lat": -22.907, "lon": -43.173 },
+    { "city": "Brasília", "lat": -15.794, "lon": -47.882 }
+  ],
+  "ES": [
+    { "city": "Madrid", "lat": 40.417, "lon": -3.703 },
+    { "city": "Barcelona", "lat": 41.387, "lon": 2.169 },
+    { "city": "Valencia", "lat": 39.47, "lon": -0.377 },
+    { "city": "Seville", "lat": 37.389, "lon": -5.984 }
+  ],
+  "RU": [
+    { "city": "Moscow", "lat": 55.756, "lon": 37.617 },
+    { "city": "St Petersburg", "lat": 59.934, "lon": 30.335 },
+    { "city": "Novosibirsk", "lat": 55.034, "lon": 82.918 }
+  ],
+  "MX": [
+    { "city": "Mexico City", "lat": 19.433, "lon": -99.133 },
+    { "city": "Guadalajara", "lat": 20.669, "lon": -103.35 }
+  ],
+  "AR": [
+    { "city": "Buenos Aires", "lat": -34.604, "lon": -58.382 },
+    { "city": "Córdoba", "lat": -31.413, "lon": -64.184 }
+  ],
+  "NL": [
+    { "city": "Amsterdam", "lat": 52.37, "lon": 4.895 },
+    { "city": "Rotterdam", "lat": 51.924, "lon": 4.478 },
+    { "city": "The Hague", "lat": 52.08, "lon": 4.311 }
+  ],
+  "BE": [
+    { "city": "Brussels", "lat": 50.85, "lon": 4.352 },
+    { "city": "Antwerp", "lat": 51.219, "lon": 4.4 }
+  ],
+  "PT": [
+    { "city": "Lisbon", "lat": 38.722, "lon": -9.139 },
+    { "city": "Porto", "lat": 41.149, "lon": -8.611 }
+  ],
+  "CA": [
+    { "city": "Toronto", "lat": 43.653, "lon": -79.383 },
+    { "city": "Montreal", "lat": 45.505, "lon": -73.566 },
+    { "city": "Vancouver", "lat": 49.283, "lon": -123.121 }
+  ],
+  "IN": [
+    { "city": "New Delhi", "lat": 28.613, "lon": 77.209 },
+    { "city": "Mumbai", "lat": 19.076, "lon": 72.878 },
+    { "city": "Bengaluru", "lat": 12.972, "lon": 77.594 }
+  ],
+  "ZA": [
+    { "city": "Johannesburg", "lat": -26.204, "lon": 28.047 },
+    { "city": "Cape Town", "lat": -33.925, "lon": 18.424 }
+  ],
+  "KE": [
+    { "city": "Nairobi", "lat": -1.292, "lon": 36.822 }
+  ],
+  "GB": [
+    { "city": "London", "lat": 51.507, "lon": -0.128 },
+    { "city": "Manchester", "lat": 53.479, "lon": -2.242 },
+    { "city": "Birmingham", "lat": 52.486, "lon": -1.89 }
+  ],
+  "JP": [
+    { "city": "Tokyo", "lat": 35.68, "lon": 139.652 },
+    { "city": "Osaka", "lat": 34.694, "lon": 135.502 },
+    { "city": "Kyoto", "lat": 35.012, "lon": 135.768 }
+  ],
+  "AE": [
+    { "city": "Dubai", "lat": 25.205, "lon": 55.271 },
+    { "city": "Abu Dhabi", "lat": 24.454, "lon": 54.377 }
+  ],
+  "GR": [
+    { "city": "Athens", "lat": 37.984, "lon": 23.728 },
+    { "city": "Thessaloniki", "lat": 40.64, "lon": 22.944 }
+  ],
+  "AU": [
+    { "city": "Sydney", "lat": -33.869, "lon": 151.209 },
+    { "city": "Melbourne", "lat": -37.814, "lon": 144.963 }
+  ],
+  "EG": [
+    { "city": "Cairo", "lat": 30.044, "lon": 31.236 },
+    { "city": "Alexandria", "lat": 31.200, "lon": 29.919 }
+  ],
+  "PL": [
+    { "city": "Warsaw", "lat": 52.23, "lon": 21.012 },
+    { "city": "Kraków", "lat": 50.065, "lon": 19.945 }
+  ],
+  "TR": [
+    { "city": "Istanbul", "lat": 41.014, "lon": 28.979 },
+    { "city": "Ankara", "lat": 39.933, "lon": 32.859 }
+  ],
+  "FI": [
+    { "city": "Helsinki", "lat": 60.17, "lon": 24.938 }
+  ]
+}

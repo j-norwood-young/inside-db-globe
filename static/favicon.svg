@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <defs>
+        <clipPath id="globe"><circle cx="50" cy="50" r="48"/></clipPath>
+        <radialGradient id="shade" cx="0.32" cy="0.28" r="0.85">
+            <stop offset="0.55" stop-color="#441b26" stop-opacity="0"/>
+            <stop offset="1" stop-color="#441b26" stop-opacity="0.3"/>
+        </radialGradient>
+    </defs>
+    <circle cx="50" cy="50" r="48" fill="#faff4c"/>
+    <g clip-path="url(#globe)" fill="none" stroke="#441b26" stroke-opacity="0.28" stroke-width="2.5">
+        <ellipse cx="50" cy="50" rx="21" ry="48"/>
+        <ellipse cx="50" cy="50" rx="40" ry="48"/>
+        <path d="M2 50Q50 62 98 50"/>
+        <path d="M6 26Q50 38 94 26M6 72Q50 84 94 72"/>
+    </g>
+    <circle cx="50" cy="50" r="48" fill="url(#shade)"/>
+    <circle cx="50" cy="50" r="47" fill="none" stroke="#441b26" stroke-width="2"/>
+    <path d="M48.81 49.79Q48.81 61.3 43.08 65.98Q37.36 70.66 28.24 70.66H15.83V29.34H27.34Q37.06 29.34 42.93 33.72Q48.81 38.1 48.81 49.79ZM25.61 36.44V63.56H28.83Q33.66 63.56 36.17 60.55Q38.67 57.54 38.67 49.79Q38.67 44.48 37.42 41.56Q36.17 38.64 34.02 37.54Q31.87 36.44 28.71 36.44Z M84.17 58.62Q84.17 65.23 79.43 67.95Q74.68 70.66 66.16 70.66H52.86V29.34H64.55Q73.25 29.34 77.84 31.81Q82.44 34.29 82.44 39.89Q82.44 43.53 80.26 45.77Q78.08 48 74.86 48.78Q78.98 49.55 81.57 51.82Q84.17 54.08 84.17 58.62ZM62.64 36.26V45.86H66.28Q72.48 45.86 72.48 40.85Q72.48 38.34 70.81 37.3Q69.14 36.26 65.5 36.26ZM74.09 58.08Q74.09 52.36 66.93 52.36H62.64V63.56H66.22Q70.09 63.56 72.09 62.4Q74.09 61.24 74.09 58.08Z" fill="#441b26" stroke="#441b26" stroke-width="1.67" stroke-linejoin="miter"/>
+</svg>

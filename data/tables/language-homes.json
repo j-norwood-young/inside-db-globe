@@ -1,0 +1,59 @@
+{
+  "en": [
+    { "city": "London", "lat": 51.507, "lon": -0.128 },
+    { "city": "New York", "lat": 40.713, "lon": -74.006 },
+    { "city": "Sydney", "lat": -33.869, "lon": 151.209 },
+    { "city": "Toronto", "lat": 43.653, "lon": -79.383 },
+    { "city": "Johannesburg", "lat": -26.204, "lon": 28.047 }
+  ],
+  "de": [
+    { "city": "Berlin", "lat": 52.52, "lon": 13.405 },
+    { "city": "Vienna", "lat": 48.208, "lon": 16.373 },
+    { "city": "Munich", "lat": 48.137, "lon": 11.575 }
+  ],
+  "es": [
+    { "city": "Madrid", "lat": 40.417, "lon": -3.703 },
+    { "city": "Mexico City", "lat": 19.433, "lon": -99.133 },
+    { "city": "Buenos Aires", "lat": -34.604, "lon": -58.382 },
+    { "city": "Bogotá", "lat": 4.711, "lon": -74.072 },
+    { "city": "Santiago", "lat": -33.449, "lon": -70.668 }
+  ],
+  "fr": [
+    { "city": "Paris", "lat": 48.857, "lon": 2.352 },
+    { "city": "Lyon", "lat": 45.764, "lon": 4.835 },
+    { "city": "Brussels", "lat": 50.85, "lon": 4.352 }
+  ],
+  "it": [
+    { "city": "Rome", "lat": 41.9, "lon": 12.496 },
+    { "city": "Milan", "lat": 45.464, "lon": 9.19 },
+    { "city": "Turin", "lat": 45.07, "lon": 7.686 }
+  ],
+  "ru": [
+    { "city": "Moscow", "lat": 55.756, "lon": 37.617 },
+    { "city": "St Petersburg", "lat": 59.934, "lon": 30.335 }
+  ],
+  "pt": [
+    { "city": "Lisbon", "lat": 38.722, "lon": -9.139 },
+    { "city": "Porto", "lat": 41.149, "lon": -8.611 },
+    { "city": "São Paulo", "lat": -23.55, "lon": -46.633 }
+  ],
+  "ar": [
+    { "city": "Dubai", "lat": 25.205, "lon": 55.271 },
+    { "city": "Cairo", "lat": 30.044, "lon": 31.236 },
+    { "city": "Riyadh", "lat": 24.714, "lon": 46.675 },
+    { "city": "Amman", "lat": 31.956, "lon": 35.915 }
+  ],
+  "zh": [
+    { "city": "Beijing", "lat": 39.904, "lon": 116.407 },
+    { "city": "Shanghai", "lat": 31.23, "lon": 121.474 },
+    { "city": "Shenzhen", "lat": 22.543, "lon": 114.058 }
+  ],
+  "nl": [
+    { "city": "Amsterdam", "lat": 52.37, "lon": 4.895 },
+    { "city": "Rotterdam", "lat": 51.924, "lon": 4.478 }
+  ],
+  "ja": [
+    { "city": "Tokyo", "lat": 35.68, "lon": 139.652 },
+    { "city": "Osaka", "lat": 34.694, "lon": 135.502 }
+  ]
+}

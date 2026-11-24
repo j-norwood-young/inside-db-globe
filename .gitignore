@@ -1,0 +1,13 @@
+node_modules
+.svelte-kit
+build
+.DS_Store
+*.log
+.vite
+*.xlsx
+# raw export stays local; the pipeline output and lookup tables are needed to build
+data/*
+!data/build/
+!data/tables/
+PROGRESS.md
+PLAN.md
