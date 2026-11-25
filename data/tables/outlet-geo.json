@@ -20,9 +20,9 @@
     "lon": 2.352
   },
   "daraj": {
-    "city": "Dubai",
-    "lat": 25.205,
-    "lon": 55.271
+    "city": "Beirut",
+    "lat": 33.894,
+    "lon": 35.502
   },
   "tradingview": {
     "city": "New York",
@@ -30,9 +30,9 @@
     "lon": -74.006
   },
   "financefeeds": {
-    "city": "San Francisco",
-    "lat": 37.775,
-    "lon": -122.419
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
   },
   "marketscreener italia": {
     "city": "Paris",
@@ -70,9 +70,9 @@
     "lon": 2.352
   },
   "el clip": {
-    "city": "Madrid",
-    "lat": 40.417,
-    "lon": -3.703
+    "city": "San José",
+    "lat": 9.928,
+    "lon": -84.091
   },
   "france 24": {
     "city": "Paris",
@@ -100,14 +100,14 @@
     "lon": 2.352
   },
   "agência pública": {
-    "city": "Brasília",
-    "lat": -15.794,
-    "lon": -47.882
+    "city": "São Paulo",
+    "lat": -23.55,
+    "lon": -46.633
   },
   "himal southasian": {
-    "city": "London",
-    "lat": 51.507,
-    "lon": -0.128
+    "city": "Kathmandu",
+    "lat": 27.717,
+    "lon": 85.324
   },
   "dw.com": {
     "city": "Berlin",
@@ -150,9 +150,9 @@
     "lon": 8.682
   },
   "handelsblatt": {
-    "city": "Hamburg",
-    "lat": 53.551,
-    "lon": 9.993
+    "city": "Düsseldorf",
+    "lat": 51.227,
+    "lon": 6.773
   },
   "arte.tv": {
     "city": "Strasbourg",
@@ -175,9 +175,9 @@
     "lon": 2.352
   },
   "armando.info": {
-    "city": "Madrid",
-    "lat": 40.417,
-    "lon": -3.703
+    "city": "Caracas",
+    "lat": 10.481,
+    "lon": -66.904
   },
   "yahoo finance": {
     "city": "New York",
@@ -205,9 +205,9 @@
     "lon": -74.006
   },
   "nacionale": {
-    "city": "Porto",
-    "lat": 41.149,
-    "lon": -8.611
+    "city": "Tirana",
+    "lat": 41.328,
+    "lon": 19.818
   },
   "idnfinancials": {
     "city": "Jakarta",
@@ -215,9 +215,9 @@
     "lon": 106.846
   },
   "idl reporteros": {
-    "city": "Bogota",
-    "lat": 4.711,
-    "lon": -74.072
+    "city": "Lima",
+    "lat": -12.046,
+    "lon": -77.043
   },
   "mezha": {
     "city": "Kyiv",
@@ -230,9 +230,9 @@
     "lon": 30.523
   },
   "liga.net": {
-    "city": "Moscow",
-    "lat": 55.756,
-    "lon": 37.617
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
   },
   "腾讯网": {
     "city": "Shenzhen",
@@ -255,14 +255,14 @@
     "lon": -79.383
   },
   "raw story": {
-    "city": "Johannesburg",
-    "lat": -26.204,
-    "lon": 28.047
+    "city": "Washington DC",
+    "lat": 38.907,
+    "lon": -77.037
   },
   "invezz": {
-    "city": "San Francisco",
-    "lat": 37.775,
-    "lon": -122.419
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
   },
   "il sole 24 ore": {
     "city": "Milan",
@@ -270,14 +270,14 @@
     "lon": 9.19
   },
   "lomazoma": {
-    "city": "Madrid",
-    "lat": 40.417,
-    "lon": -3.703
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
   },
   "admirals": {
-    "city": "London",
-    "lat": 51.507,
-    "lon": -0.128
+    "city": "Tallinn",
+    "lat": 59.437,
+    "lon": 24.754
   },
   "traders union": {
     "city": "London",
@@ -285,24 +285,24 @@
     "lon": -0.128
   },
   "антикор": {
-    "city": "Moscow",
-    "lat": 55.756,
-    "lon": 37.617
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
   },
   "важные истории": {
-    "city": "Moscow",
-    "lat": 55.756,
-    "lon": 37.617
+    "city": "Riga",
+    "lat": 56.949,
+    "lon": 24.105
   },
   "malaysiakini": {
-    "city": "KualaLumpur",
+    "city": "Kuala Lumpur",
     "lat": 3.139,
     "lon": 101.687
   },
   "canal 9 bío bío televisión": {
-    "city": "Santiago",
-    "lat": -33.449,
-    "lon": -70.668
+    "city": "Concepción",
+    "lat": -36.827,
+    "lon": -73.05
   },
   "ghana business news": {
     "city": "Accra",
@@ -310,24 +310,24 @@
     "lon": -0.187
   },
   "follow the money - platform for investigative journalism": {
-    "city": "Berlin",
-    "lat": 52.52,
-    "lon": 13.405
+    "city": "Amsterdam",
+    "lat": 52.37,
+    "lon": 4.895
   },
   "082noticias.com": {
-    "city": "Madrid",
-    "lat": 40.417,
-    "lon": -3.703
+    "city": "Maceió",
+    "lat": -9.665,
+    "lon": -35.735
   },
   "elciudadano.com": {
-    "city": "Madrid",
-    "lat": 40.417,
-    "lon": -3.703
+    "city": "Santiago",
+    "lat": -33.449,
+    "lon": -70.668
   },
   "شبكة تواصل الإخبارية": {
-    "city": "Dubai",
-    "lat": 25.205,
-    "lon": 55.271
+    "city": "Riyadh",
+    "lat": 24.713,
+    "lon": 46.675
   },
   "investing.com": {
     "city": "New York",
@@ -385,9 +385,9 @@
     "lon": 9.993
   },
   "börse express": {
-    "city": "Berlin",
-    "lat": 52.52,
-    "lon": 13.405
+    "city": "Vienna",
+    "lat": 48.208,
+    "lon": 16.373
   },
   "diepresse.com": {
     "city": "Vienna",
@@ -395,9 +395,9 @@
     "lon": 16.373
   },
   "finanzen.net": {
-    "city": "Berlin",
-    "lat": 52.52,
-    "lon": 13.405
+    "city": "Karlsruhe",
+    "lat": 49.007,
+    "lon": 8.404
   },
   "easybourse": {
     "city": "Paris",
@@ -405,9 +405,9 @@
     "lon": 2.352
   },
   "agefi.com": {
-    "city": "Paris",
-    "lat": 48.857,
-    "lon": 2.352
+    "city": "Geneva",
+    "lat": 46.204,
+    "lon": 6.143
   },
   "francetransactions.com": {
     "city": "Paris",
@@ -415,9 +415,9 @@
     "lon": 2.352
   },
   "gigazine": {
-    "city": "Tokyo",
-    "lat": 35.68,
-    "lon": 139.652
+    "city": "Osaka",
+    "lat": 34.694,
+    "lon": 135.502
   },
   "firstpost": {
     "city": "New Delhi",
@@ -425,9 +425,9 @@
     "lon": 77.209
   },
   "forbes": {
-    "city": "London",
-    "lat": 51.507,
-    "lon": -0.128
+    "city": "New York",
+    "lat": 40.713,
+    "lon": -74.006
   },
   "the new york times": {
     "city": "New York",
@@ -480,14 +480,14 @@
     "lon": 55.271
   },
   "al-bawaba": {
-    "city": "Riyadh",
-    "lat": 24.714,
-    "lon": 46.675
+    "city": "Amman",
+    "lat": 31.954,
+    "lon": 35.911
   },
   "العين الإخبارية": {
-    "city": "Dubai",
-    "lat": 25.205,
-    "lon": 55.271
+    "city": "Abu Dhabi",
+    "lat": 24.454,
+    "lon": 54.377
   },
   "العربية": {
     "city": "Dubai",
@@ -505,14 +505,14 @@
     "lon": 55.271
   },
   "إيلاف": {
-    "city": "Amman",
-    "lat": 31.956,
-    "lon": 35.915
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
   },
   "عرب 48": {
-    "city": "Amman",
-    "lat": 31.956,
-    "lon": 35.915
+    "city": "Haifa",
+    "lat": 32.794,
+    "lon": 34.99
   },
   "المصري اليوم": {
     "city": "Cairo",
@@ -525,14 +525,14 @@
     "lon": 31.236
   },
   "مونت كارلو الدولية": {
-    "city": "Beirut",
-    "lat": 33.894,
-    "lon": 35.502
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
   },
   "فلسطين أون لاين": {
-    "city": "Ramallah",
-    "lat": 31.9,
-    "lon": 35.23
+    "city": "Gaza",
+    "lat": 31.502,
+    "lon": 34.467
   },
   "cnbc": {
     "city": "New York",
@@ -590,22 +590,22 @@
     "lon": 2.352
   },
   "marketplace.org": {
-    "city": "Kansas City",
-    "lat": 39.103,
-    "lon": -94.578
+    "city": "Los Angeles",
+    "lat": 34.052,
+    "lon": -118.244
   },
   "marketplace": {
-    "city": "Kansas City",
-    "lat": 39.103,
-    "lon": -94.578
+    "city": "Los Angeles",
+    "lat": 34.052,
+    "lon": -118.244
   },
   "g1": {
-    "city": "Rio",
+    "city": "Rio de Janeiro",
     "lat": -22.907,
     "lon": -43.173
   },
   "o globo": {
-    "city": "Rio",
+    "city": "Rio de Janeiro",
     "lat": -22.907,
     "lon": -43.173
   },
@@ -620,27 +620,27 @@
     "lon": -46.633
   },
   "rse magazine": {
-    "city": "Seville",
-    "lat": 37.389,
-    "lon": -5.984
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
   },
   "colombiaone.com": {
-    "city": "Bogota",
+    "city": "Bogotá",
     "lat": 4.711,
     "lon": -74.072
   },
   "minutouno.com": {
-    "city": "Bogota",
-    "lat": 4.711,
-    "lon": -74.072
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
   },
   "infobae": {
-    "city": "BuenosAires",
+    "city": "Buenos Aires",
     "lat": -34.604,
     "lon": -58.382
   },
   "perfil": {
-    "city": "BuenosAires",
+    "city": "Buenos Aires",
     "lat": -34.604,
     "lon": -58.382
   },
@@ -650,17 +650,17 @@
     "lon": -56.165
   },
   "canal26": {
-    "city": "Córdoba AR",
-    "lat": -31.309,
-    "lon": -64.183
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
   },
   "forbes argentina": {
-    "city": "BuenosAires",
+    "city": "Buenos Aires",
     "lat": -34.604,
     "lon": -58.382
   },
   "forbes centroamérica": {
-    "city": "San Jose",
+    "city": "San José",
     "lat": 9.928,
     "lon": -84.083
   },
@@ -675,9 +675,9 @@
     "lon": -69.931
   },
   "notisistema": {
-    "city": "Santo Domingo",
-    "lat": 18.486,
-    "lon": -69.931
+    "city": "Guadalajara",
+    "lat": 20.659,
+    "lon": -103.349
   },
   "milenio": {
     "city": "Mexico City",
@@ -685,19 +685,19 @@
     "lon": -99.133
   },
   "expansión": {
-    "city": "Mexico City",
-    "lat": 19.433,
-    "lon": -99.133
+    "city": "Madrid",
+    "lat": 40.417,
+    "lon": -3.703
   },
   "el español": {
-    "city": "Mexico City",
-    "lat": 19.433,
-    "lon": -99.133
+    "city": "Madrid",
+    "lat": 40.417,
+    "lon": -3.703
   },
   "el debate": {
-    "city": "Mexico City",
-    "lat": 19.433,
-    "lon": -99.133
+    "city": "Madrid",
+    "lat": 40.417,
+    "lon": -3.703
   },
   "el periódico de aragón": {
     "city": "Zaragoza",
@@ -715,32 +715,32 @@
     "lon": 2.169
   },
   "el armadillo": {
-    "city": "Madrid",
-    "lat": 40.417,
-    "lon": -3.703
+    "city": "Bogotá",
+    "lat": 4.711,
+    "lon": -74.072
   },
   "el ágora digital": {
-    "city": "Madrid",
-    "lat": 40.417,
-    "lon": -3.703
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
   },
   "política obrera": {
-    "city": "Madrid",
-    "lat": 40.417,
-    "lon": -3.703
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
   },
   "política argentina": {
-    "city": "BuenosAires",
+    "city": "Buenos Aires",
     "lat": -34.604,
     "lon": -58.382
   },
   "el destape": {
-    "city": "Bogota",
-    "lat": 4.711,
-    "lon": -74.072
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
   },
   "noticias caracol": {
-    "city": "Bogota",
+    "city": "Bogotá",
     "lat": 4.711,
     "lon": -74.072
   },
@@ -750,29 +750,29 @@
     "lon": -99.133
   },
   "criptotendencia": {
-    "city": "Mexico City",
-    "lat": 19.433,
-    "lon": -99.133
+    "city": "Caracas",
+    "lat": 10.481,
+    "lon": -66.904
   },
   "consumidor global": {
-    "city": "Mexico City",
-    "lat": 19.433,
-    "lon": -99.133
+    "city": "Barcelona",
+    "lat": 41.385,
+    "lon": 2.173
   },
   "gente de salta": {
-    "city": "Salta AR",
+    "city": "Salta",
     "lat": -24.787,
     "lon": -65.412
   },
   "avozdocampo": {
-    "city": "BuenosAires",
-    "lat": -34.604,
-    "lon": -58.382
+    "city": "São Paulo",
+    "lat": -23.55,
+    "lon": -46.633
   },
   "no ficción": {
-    "city": "BuenosAires",
-    "lat": -34.604,
-    "lon": -58.382
+    "city": "Guatemala City",
+    "lat": 14.634,
+    "lon": -90.506
   },
   "noticias de gipuzkoa": {
     "city": "San Sebastian",
@@ -780,7 +780,7 @@
     "lon": -1.981
   },
   "halcones y palomas": {
-    "city": "Sevilla",
+    "city": "Seville",
     "lat": 37.389,
     "lon": -5.984
   },
@@ -795,8 +795,1333 @@
     "lon": -3.703
   },
   "el correo": {
+    "city": "Bilbao",
+    "lat": 43.263,
+    "lon": -2.935
+  },
+  "biggo finance": {
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "24/7 wall st.": {
+    "city": "New York",
+    "lat": 40.713,
+    "lon": -74.006
+  },
+  "aml intelligence": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "briefs finance": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "correio da manhã canadá": {
+    "city": "Toronto",
+    "lat": 43.653,
+    "lon": -79.383
+  },
+  "courrier international": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "diario socialista": {
+    "city": "Madrid",
+    "lat": 40.417,
+    "lon": -3.703
+  },
+  "el boletín": {
+    "city": "Madrid",
+    "lat": 40.417,
+    "lon": -3.703
+  },
+  "gazeta express": {
+    "city": "Pristina",
+    "lat": 42.663,
+    "lon": 21.165
+  },
+  "hindustan times": {
+    "city": "New Delhi",
+    "lat": 28.614,
+    "lon": 77.209
+  },
+  "investing.com españa": {
+    "city": "Madrid",
+    "lat": 40.417,
+    "lon": -3.703
+  },
+  "knews, kathimerini": {
+    "city": "Nicosia",
+    "lat": 35.186,
+    "lon": 33.382
+  },
+  "modern ghana": {
+    "city": "Accra",
+    "lat": 5.603,
+    "lon": -0.187
+  },
+  "notizie geopolitiche": {
+    "city": "Rome",
+    "lat": 41.9,
+    "lon": 12.496
+  },
+  "philenews": {
+    "city": "Nicosia",
+    "lat": 35.186,
+    "lon": 33.382
+  },
+  "the news minute": {
+    "city": "Bengaluru",
+    "lat": 12.972,
+    "lon": 77.594
+  },
+  "finews.com": {
+    "city": "Zurich",
+    "lat": 47.377,
+    "lon": 8.541
+  },
+  "格隆汇": {
+    "city": "Shenzhen",
+    "lat": 22.543,
+    "lon": 114.058
+  },
+  "24 news hd": {
+    "city": "Lahore",
+    "lat": 31.549,
+    "lon": 74.344
+  },
+  "2duerighe": {
+    "city": "Rome",
+    "lat": 41.9,
+    "lon": 12.496
+  },
+  "617 news": {
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
+  },
+  "ansa latina": {
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
+  },
+  "aol.com": {
+    "city": "New York",
+    "lat": 40.713,
+    "lon": -74.006
+  },
+  "actu crypto .info": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "adnkronos": {
+    "city": "Rome",
+    "lat": 41.9,
+    "lon": 12.496
+  },
+  "agenzia nova": {
+    "city": "Rome",
+    "lat": 41.9,
+    "lon": 12.496
+  },
+  "aktualita.co": {
+    "city": "Pristina",
+    "lat": 42.663,
+    "lon": 21.165
+  },
+  "ambito": {
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
+  },
+  "around prague": {
+    "city": "Prague",
+    "lat": 50.076,
+    "lon": 14.438
+  },
+  "articolo21": {
+    "city": "Rome",
+    "lat": 41.9,
+    "lon": 12.496
+  },
+  "asbarez": {
+    "city": "Los Angeles",
+    "lat": 34.052,
+    "lon": -118.244
+  },
+  "asia times": {
+    "city": "Hong Kong",
+    "lat": 22.32,
+    "lon": 114.169
+  },
+  "azernews": {
+    "city": "Baku",
+    "lat": 40.409,
+    "lon": 49.867
+  },
+  "bes.media": {
+    "city": "Almaty",
+    "lat": 43.238,
+    "lon": 76.946
+  },
+  "bfmtv": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "bangkok post": {
+    "city": "Bangkok",
+    "lat": 13.756,
+    "lon": 100.502
+  },
+  "basler zeitung via msn": {
+    "city": "Basel",
+    "lat": 47.56,
+    "lon": 7.589
+  },
+  "big news network.com": {
+    "city": "Sydney",
+    "lat": -33.869,
+    "lon": 151.209
+  },
+  "billionaires.africa": {
+    "city": "Lagos",
+    "lat": 6.524,
+    "lon": 3.379
+  },
+  "biobiochile": {
+    "city": "Concepción",
+    "lat": -36.827,
+    "lon": -73.05
+  },
+  "blockonomi": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "business standard": {
+    "city": "New Delhi",
+    "lat": 28.614,
+    "lon": 77.209
+  },
+  "businesstoday malaysia": {
+    "city": "Kuala Lumpur",
+    "lat": 3.139,
+    "lon": 101.687
+  },
+  "chacodiapordia.com": {
+    "city": "Resistencia",
+    "lat": -27.451,
+    "lon": -58.987
+  },
+  "cinco días": {
+    "city": "Madrid",
+    "lat": 40.417,
+    "lon": -3.703
+  },
+  "citywire": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "coinpedia": {
+    "city": "Bengaluru",
+    "lat": 12.972,
+    "lon": 77.594
+  },
+  "common dreams": {
+    "city": "Boston",
+    "lat": 42.36,
+    "lon": -71.059
+  },
+  "compliance week": {
+    "city": "Boston",
+    "lat": 42.36,
+    "lon": -71.059
+  },
+  "counterview": {
+    "city": "Ahmedabad",
+    "lat": 23.023,
+    "lon": 72.571
+  },
+  "cyprus mail": {
+    "city": "Nicosia",
+    "lat": 35.186,
+    "lon": 33.382
+  },
+  "daily pakistan english news": {
+    "city": "Lahore",
+    "lat": 31.549,
+    "lon": 74.344
+  },
+  "daily pioneer": {
+    "city": "New Delhi",
+    "lat": 28.614,
+    "lon": 77.209
+  },
+  "dailymotion via msn": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "dainik jagran mp cg": {
+    "city": "Raipur",
+    "lat": 21.251,
+    "lon": 81.63
+  },
+  "das verbraucherschutzforum": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "dawn": {
+    "city": "Karachi",
+    "lat": 24.861,
+    "lon": 67.01
+  },
+  "dawn epaper": {
+    "city": "Karachi",
+    "lat": 24.861,
+    "lon": 67.01
+  },
+  "denkstrom": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "detafour": {
+    "city": "Cairo",
+    "lat": 30.044,
+    "lon": 31.236
+  },
+  "detafour.com": {
+    "city": "Cairo",
+    "lat": 30.044,
+    "lon": 31.236
+  },
+  "deutsche bank ag": {
+    "city": "Frankfurt",
+    "lat": 50.11,
+    "lon": 8.682
+  },
+  "digg": {
+    "city": "San Francisco",
+    "lat": 37.775,
+    "lon": -122.419
+  },
+  "disruption banking": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "eadaily": {
+    "city": "Moscow",
+    "lat": 55.756,
+    "lon": 37.617
+  },
+  "el ceo": {
     "city": "Mexico City",
     "lat": 19.433,
     "lon": -99.133
+  },
+  "eualive": {
+    "city": "Brussels",
+    "lat": 50.85,
+    "lon": 4.352
+  },
+  "el cierre digital": {
+    "city": "Madrid",
+    "lat": 40.417,
+    "lon": -3.703
+  },
+  "el mostrador": {
+    "city": "Santiago",
+    "lat": -33.449,
+    "lon": -70.668
+  },
+  "el periodista": {
+    "city": "Santiago",
+    "lat": -33.449,
+    "lon": -70.668
+  },
+  "esquire": {
+    "city": "New York",
+    "lat": 40.713,
+    "lon": -74.006
+  },
+  "exclusive.kz": {
+    "city": "Almaty",
+    "lat": 43.238,
+    "lon": 76.946
+  },
+  "expats.cz": {
+    "city": "Prague",
+    "lat": 50.076,
+    "lon": 14.438
+  },
+  "firstonline": {
+    "city": "Rome",
+    "lat": 41.9,
+    "lon": 12.496
+  },
+  "fx168财经网": {
+    "city": "Shanghai",
+    "lat": 31.23,
+    "lon": 121.474
+  },
+  "fxmag": {
+    "city": "Warsaw",
+    "lat": 52.23,
+    "lon": 21.012
+  },
+  "facebook": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "fakti.bg": {
+    "city": "Sofia",
+    "lat": 42.698,
+    "lon": 23.322
+  },
+  "forbes middle east": {
+    "city": "Dubai",
+    "lat": 25.205,
+    "lon": 55.271
+  },
+  "forbes.kz": {
+    "city": "Almaty",
+    "lat": 43.238,
+    "lon": 76.946
+  },
+  "free malaysia today": {
+    "city": "Petaling Jaya",
+    "lat": 3.107,
+    "lon": 101.607
+  },
+  "global investigative journalism network (gijn)": {
+    "city": "Washington DC",
+    "lat": 38.907,
+    "lon": -77.037
+  },
+  "hipócrita lector": {
+    "city": "Madrid",
+    "lat": 40.417,
+    "lon": -3.703
+  },
+  "idaho public press": {
+    "city": "Boise",
+    "lat": 43.615,
+    "lon": -116.202
+  },
+  "il globo": {
+    "city": "Melbourne",
+    "lat": -37.814,
+    "lon": 144.963
+  },
+  "inforesist": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "inshorts": {
+    "city": "New Delhi",
+    "lat": 28.614,
+    "lon": 77.209
+  },
+  "international business times": {
+    "city": "New York",
+    "lat": 40.713,
+    "lon": -74.006
+  },
+  "international business times singapore": {
+    "city": "Singapore",
+    "lat": 1.352,
+    "lon": 103.82
+  },
+  "investmentweek": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "jamnews": {
+    "city": "Tbilisi",
+    "lat": 41.716,
+    "lon": 44.783
+  },
+  "jeune afrique": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "journalarta": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "juriguide": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "kölner stadt-anzeiger via msn": {
+    "city": "Cologne",
+    "lat": 50.938,
+    "lon": 6.96
+  },
+  "l'essentiel": {
+    "city": "Luxembourg",
+    "lat": 49.612,
+    "lon": 6.13
+  },
+  "la17": {
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
+  },
+  "line today": {
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "la república": {
+    "city": "Lima",
+    "lat": -12.046,
+    "lon": -77.043
+  },
+  "la veu lliure": {
+    "city": "Andorra la Vella",
+    "lat": 42.506,
+    "lon": 1.522
+  },
+  "lanature.ca via msn": {
+    "city": "Montreal",
+    "lat": 45.502,
+    "lon": -73.567
+  },
+  "larepublica.co": {
+    "city": "Bogotá",
+    "lat": 4.711,
+    "lon": -74.072
+  },
+  "latest news from azerbaijan": {
+    "city": "Baku",
+    "lat": 40.409,
+    "lon": 49.867
+  },
+  "le dauphiné libéré": {
+    "city": "Grenoble",
+    "lat": 45.188,
+    "lon": 5.724
+  },
+  "le devoir": {
+    "city": "Montreal",
+    "lat": 45.502,
+    "lon": -73.567
+  },
+  "le journal de montréal": {
+    "city": "Montreal",
+    "lat": 45.502,
+    "lon": -73.567
+  },
+  "le monde moderne": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "le revenu": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "libnanews": {
+    "city": "Beirut",
+    "lat": 33.894,
+    "lon": 35.502
+  },
+  "linkedin": {
+    "city": "Rome",
+    "lat": 41.9,
+    "lon": 12.496
+  },
+  "lo strillone": {
+    "city": "Rome",
+    "lat": 41.9,
+    "lon": 12.496
+  },
+  "los primeros tv": {
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
+  },
+  "los ángeles press": {
+    "city": "Mexico City",
+    "lat": 19.433,
+    "lon": -99.133
+  },
+  "luxembourg times": {
+    "city": "Luxembourg",
+    "lat": 49.612,
+    "lon": 6.13
+  },
+  "luxemburger wort": {
+    "city": "Luxembourg",
+    "lat": 49.612,
+    "lon": 6.13
+  },
+  "lynnwood times": {
+    "city": "Lynnwood",
+    "lat": 47.821,
+    "lon": -122.315
+  },
+  "mignews": {
+    "city": "Tel Aviv",
+    "lat": 32.085,
+    "lon": 34.782
+  },
+  "mlq.ai": {
+    "city": "Toronto",
+    "lat": 43.653,
+    "lon": -79.383
+  },
+  "maktoob": {
+    "city": "New Delhi",
+    "lat": 28.614,
+    "lon": 77.209
+  },
+  "marianne": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "mathrubhumi english": {
+    "city": "Kochi",
+    "lat": 9.931,
+    "lon": 76.267
+  },
+  "mediaterranee.com": {
+    "city": "Marseille",
+    "lat": 43.296,
+    "lon": 5.369
+  },
+  "mejor informado": {
+    "city": "Mendoza",
+    "lat": -32.889,
+    "lon": -68.845
+  },
+  "mi bolsillo": {
+    "city": "Guatemala City",
+    "lat": 14.634,
+    "lon": -90.506
+  },
+  "milano finanza": {
+    "city": "Milan",
+    "lat": 45.464,
+    "lon": 9.19
+  },
+  "millat times": {
+    "city": "New Delhi",
+    "lat": 28.614,
+    "lon": 77.209
+  },
+  "money.bg": {
+    "city": "Sofia",
+    "lat": 42.698,
+    "lon": 23.322
+  },
+  "monitor expresso": {
+    "city": "Santo Domingo",
+    "lat": 18.486,
+    "lon": -69.931
+  },
+  "myanmar now": {
+    "city": "Yangon",
+    "lat": 16.84,
+    "lon": 96.173
+  },
+  "n digital": {
+    "city": "Santo Domingo",
+    "lat": 18.486,
+    "lon": -69.931
+  },
+  "nai500": {
+    "city": "Hong Kong",
+    "lat": 22.32,
+    "lon": 114.169
+  },
+  "news.israelinfo.co.il": {
+    "city": "Tel Aviv",
+    "lat": 32.085,
+    "lon": 34.782
+  },
+  "newsru.co.il": {
+    "city": "Tel Aviv",
+    "lat": 32.085,
+    "lon": 34.782
+  },
+  "nvi noticias": {
+    "city": "Oaxaca",
+    "lat": 17.073,
+    "lon": -96.726
+  },
+  "national business": {
+    "city": "Astana",
+    "lat": 51.169,
+    "lon": 71.449
+  },
+  "netra news": {
+    "city": "Dhaka",
+    "lat": 23.81,
+    "lon": 90.413
+  },
+  "news telegraf": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "news.az": {
+    "city": "Baku",
+    "lat": 40.409,
+    "lon": 49.867
+  },
+  "news24": {
+    "city": "Johannesburg",
+    "lat": -26.204,
+    "lon": 28.047
+  },
+  "newsbytes": {
+    "city": "Bengaluru",
+    "lat": 12.972,
+    "lon": 77.594
+  },
+  "newscord": {
+    "city": "New York",
+    "lat": 40.713,
+    "lon": -74.006
+  },
+  "newswav": {
+    "city": "Kuala Lumpur",
+    "lat": 3.139,
+    "lon": 101.687
+  },
+  "nice-matin": {
+    "city": "Nice",
+    "lat": 43.71,
+    "lon": 7.262
+  },
+  "oc media": {
+    "city": "Tbilisi",
+    "lat": 41.716,
+    "lon": 44.783
+  },
+  "oninvest": {
+    "city": "Riga",
+    "lat": 56.949,
+    "lon": 24.105
+  },
+  "open": {
+    "city": "Milan",
+    "lat": 45.464,
+    "lon": 9.19
+  },
+  "oxu.az": {
+    "city": "Baku",
+    "lat": 40.409,
+    "lon": 49.867
+  },
+  "pr agent | media": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "pluang": {
+    "city": "Jakarta",
+    "lat": -6.209,
+    "lon": 106.846
+  },
+  "portail des médias indépendants": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "quotidiano nazionale": {
+    "city": "Rome",
+    "lat": 41.9,
+    "lon": 12.496
+  },
+  "rtl today": {
+    "city": "Luxembourg",
+    "lat": 49.612,
+    "lon": 6.13
+  },
+  "radar online": {
+    "city": "New York",
+    "lat": 40.713,
+    "lon": -74.006
+  },
+  "radio prague international": {
+    "city": "Prague",
+    "lat": 50.076,
+    "lon": 14.438
+  },
+  "ratopati": {
+    "city": "Kathmandu",
+    "lat": 27.717,
+    "lon": 85.324
+  },
+  "report.az": {
+    "city": "Baku",
+    "lat": 40.409,
+    "lon": 49.867
+  },
+  "report24": {
+    "city": "Vienna",
+    "lat": 48.208,
+    "lon": 16.373
+  },
+  "revista mercado": {
+    "city": "Santo Domingo",
+    "lat": 18.486,
+    "lon": -69.931
+  },
+  "rolling out": {
+    "city": "Atlanta",
+    "lat": 33.749,
+    "lon": -84.388
+  },
+  "runet.news": {
+    "city": "Moscow",
+    "lat": 55.756,
+    "lon": 37.617
+  },
+  "rus.postimees.ee": {
+    "city": "Tallinn",
+    "lat": 59.437,
+    "lon": 24.754
+  },
+  "san marino rtv": {
+    "city": "San Marino",
+    "lat": 43.936,
+    "lon": 12.447
+  },
+  "semafor": {
+    "city": "New York",
+    "lat": 40.713,
+    "lon": -74.006
+  },
+  "sharecast.com": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "startupitalia": {
+    "city": "Milan",
+    "lat": 45.464,
+    "lon": 9.19
+  },
+  "suaragarut.id": {
+    "city": "Garut",
+    "lat": -7.227,
+    "lon": 107.909
+  },
+  "table.briefings": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "table.media": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "tax justice network": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "the africa report": {
+    "city": "Paris",
+    "lat": 48.857,
+    "lon": 2.352
+  },
+  "the business standard": {
+    "city": "Dhaka",
+    "lat": 23.81,
+    "lon": 90.413
+  },
+  "the daily news | texas' oldest newspaper": {
+    "city": "Galveston",
+    "lat": 29.301,
+    "lon": -94.798
+  },
+  "the edge malaysia": {
+    "city": "Kuala Lumpur",
+    "lat": 3.139,
+    "lon": 101.687
+  },
+  "the globe and mail": {
+    "city": "Toronto",
+    "lat": 43.653,
+    "lon": -79.383
+  },
+  "the paypers": {
+    "city": "Amsterdam",
+    "lat": 52.37,
+    "lon": 4.895
+  },
+  "the tenge": {
+    "city": "Almaty",
+    "lat": 43.238,
+    "lon": 76.946
+  },
+  "the times": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "thebanker.com": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "thought catalog": {
+    "city": "New York",
+    "lat": 40.713,
+    "lon": -74.006
+  },
+  "tiempo de san juan": {
+    "city": "San Juan",
+    "lat": -31.537,
+    "lon": -68.536
+  },
+  "tirto.id": {
+    "city": "Jakarta",
+    "lat": -6.209,
+    "lon": 106.846
+  },
+  "touchpoint news": {
+    "city": "Milan",
+    "lat": 45.464,
+    "lon": 9.19
+  },
+  "tradingkey": {
+    "city": "Hong Kong",
+    "lat": 22.32,
+    "lon": 114.169
+  },
+  "transparency international": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "trending topics": {
+    "city": "Vienna",
+    "lat": 48.208,
+    "lon": 16.373
+  },
+  "tribuna.com": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "türkiye today": {
+    "city": "Istanbul",
+    "lat": 41.008,
+    "lon": 28.978
+  },
+  "united24 media": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "vinnews": {
+    "city": "New York",
+    "lat": 40.713,
+    "lon": -74.006
+  },
+  "vesti.az": {
+    "city": "Baku",
+    "lat": 40.409,
+    "lon": 49.867
+  },
+  "vesti.bg": {
+    "city": "Sofia",
+    "lat": 42.698,
+    "lon": 23.322
+  },
+  "vietnam.vn": {
+    "city": "Hanoi",
+    "lat": 21.028,
+    "lon": 105.834
+  },
+  "virgule.lu": {
+    "city": "Luxembourg",
+    "lat": 49.612,
+    "lon": 6.13
+  },
+  "vlast.kz": {
+    "city": "Almaty",
+    "lat": 43.238,
+    "lon": 76.946
+  },
+  "wall street italia": {
+    "city": "Milan",
+    "lat": 45.464,
+    "lon": 9.19
+  },
+  "we wealth": {
+    "city": "Milan",
+    "lat": 45.464,
+    "lon": 9.19
+  },
+  "xtb.com": {
+    "city": "Warsaw",
+    "lat": 52.23,
+    "lon": 21.012
+  },
+  "ynetnews": {
+    "city": "Tel Aviv",
+    "lat": 32.085,
+    "lon": 34.782
+  },
+  "zn.ua": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "cj": {
+    "city": "Beijing",
+    "lat": 39.904,
+    "lon": 116.407
+  },
+  "corrierenazionale": {
+    "city": "Rome",
+    "lat": 41.9,
+    "lon": 12.496
+  },
+  "ctol.digital": {
+    "city": "Singapore",
+    "lat": 1.352,
+    "lon": 103.82
+  },
+  "enca": {
+    "city": "Johannesburg",
+    "lat": -26.204,
+    "lon": 28.047
+  },
+  "eldiario.es": {
+    "city": "Madrid",
+    "lat": 40.417,
+    "lon": -3.703
+  },
+  "finchannel": {
+    "city": "Athens",
+    "lat": 37.984,
+    "lon": 23.728
+  },
+  "freebeacon.com": {
+    "city": "Washington DC",
+    "lat": 38.907,
+    "lon": -77.037
+  },
+  "https://theins.press/en": {
+    "city": "Riga",
+    "lat": 56.949,
+    "lon": 24.105
+  },
+  "iprofesional": {
+    "city": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382
+  },
+  "il mitte": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "inkl": {
+    "city": "Melbourne",
+    "lat": -37.814,
+    "lon": 144.963
+  },
+  "kucoin": {
+    "city": "Singapore",
+    "lat": 1.352,
+    "lon": 103.82
+  },
+  "laquotidienne.ma": {
+    "city": "Casablanca",
+    "lat": 33.573,
+    "lon": -7.59
+  },
+  "mares media se": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "nachrichten-heute": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "news.telegraf": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "note": {
+    "city": "Tokyo",
+    "lat": 35.676,
+    "lon": 139.65
+  },
+  "paradigma.uz": {
+    "city": "Tashkent",
+    "lat": 41.3,
+    "lon": 69.24
+  },
+  "pogliad.com": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "rus tvnet": {
+    "city": "Riga",
+    "lat": 56.949,
+    "lon": 24.105
+  },
+  "shattered.io": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "swikblog": {
+    "city": "New Delhi",
+    "lat": 28.614,
+    "lon": 77.209
+  },
+  "thetrumpet.com": {
+    "city": "Edmond",
+    "lat": 35.653,
+    "lon": -97.478
+  },
+  "upi": {
+    "city": "Washington DC",
+    "lat": 38.907,
+    "lon": -77.037
+  },
+  "vreme.com": {
+    "city": "Belgrade",
+    "lat": 44.787,
+    "lon": 20.457
+  },
+  "wap.cj": {
+    "city": "Beijing",
+    "lat": 39.904,
+    "lon": 116.407
+  },
+  "wirtschaft tv": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "www.trendingtopics.eu": {
+    "city": "Vienna",
+    "lat": 48.208,
+    "lon": 16.373
+  },
+  "азаттык азия": {
+    "city": "Bishkek",
+    "lat": 42.875,
+    "lon": 74.59
+  },
+  "ак жайык": {
+    "city": "Uralsk",
+    "lat": 51.227,
+    "lon": 51.387
+  },
+  "апостроф": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "бабель": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "деловые ведомости": {
+    "city": "Tallinn",
+    "lat": 59.437,
+    "lon": 24.754
+  },
+  "економічна правда": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "жас алаш": {
+    "city": "Almaty",
+    "lat": 43.238,
+    "lon": 76.946
+  },
+  "израиль на ладони - israelinfo": {
+    "city": "Tel Aviv",
+    "lat": 32.085,
+    "lon": 34.782
+  },
+  "комерсант український": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "медиазона": {
+    "city": "Riga",
+    "lat": 56.949,
+    "lon": 24.105
+  },
+  "мінфін": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "нв бізнес": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "нова телевизия": {
+    "city": "Sofia",
+    "lat": 42.698,
+    "lon": 23.322
+  },
+  "новая газета европа": {
+    "city": "Riga",
+    "lat": 56.949,
+    "lon": 24.105
+  },
+  "радио свобода": {
+    "city": "Prague",
+    "lat": 50.076,
+    "lon": 14.438
+  },
+  "русская служба the moscow times": {
+    "city": "Amsterdam",
+    "lat": 52.37,
+    "lon": 4.895
+  },
+  "слободен печат": {
+    "city": "Skopje",
+    "lat": 41.998,
+    "lon": 21.425
+  },
+  "телеканал «дождь»": {
+    "city": "Amsterdam",
+    "lat": 52.37,
+    "lon": 4.895
+  },
+  "укррудпром": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "фергана - международное агентство новостей": {
+    "city": "Moscow",
+    "lat": 55.756,
+    "lon": 37.617
+  },
+  "фінанси 24": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "экономические новости": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "эхо": {
+    "city": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  "الاستاد الرياضي": {
+    "city": "Rabat",
+    "lat": 34.02,
+    "lon": -6.841
+  },
+  "النشرة": {
+    "city": "Beirut",
+    "lat": 33.894,
+    "lon": 35.502
+  },
+  "برلمان.كوم": {
+    "city": "Rabat",
+    "lat": 34.02,
+    "lon": -6.841
+  },
+  "جريدة المال": {
+    "city": "Cairo",
+    "lat": 30.044,
+    "lon": 31.236
+  },
+  "عربي21": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "عنب بلدي": {
+    "city": "Gaziantep",
+    "lat": 37.066,
+    "lon": 37.383
+  },
+  "نيوز رووم": {
+    "city": "Dubai",
+    "lat": 25.205,
+    "lon": 55.271
+  },
+  "中财网": {
+    "city": "Shenzhen",
+    "lat": 22.543,
+    "lon": 114.058
+  },
+  "信報網站": {
+    "city": "Hong Kong",
+    "lat": 22.32,
+    "lon": 114.169
+  },
+  "当今大马": {
+    "city": "Kuala Lumpur",
+    "lat": 3.139,
+    "lon": 101.687
+  },
+  "搜狐": {
+    "city": "Beijing",
+    "lat": 39.904,
+    "lon": 116.407
+  },
+  "智通财经网": {
+    "city": "Hong Kong",
+    "lat": 22.32,
+    "lon": 114.169
+  },
+  "汇通财经": {
+    "city": "Shanghai",
+    "lat": 31.23,
+    "lon": 121.474
+  },
+  "端傳媒initium media": {
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "風傳媒": {
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
   }
 }

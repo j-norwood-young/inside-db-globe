@@ -6,8 +6,8 @@
     "snippet": "",
     "outlet": "Важные истории",
     "language": "en",
-    "lat": 55.8437,
-    "lon": 37.6952,
+    "lat": 57.0367,
+    "lon": 24.1832,
     "publishedAt": 1794804600000,
     "geoBasis": "outlet"
   },
@@ -18,8 +18,8 @@
     "snippet": "",
     "outlet": "Важные истории",
     "language": "ru",
-    "lat": 55.9142,
-    "lon": 37.766,
+    "lat": 57.1072,
+    "lon": 24.254,
     "publishedAt": 1794804600000,
     "geoBasis": "outlet"
   },
@@ -30,8 +30,8 @@
     "snippet": "По данным утечки, среди клиентов Deutsche Bank было много известных российских миллиардеров: Роман Абрамович, Андрей Мельниченко, Алишер Усманов, Алексей Мордашов, Олег Дерипаска, Геннадий Тимченко и ...",
     "outlet": "Важные истории",
     "language": "ru",
-    "lat": 55.5867,
-    "lon": 37.4823,
+    "lat": 56.7797,
+    "lon": 23.9703,
     "publishedAt": 1794805920000,
     "geoBasis": "outlet"
   },
@@ -67,10 +67,10 @@
     "snippet": "格隆汇11月17日｜德国财政部长：(关于德意志银行泄露事件)德意志银行有责任全面透明地说明其如何处理过往失误和内部控制缺陷，以及未来将如何有效防止此类问题再次发生。(关于德意志银行泄密)独立监管机构有责任继续密切审查此事并采取任何必要行动。",
     "outlet": "格隆汇",
     "language": "zh",
-    "lat": 31.1983,
-    "lon": 121.4517,
+    "lat": 22.5113,
+    "lon": 114.0357,
     "publishedAt": 1794844800000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "ce3517b6",
@@ -104,10 +104,10 @@
     "snippet": "",
     "outlet": "Слободен печат",
     "language": "ru",
-    "lat": 59.8105,
-    "lon": 30.1959,
+    "lat": 41.8745,
+    "lon": 21.2859,
     "publishedAt": 1794852100000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5895ff68",
@@ -242,10 +242,10 @@
     "snippet": "",
     "outlet": "Dawn",
     "language": "en",
-    "lat": 43.7326,
-    "lon": -79.313,
+    "lat": 24.9406,
+    "lon": 67.08,
     "publishedAt": 1794866400000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "78fcf8ba",
@@ -344,10 +344,10 @@
     "snippet": "格隆汇11月17日｜据英国金融时报，举报人泄露了超过1500万份德意志银行（Deutsche Bank）内部文件，揭示了该行的不当行为、系统性失灵、管理层无能、改革承诺落空，以及部分亿万富翁和寡头客户不为人知的秘密。这些文件包括电子邮件、内部调查材料、董事会会议纪要、合规档案和员工聊天记录，为了解该行首席执行官克里斯蒂安·泽温（Christian Sewing）的职业经历和领导风格提供了新的视角。",
     "outlet": "格隆汇",
     "language": "zh",
-    "lat": 31.3818,
-    "lon": 121.6164,
+    "lat": 22.6948,
+    "lon": 114.2004,
     "publishedAt": 1794868926000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b9b10548",
@@ -369,10 +369,10 @@
     "snippet": "",
     "outlet": "Mediaterranee.com",
     "language": "fr",
-    "lat": 50.8877,
-    "lon": 4.3991,
+    "lat": 43.3337,
+    "lon": 5.4161,
     "publishedAt": 1794870780000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "08d90ef1",
@@ -393,8 +393,8 @@
     "snippet": "في 30 مارس/آذار 2017، وبعد أسابيع من بدء دونالد ترامب ولايته الأولى، أرسل موظف في «دويتشه بنك» بالخطأ إلى محاسب أحد العملاء ملفا يضم كشوف نهاية العام الضريبية لـ1586 حسابا مصرفيا، بينها حساب الرئيس ال ...",
     "outlet": "العين الإخبارية",
     "language": "ar",
-    "lat": 25.0245,
-    "lon": 55.1247,
+    "lat": 24.2735,
+    "lon": 54.2307,
     "publishedAt": 1794872640000,
     "geoBasis": "outlet"
   },
@@ -504,10 +504,10 @@
     "snippet": "",
     "outlet": "vreme.com",
     "language": "en",
-    "lat": 40.6108,
-    "lon": -74.0676,
+    "lat": 44.6848,
+    "lon": 20.3954,
     "publishedAt": 1794874200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c02f0f38",
@@ -529,10 +529,10 @@
     "snippet": "",
     "outlet": "Newswav",
     "language": "en",
-    "lat": 40.8348,
-    "lon": -73.8686,
+    "lat": 3.2608,
+    "lon": 101.8244,
     "publishedAt": 1794875520000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "93331609",
@@ -645,10 +645,10 @@
     "snippet": "Transparency International calls for investigations into alleged money laundering failures at Deutsche Bank following the Inside Deutsche Bank revelations.",
     "outlet": "Transparency International",
     "language": "en",
-    "lat": -33.9067,
-    "lon": 151.1558,
+    "lat": 52.4823,
+    "lon": 13.3518,
     "publishedAt": 1794878100000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "d83950c9",
@@ -657,10 +657,10 @@
     "snippet": "",
     "outlet": "eNCA",
     "language": "en",
-    "lat": -33.9515,
-    "lon": 151.1611,
+    "lat": -26.2865,
+    "lon": 27.9991,
     "publishedAt": 1794879360000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "095e719b",
@@ -695,10 +695,10 @@
     "snippet": "A data leak involving around 15 million internal documents is putting Deutsche Bank under pressure. Particularly sensitive are the revelations about its Swiss business: the bank serviced numerous ...",
     "outlet": "finews.com",
     "language": "en",
-    "lat": 43.4917,
-    "lon": -79.535,
+    "lat": 47.2157,
+    "lon": 8.389,
     "publishedAt": 1794880680000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "dee65b30",
@@ -707,10 +707,10 @@
     "snippet": "",
     "outlet": "The News Minute",
     "language": "en",
-    "lat": 43.5721,
-    "lon": -79.4795,
+    "lat": 12.8911,
+    "lon": 77.4975,
     "publishedAt": 1794881940000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "3373d49f",
@@ -770,10 +770,10 @@
     "snippet": "",
     "outlet": "Oninvest",
     "language": "ru",
-    "lat": 60.0873,
-    "lon": 30.4478,
+    "lat": 57.1023,
+    "lon": 24.2178,
     "publishedAt": 1794883920000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "fee3f1c8",
@@ -795,10 +795,10 @@
     "snippet": "",
     "outlet": "PR Agent | Media",
     "language": "de",
-    "lat": 48.0849,
-    "lon": 11.5383,
+    "lat": 52.4679,
+    "lon": 13.3683,
     "publishedAt": 1794884340000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "024105f5",
@@ -807,10 +807,10 @@
     "snippet": "La banque allemande Deutsche Bank a interrompu en 2018 sa coopération avec trois banques tchèques, craignant que celles-ci servent de relais à des flux financiers opaques provenant d’entités établies ...",
     "outlet": "Radio Prague International",
     "language": "fr",
-    "lat": 45.7203,
-    "lon": 4.782,
+    "lat": 50.0323,
+    "lon": 14.385,
     "publishedAt": 1794884580000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "1705f995",
@@ -819,10 +819,10 @@
     "snippet": "银行是什么？无非是一台将信心转化为信用的机器。当这种信心从内部被撕裂，资产负债表或许仍能照常打印，但这家机构已开始像一座螺栓正一颗颗松动的桥。这正是逾1500万份德意志银行内部文件泄露所带来的丑陋教训：危险不仅在于所描述的违规行为，更在于一家大型银行竟能学会与自身的警示灯共处。 这批文件汇集了电子邮件、董事会会议纪要、合规档案和聊天记录，由两名举报人分享给记者Josy Joseph和Khadija ...",
     "outlet": "NAI500",
     "language": "zh",
-    "lat": 40.0729,
-    "lon": 116.5852,
+    "lat": 22.4889,
+    "lon": 114.3472,
     "publishedAt": 1794884820000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "157bce27",
@@ -831,10 +831,10 @@
     "snippet": "The reporting effort behind the investigation, Inside Deutsche Bank, involved more than 200 journalists from dozens of outlets and was coordinated by Barracuda Media with technical support from DARC.",
     "outlet": "NAI500",
     "language": "en",
-    "lat": 51.6828,
-    "lon": 0.0636,
+    "lat": 22.4958,
+    "lon": 114.3606,
     "publishedAt": 1794885240000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "380dec24",
@@ -907,10 +907,10 @@
     "snippet": "Some 70 media outlets worked their way in lockstep through 15 million documents taken from Deutsche Bank. Much of it is old, some of it embarrassing, and so far little of it is new in criminal terms.",
     "outlet": "finews.com",
     "language": "en",
-    "lat": 43.7167,
-    "lon": -79.2847,
+    "lat": 47.4407,
+    "lon": 8.6393,
     "publishedAt": 1794886320000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c7b52506",
@@ -934,7 +934,7 @@
     "lat": 51.4402,
     "lon": -0.1606,
     "publishedAt": 1794886920000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b4a9ee5c",
@@ -1004,10 +1004,10 @@
     "snippet": "",
     "outlet": "عربي21",
     "language": "ar",
-    "lat": 25.0878,
-    "lon": 55.1442,
+    "lat": 51.3898,
+    "lon": -0.2548,
     "publishedAt": 1794889740000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8f9cdb4f",
@@ -1028,10 +1028,10 @@
     "snippet": "",
     "outlet": "Радио Свобода",
     "language": "ru",
-    "lat": 59.9983,
-    "lon": 30.4335,
+    "lat": 50.1403,
+    "lon": 14.5365,
     "publishedAt": 1794890220000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5a603670",
@@ -1078,8 +1078,8 @@
     "snippet": "",
     "outlet": "LIGA.net",
     "language": "ru",
-    "lat": 55.6291,
-    "lon": 37.5058,
+    "lat": 50.3231,
+    "lon": 30.4118,
     "publishedAt": 1794891000000,
     "geoBasis": "outlet"
   },
@@ -1090,8 +1090,8 @@
     "snippet": "",
     "outlet": "LIGA.net",
     "language": "en",
-    "lat": 55.7047,
-    "lon": 37.6062,
+    "lat": 50.3987,
+    "lon": 30.5122,
     "publishedAt": 1794891000000,
     "geoBasis": "outlet"
   },
@@ -1102,8 +1102,8 @@
     "snippet": "У вівторок, 17 листопада, світові медіа опублікували масштабне розслідування Inside Deutsche Bank, що базується на витоку понад 15 млн внутрішніх документів Deutsche Bank, найбільшого банку Німеччини.",
     "outlet": "LIGA.net",
     "language": "en",
-    "lat": 55.6316,
-    "lon": 37.5083,
+    "lat": 50.3256,
+    "lon": 30.4143,
     "publishedAt": 1794891000000,
     "geoBasis": "outlet"
   },
@@ -1127,10 +1127,10 @@
     "snippet": "Банк переводил счета таких бизнесменов, как Роман Абрамович, Олег Дерипаска, Геннадий Тимченко Алишер Усманов, Сулейман Керимов, Андрей Мельниченко и Алексей Мордашов, в Швейцарию и Люксембург. Это де ...",
     "outlet": "Эхо",
     "language": "ru",
-    "lat": 59.7362,
-    "lon": 30.5029,
+    "lat": 52.3222,
+    "lon": 13.5729,
     "publishedAt": 1794891120000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "d9a1e61e",
@@ -1164,10 +1164,10 @@
     "snippet": "German Finance Minister Lars Klingbeil said Deutsche Bank needs to explain the measures it took to address the issues raised by the reports ...",
     "outlet": "Business Standard",
     "language": "en",
-    "lat": 40.7083,
-    "lon": -73.9765,
+    "lat": 28.6093,
+    "lon": 77.2385,
     "publishedAt": 1794891360000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "a3d886bd",
@@ -1188,10 +1188,10 @@
     "snippet": "",
     "outlet": "Coinpedia",
     "language": "en",
-    "lat": 40.7551,
-    "lon": -73.9548,
+    "lat": 13.0141,
+    "lon": 77.6452,
     "publishedAt": 1794891600000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "473b9a79",
@@ -1250,8 +1250,8 @@
     "snippet": "",
     "outlet": "Forbes",
     "language": "en",
-    "lat": 51.4948,
-    "lon": -0.1495,
+    "lat": 40.7008,
+    "lon": -74.0275,
     "publishedAt": 1794892140000,
     "geoBasis": "outlet"
   },
@@ -1312,10 +1312,10 @@
     "snippet": "法兰克福上市的德意志银行周二早盘股价大幅下挫。多名内部举报人泄露约 1500 万份该行内部文件，媒体报道曝出该行历史上在风险管理、金融犯罪防控方面多项涉嫌失职的问题。 泄露内容包括已故金融家、已定罪性犯罪者杰弗里?爱泼斯坦相关可疑付款记录，以及唐纳德 ...",
     "outlet": "FX168财经网",
     "language": "zh",
-    "lat": 22.517,
-    "lon": 114.0165,
+    "lat": 31.204,
+    "lon": 121.4325,
     "publishedAt": 1794892980000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "03baa6ee",
@@ -1388,8 +1388,8 @@
     "snippet": "Deutsche Bank flagged nearly $600 million in suspicious payments linked to Jeffrey Epstein, and its internal files named two Wall Street billionaires as the late sex offender’s apparent “source of ...",
     "outlet": "Raw Story",
     "language": "en",
-    "lat": -26.4009,
-    "lon": 27.8846,
+    "lat": 38.7101,
+    "lon": -77.1994,
     "publishedAt": 1794893940000,
     "geoBasis": "outlet"
   },
@@ -1465,8 +1465,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "ar",
-    "lat": 25.1884,
-    "lon": 55.2887,
+    "lat": 33.8774,
+    "lon": 35.5197,
     "publishedAt": 1794895200000,
     "geoBasis": "outlet"
   },
@@ -1490,10 +1490,10 @@
     "snippet": "",
     "outlet": "Vlast.kz",
     "language": "ru",
-    "lat": 55.8393,
-    "lon": 37.6846,
+    "lat": 43.3213,
+    "lon": 77.0136,
     "publishedAt": 1794895200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "19b3d373",
@@ -1580,8 +1580,8 @@
     "snippet": "",
     "outlet": "Follow the Money - Platform for investigative journalism",
     "language": "en",
-    "lat": 52.3503,
-    "lon": 13.2759,
+    "lat": 52.2003,
+    "lon": 4.7659,
     "publishedAt": 1794895200000,
     "geoBasis": "outlet"
   },
@@ -2052,8 +2052,8 @@
     "snippet": "",
     "outlet": "Agência Pública",
     "language": "pt",
-    "lat": -15.953,
-    "lon": -48.0068,
+    "lat": -23.709,
+    "lon": -46.7578,
     "publishedAt": 1794895409000,
     "geoBasis": "outlet"
   },
@@ -2064,8 +2064,8 @@
     "snippet": "",
     "outlet": "Armando.info",
     "language": "es",
-    "lat": 40.5305,
-    "lon": -3.549,
+    "lat": 10.5945,
+    "lon": -66.75,
     "publishedAt": 1794895416000,
     "geoBasis": "outlet"
   },
@@ -2076,8 +2076,8 @@
     "snippet": "",
     "outlet": "Agência Pública",
     "language": "pt",
-    "lat": -15.9127,
-    "lon": -47.9662,
+    "lat": -23.6687,
+    "lon": -46.7172,
     "publishedAt": 1794895418000,
     "geoBasis": "outlet"
   },
@@ -2114,8 +2114,8 @@
     "snippet": "",
     "outlet": "Agência Pública",
     "language": "pt",
-    "lat": -15.7877,
-    "lon": -47.8599,
+    "lat": -23.5437,
+    "lon": -46.6109,
     "publishedAt": 1794895531000,
     "geoBasis": "outlet"
   },
@@ -2151,8 +2151,8 @@
     "snippet": "",
     "outlet": "Invezz",
     "language": "en",
-    "lat": 37.7545,
-    "lon": -122.474,
+    "lat": 51.4865,
+    "lon": -0.183,
     "publishedAt": 1794896029000,
     "geoBasis": "outlet"
   },
@@ -2188,10 +2188,10 @@
     "snippet": "",
     "outlet": "Le Journal de Montréal",
     "language": "fr",
-    "lat": 48.7962,
-    "lon": 2.3256,
+    "lat": 45.4412,
+    "lon": -73.5934,
     "publishedAt": 1794896280000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "27905cd3",
@@ -2213,10 +2213,10 @@
     "snippet": "Une enquête internationale expose des défaillances présumées dans les contrôles historiques de Deutsche Bank. Quels enjeux pour la garde des cryptomonnaies?",
     "outlet": "Actu Crypto .info",
     "language": "fr",
-    "lat": 45.6767,
-    "lon": 4.7823,
+    "lat": 48.7697,
+    "lon": 2.2993,
     "publishedAt": 1794896700000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "02bada06",
@@ -2225,10 +2225,10 @@
     "snippet": "Deutsche Bank (DB) stock fell after a leak of 15 million files. See what the reports allege on Epstein, Trump and Russia, and how the bank responded.",
     "outlet": "Blockonomi",
     "language": "en",
-    "lat": -26.3745,
-    "lon": 28.2422,
+    "lat": 51.3365,
+    "lon": 0.0672,
     "publishedAt": 1794896700000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "d2aa02b5",
@@ -2237,8 +2237,8 @@
     "snippet": "",
     "outlet": "عرب 48",
     "language": "ar",
-    "lat": 31.7661,
-    "lon": 36.0844,
+    "lat": 32.6041,
+    "lon": 35.1594,
     "publishedAt": 1794896700000,
     "geoBasis": "outlet"
   },
@@ -2262,8 +2262,8 @@
     "snippet": "",
     "outlet": "No Ficción",
     "language": "es",
-    "lat": -34.6036,
-    "lon": -58.4159,
+    "lat": 14.6344,
+    "lon": -90.5399,
     "publishedAt": 1794897000000,
     "geoBasis": "outlet"
   },
@@ -2274,10 +2274,10 @@
     "snippet": "",
     "outlet": "Forbes.kz",
     "language": "ru",
-    "lat": 60.0591,
-    "lon": 30.4506,
+    "lat": 43.3631,
+    "lon": 77.0616,
     "publishedAt": 1794897060000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "aefc0bdc",
@@ -2298,10 +2298,10 @@
     "snippet": "",
     "outlet": "Deutsche Bank AG",
     "language": "en",
-    "lat": 43.6144,
-    "lon": -79.4124,
+    "lat": 50.0714,
+    "lon": 8.6526,
     "publishedAt": 1794897359000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b58d2a73",
@@ -2338,7 +2338,7 @@
     "lat": 31.3327,
     "lon": 121.5674,
     "publishedAt": 1794897780000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "72c1e2a5",
@@ -2359,10 +2359,10 @@
     "snippet": "",
     "outlet": "Courrier international",
     "language": "fr",
-    "lat": 45.9594,
-    "lon": 4.9961,
+    "lat": 49.0524,
+    "lon": 2.5131,
     "publishedAt": 1794897900000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "12cc22df",
@@ -2396,10 +2396,10 @@
     "snippet": "德意志银行在特朗普首个总统任期内意外泄露了他的纳税申报表，却向白宫隐瞒了这起失误；现任该行首席执行官克里斯蒂安・泽温当时知晓这一危机的处置过程。2017 年 3 月这起数据泄露事件，被时任私人银行部门负责人的泽温在内部称为 “严重失误”。他下属采取的处置策略，力求不向客户披露该事件。泄露发生在当年 3 月 30 日：德意志银行一名客户经理不慎将 1586 个私人银行账户的年终纳税申报表（包含特朗普 ...",
     "outlet": "wap.cj",
     "language": "zh",
-    "lat": 22.5119,
-    "lon": 114.0361,
+    "lat": 39.8729,
+    "lon": 116.3851,
     "publishedAt": 1794898200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "66605bfa",
@@ -2421,10 +2421,10 @@
     "snippet": "",
     "outlet": "NEWSru.co.il",
     "language": "ru",
-    "lat": 55.5896,
-    "lon": 37.4414,
+    "lat": 31.9186,
+    "lon": 34.6064,
     "publishedAt": 1794898277000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "0a036a6a",
@@ -2457,10 +2457,10 @@
     "snippet": "",
     "outlet": "Myanmar Now",
     "language": "en",
-    "lat": 51.5245,
-    "lon": -0.1451,
+    "lat": 16.8575,
+    "lon": 96.1559,
     "publishedAt": 1794898416000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "1f4aa803",
@@ -2482,10 +2482,10 @@
     "snippet": "",
     "outlet": "The Daily News | Texas' Oldest Newspaper",
     "language": "en",
-    "lat": -26.248,
-    "lon": 27.9875,
+    "lat": 29.257,
+    "lon": -94.8575,
     "publishedAt": 1794898490000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "f5d61af1",
@@ -2506,8 +2506,8 @@
     "snippet": "",
     "outlet": "Himal Southasian",
     "language": "en",
-    "lat": 51.4825,
-    "lon": -0.1181,
+    "lat": 27.6925,
+    "lon": 85.3339,
     "publishedAt": 1794898723000,
     "geoBasis": "outlet"
   },
@@ -2531,8 +2531,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "ar",
-    "lat": 25.3616,
-    "lon": 55.3869,
+    "lat": 34.0506,
+    "lon": 35.6179,
     "publishedAt": 1794898860000,
     "geoBasis": "outlet"
   },
@@ -2543,8 +2543,8 @@
     "snippet": "",
     "outlet": "شبكة تواصل الإخبارية",
     "language": "ar",
-    "lat": 25.3749,
-    "lon": 55.4317,
+    "lat": 24.8829,
+    "lon": 46.8357,
     "publishedAt": 1794898860000,
     "geoBasis": "outlet"
   },
@@ -2581,10 +2581,10 @@
     "snippet": "Un’inchiesta basata su 15 milioni di documenti solleva dubbi sui controlli di Deutsche Bank, sui rapporti con clienti controversi e sulla trasparenza della gestione Sewing. La banca respinge le accuse ...",
     "outlet": "Wall Street Italia",
     "language": "it",
-    "lat": 41.9397,
-    "lon": 12.5265,
+    "lat": 45.5037,
+    "lon": 9.2205,
     "publishedAt": 1794898860000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "d638236a",
@@ -2653,10 +2653,10 @@
     "snippet": "",
     "outlet": "Fakti.bg",
     "language": "en",
-    "lat": 51.5178,
-    "lon": -0.1515,
+    "lat": 42.7088,
+    "lon": 23.2985,
     "publishedAt": 1794899220000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "33de06aa",
@@ -2703,10 +2703,10 @@
     "snippet": "",
     "outlet": "vreme.com",
     "language": "ru",
-    "lat": 59.9361,
-    "lon": 30.3715,
+    "lat": 44.7891,
+    "lon": 20.4935,
     "publishedAt": 1794899453000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "46ce17b6",
@@ -2715,8 +2715,8 @@
     "snippet": "",
     "outlet": "Handelsblatt",
     "language": "de",
-    "lat": 53.6611,
-    "lon": 10.0876,
+    "lat": 51.3371,
+    "lon": 6.8676,
     "publishedAt": 1794899517000,
     "geoBasis": "outlet"
   },
@@ -2727,10 +2727,10 @@
     "snippet": "举报人泄露了超过1500万份德意志银行内部文件，揭露该行存在不当行为、系统性失灵、管理失能，改革承诺沦为空话，同时曝光了部分亿万富豪与寡头客户的隐秘信息。 这批材料包括邮件、内部调查报告、董事会纪要、合规档案以及员工聊天记录，为外界重新审视该行首席执行官克里斯蒂安?泽温的职业历程与管理风格提供了新线索。泽温是内部提拔上来的高管，2018年接掌帅印，外界普遍认为，是他把这家丑闻缠身的银行从危机边缘拉 ...",
     "outlet": "中财网",
     "language": "zh",
-    "lat": 31.2261,
-    "lon": 121.5105,
+    "lat": 22.5391,
+    "lon": 114.0945,
     "publishedAt": 1794899580000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "bf6a5db3",
@@ -2806,7 +2806,7 @@
     "lat": 41.855,
     "lon": 12.4605,
     "publishedAt": 1794899880000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "0f512b27",
@@ -2815,10 +2815,10 @@
     "snippet": "Ce mardi 17 novembre, Adrien Henry, analyste marché chez Kepler Cheuvreux, s'est penché sur Vusion lançant une OPA sur son rival suédois Pricer, la fuite de 15 millions de documents chez Deutsche Bank ...",
     "outlet": "BFMTV",
     "language": "fr",
-    "lat": 45.96,
-    "lon": 5.0215,
+    "lat": 49.053,
+    "lon": 2.5385,
     "publishedAt": 1794900000000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "598d4b48",
@@ -2840,10 +2840,10 @@
     "snippet": "Over 15M confidential Deutsche Bank files leaked to Malayali journalist Josy Joseph expose global financial secrets.",
     "outlet": "Mathrubhumi English",
     "language": "en",
-    "lat": 43.7309,
-    "lon": -79.2646,
+    "lat": 10.0089,
+    "lon": 76.3854,
     "publishedAt": 1794900180000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "9b303494",
@@ -3031,10 +3031,10 @@
     "snippet": "",
     "outlet": "BES.media",
     "language": "ru",
-    "lat": 59.9182,
-    "lon": 30.3287,
+    "lat": 43.2222,
+    "lon": 76.9397,
     "publishedAt": 1794901500000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "9835e4f6",
@@ -3043,10 +3043,10 @@
     "snippet": "La principale banque allemande est ciblée par une enquête de plusieurs médias internationaux pour des pratiques très controversées. Berlin s'en mêle et demande plus de transparence.",
     "outlet": "Le Dauphiné Libéré",
     "language": "fr",
-    "lat": 45.6337,
-    "lon": 4.7452,
+    "lat": 45.0577,
+    "lon": 5.6342,
     "publishedAt": 1794901500000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "dda4bfcb",
@@ -3055,10 +3055,10 @@
     "snippet": "風傳媒 published a report headlined \"德銀1500萬份內部文件外洩 FT揭開俄國寡頭金流與川普、艾普斯坦財務機密 | 國際中心 | 新聞.\"",
     "outlet": "風傳媒",
     "language": "zh",
-    "lat": 39.9462,
-    "lon": 116.4834,
+    "lat": 25.0752,
+    "lon": 121.6414,
     "publishedAt": 1794901500000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c7729ee2",
@@ -3105,10 +3105,10 @@
     "snippet": "",
     "outlet": "L'essentiel",
     "language": "de",
-    "lat": 48.1387,
-    "lon": 11.586,
+    "lat": 49.6137,
+    "lon": 6.141,
     "publishedAt": 1794902236000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b3d335b3",
@@ -3130,10 +3130,10 @@
     "snippet": "وثائق مسربة من البنك الألماني تكشف إخفاقات في إدارة المخاطر ومراقبة الجرائم المالية على مدى عقدين، بينها مدفوعات مرتبطة بجيفري إبستين وتسريب إقرارات ضريبية لترامب.",
     "outlet": "detafour.com",
     "language": "ar",
-    "lat": 24.8727,
-    "lon": 46.7929,
+    "lat": 30.2027,
+    "lon": 31.3539,
     "publishedAt": 1794902520000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c4ea882d",
@@ -3158,7 +3158,7 @@
     "lat": -34.4483,
     "lon": -58.2109,
     "publishedAt": 1794902580000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "15e219cf",
@@ -3180,8 +3180,8 @@
     "snippet": "",
     "outlet": "Himal Southasian",
     "language": "en",
-    "lat": 51.6656,
-    "lon": 0.0397,
+    "lat": 27.8756,
+    "lon": 85.4917,
     "publishedAt": 1794902629000,
     "geoBasis": "outlet"
   },
@@ -3192,8 +3192,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "ar",
-    "lat": 25.3409,
-    "lon": 55.3664,
+    "lat": 34.0299,
+    "lon": 35.5974,
     "publishedAt": 1794902640000,
     "geoBasis": "outlet"
   },
@@ -3204,8 +3204,8 @@
     "snippet": "",
     "outlet": "Armando.info",
     "language": "es",
-    "lat": 40.353,
-    "lon": -3.7577,
+    "lat": 10.417,
+    "lon": -66.9587,
     "publishedAt": 1794902690000,
     "geoBasis": "outlet"
   },
@@ -3242,10 +3242,10 @@
     "snippet": "",
     "outlet": "Trending Topics",
     "language": "de",
-    "lat": 48.2603,
-    "lon": 11.6637,
+    "lat": 48.3313,
+    "lon": 16.4617,
     "publishedAt": 1794902814000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "d85ba521",
@@ -3254,10 +3254,10 @@
     "snippet": "",
     "outlet": "www.trendingtopics.eu",
     "language": "en",
-    "lat": -26.1759,
-    "lon": 28.0845,
+    "lat": 48.2361,
+    "lon": 16.4105,
     "publishedAt": 1794902816000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "15560747",
@@ -3278,10 +3278,10 @@
     "snippet": "",
     "outlet": "Diario Socialista",
     "language": "es",
-    "lat": -33.6247,
-    "lon": -70.8531,
+    "lat": 40.2413,
+    "lon": -3.8881,
     "publishedAt": 1794902870000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "169ffcb4",
@@ -3303,10 +3303,10 @@
     "snippet": "",
     "outlet": "L'essentiel",
     "language": "fr",
-    "lat": 50.9616,
-    "lon": 4.5041,
+    "lat": 49.7236,
+    "lon": 6.2821,
     "publishedAt": 1794903033000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "253d7cb3",
@@ -3354,10 +3354,10 @@
     "snippet": "",
     "outlet": "BusinessToday Malaysia",
     "language": "en",
-    "lat": 43.7452,
-    "lon": -79.3317,
+    "lat": 3.2312,
+    "lon": 101.7383,
     "publishedAt": 1794903405000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "351f9075",
@@ -3442,10 +3442,10 @@
     "snippet": "",
     "outlet": "Hindustan Times",
     "language": "en",
-    "lat": 51.5532,
-    "lon": -0.0972,
+    "lat": 28.6602,
+    "lon": 77.2398,
     "publishedAt": 1794903840000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "69577762",
@@ -3454,10 +3454,10 @@
     "snippet": "Jeffrey Epstein allegedly used the bank to funnel vast sums of money through its system as he expanded his global trafficking operation.",
     "outlet": "Radar Online",
     "language": "en",
-    "lat": -26.1957,
-    "lon": 28.0461,
+    "lat": 40.7213,
+    "lon": -74.0069,
     "publishedAt": 1794903900000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "56e09ee2",
@@ -3505,10 +3505,10 @@
     "snippet": "",
     "outlet": "Tax Justice Network",
     "language": "en",
-    "lat": -26.197,
-    "lon": 28.0446,
+    "lat": 51.514,
+    "lon": -0.1304,
     "publishedAt": 1794903994000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "ebb0d222",
@@ -3556,8 +3556,8 @@
     "snippet": "",
     "outlet": "Forbes",
     "language": "en",
-    "lat": 51.61,
-    "lon": -0.0344,
+    "lat": 40.816,
+    "lon": -73.9124,
     "publishedAt": 1794904080000,
     "geoBasis": "outlet"
   },
@@ -3568,8 +3568,8 @@
     "snippet": "",
     "outlet": "Expansión",
     "language": "es",
-    "lat": 19.3177,
-    "lon": -99.2825,
+    "lat": 40.3017,
+    "lon": -3.8525,
     "publishedAt": 1794904178000,
     "geoBasis": "outlet"
   },
@@ -3605,10 +3605,10 @@
     "snippet": "",
     "outlet": "Citywire",
     "language": "de",
-    "lat": 52.5522,
-    "lon": 13.4218,
+    "lat": 51.5392,
+    "lon": -0.1112,
     "publishedAt": 1794904271000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "dc0c34de",
@@ -3705,10 +3705,10 @@
     "snippet": "Германският банков гигант Deutsche Bank по погрешка е изпратил данъчен документ на Доналд Тръмп на счетоводителя на друг свой клиент през 2017 г., т.е. по време на първия му президентски мандат, без д ...",
     "outlet": "Money.bg",
     "language": "en",
-    "lat": -33.718,
-    "lon": 151.3443,
+    "lat": 42.849,
+    "lon": 23.4573,
     "publishedAt": 1794904920000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "56c55fa3",
@@ -3755,10 +3755,10 @@
     "snippet": "BERLIN - Shares in Deutsche Bank plunged on Tuesday after international media outlets published reports based on millions of leaked emails and other documents that shine a light on questionable past ...",
     "outlet": "Bangkok Post",
     "language": "en",
-    "lat": 43.6653,
-    "lon": -79.3799,
+    "lat": 13.7683,
+    "lon": 100.5051,
     "publishedAt": 1794905160000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "cdff822e",
@@ -3879,10 +3879,10 @@
     "snippet": "",
     "outlet": "El Boletín",
     "language": "es",
-    "lat": -34.457,
-    "lon": -58.2693,
+    "lat": 40.564,
+    "lon": -3.5903,
     "publishedAt": 1794905417000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "275aa5f9",
@@ -3891,10 +3891,10 @@
     "snippet": "",
     "outlet": "MLQ.ai",
     "language": "en",
-    "lat": -33.89,
-    "lon": 151.1787,
+    "lat": 43.632,
+    "lon": -79.4133,
     "publishedAt": 1794905447000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c1cb2012",
@@ -3929,8 +3929,8 @@
     "snippet": "",
     "outlet": "Raw Story",
     "language": "en",
-    "lat": -26.161,
-    "lon": 28.1056,
+    "lat": 38.95,
+    "lon": -76.9784,
     "publishedAt": 1794905580000,
     "geoBasis": "outlet"
   },
@@ -3941,10 +3941,10 @@
     "snippet": "",
     "outlet": "The Times",
     "language": "en",
-    "lat": 43.4591,
-    "lon": -79.536,
+    "lat": 51.3131,
+    "lon": -0.281,
     "publishedAt": 1794905700000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "90fa5b46",
@@ -3966,10 +3966,10 @@
     "snippet": "Масштабная утечка внутренних документов Deutsche Bank выявила возможные нарушения финансового контроля, подозрительные операции на сотни миллионов долларов и ...",
     "outlet": "MIGnews",
     "language": "ru",
-    "lat": 60.0843,
-    "lon": 30.4762,
+    "lat": 32.2353,
+    "lon": 34.9232,
     "publishedAt": 1794905820000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "fb758768",
@@ -3991,10 +3991,10 @@
     "snippet": "Изтекли документи на Deutsche Bank разкриват, че германският кредитор вътрешно е маркирал като съмнителни трансакции на стойност приблизително 582 милиона ... Прочетете цялата новина тук на Vesti.bg ...",
     "outlet": "Vesti.bg",
     "language": "en",
-    "lat": -26.3371,
-    "lon": 27.9044,
+    "lat": 42.5649,
+    "lon": 23.1794,
     "publishedAt": 1794905940000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "ec294fe3",
@@ -4070,7 +4070,7 @@
     "lat": 55.7754,
     "lon": 37.6271,
     "publishedAt": 1794906060000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e1ecbf1d",
@@ -4092,8 +4092,8 @@
     "snippet": "",
     "outlet": "El Debate",
     "language": "es",
-    "lat": 19.2909,
-    "lon": -99.3158,
+    "lat": 40.2749,
+    "lon": -3.8858,
     "publishedAt": 1794906060000,
     "geoBasis": "outlet"
   },
@@ -4154,10 +4154,10 @@
     "snippet": "",
     "outlet": "The News Minute",
     "language": "en",
-    "lat": 43.85,
-    "lon": -79.2267,
+    "lat": 13.169,
+    "lon": 77.7503,
     "publishedAt": 1794906380000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "34d85fb1",
@@ -4192,10 +4192,10 @@
     "snippet": "Deutsche Bank shares fell by nearly six percent shortly after the opening of the Frankfurt Stock Exchange. According to the reports, the bank at times prioritised commercial interests over compliance ...",
     "outlet": "RTL Today",
     "language": "en",
-    "lat": -33.757,
-    "lon": 151.2803,
+    "lat": 49.724,
+    "lon": 6.2013,
     "publishedAt": 1794906660000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "a4a7ec80",
@@ -4204,10 +4204,10 @@
     "snippet": "",
     "outlet": "Деловые ведомости",
     "language": "ru",
-    "lat": 60.0696,
-    "lon": 30.4863,
+    "lat": 59.5726,
+    "lon": 24.9053,
     "publishedAt": 1794906660000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "668d6af6",
@@ -4268,8 +4268,8 @@
     "snippet": "Una filtración publicada por cincuenta medios de comunicación da a conocer controvertidas prácticas que, en España, a afectan a la aseguradora pública del Estado CESCE ...",
     "outlet": "El Correo",
     "language": "es",
-    "lat": 19.632,
-    "lon": -99.3184,
+    "lat": 43.462,
+    "lon": -3.1204,
     "publishedAt": 1794906840000,
     "geoBasis": "outlet"
   },
@@ -4330,10 +4330,10 @@
     "snippet": "",
     "outlet": "Agenzia Nova",
     "language": "it",
-    "lat": 45.2071,
-    "lon": 7.7822,
+    "lat": 42.0371,
+    "lon": 12.5922,
     "publishedAt": 1794906978000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "518f9228",
@@ -4342,8 +4342,8 @@
     "snippet": "",
     "outlet": "Himal Southasian",
     "language": "en",
-    "lat": 51.3534,
-    "lon": -0.2408,
+    "lat": 27.5634,
+    "lon": 85.2112,
     "publishedAt": 1794907133000,
     "geoBasis": "outlet"
   },
@@ -4416,10 +4416,10 @@
     "snippet": "",
     "outlet": "El Boletín",
     "language": "es",
-    "lat": -34.5082,
-    "lon": -58.3018,
+    "lat": 40.5128,
+    "lon": -3.6228,
     "publishedAt": 1794907200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "4f3be146",
@@ -4490,10 +4490,10 @@
     "snippet": "",
     "outlet": "Philenews",
     "language": "en",
-    "lat": -26.0414,
-    "lon": 28.2188,
+    "lat": 35.3486,
+    "lon": 33.5538,
     "publishedAt": 1794907538000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "209d96b4",
@@ -4569,7 +4569,7 @@
     "lat": 55.6586,
     "lon": 37.5042,
     "publishedAt": 1794907980000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "7807b06e",
@@ -4604,10 +4604,10 @@
     "snippet": "",
     "outlet": "Netra News",
     "language": "en",
-    "lat": 40.6686,
-    "lon": -74.0847,
+    "lat": 23.7656,
+    "lon": 90.3343,
     "publishedAt": 1794908058000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e8a58d7f",
@@ -4641,10 +4641,10 @@
     "snippet": "Акции Deutsche Bank 17 ноября упали более чем на 6% после публикации расследований, основанных на утечке внутренних документов. Снижение стало самым значительным с апреля 2025 года.",
     "outlet": "Vesti.az",
     "language": "ru",
-    "lat": 59.9125,
-    "lon": 30.304,
+    "lat": 40.3875,
+    "lon": 49.836,
     "publishedAt": 1794908160000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "6856ba9d",
@@ -4727,8 +4727,8 @@
     "snippet": "",
     "outlet": "АНТИКОР",
     "language": "ru",
-    "lat": 55.6282,
-    "lon": 37.4485,
+    "lat": 50.3222,
+    "lon": 30.3545,
     "publishedAt": 1794908280000,
     "geoBasis": "outlet"
   },
@@ -4739,10 +4739,10 @@
     "snippet": "An investigation based on leaked internal records says the bank filed 21 suspicious activity reports covering about 3,000 transactions from 2013 to 2019.",
     "outlet": "International Business Times",
     "language": "en",
-    "lat": 43.5034,
-    "lon": -79.542,
+    "lat": 40.5634,
+    "lon": -74.165,
     "publishedAt": 1794908400000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "fcb67636",
@@ -4788,10 +4788,10 @@
     "snippet": "",
     "outlet": "Фінанси 24",
     "language": "ru",
-    "lat": 55.6761,
-    "lon": 37.528,
+    "lat": 50.3701,
+    "lon": 30.434,
     "publishedAt": 1794908700000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "0e1dc437",
@@ -4812,10 +4812,10 @@
     "snippet": "",
     "outlet": "Exclusive.kz",
     "language": "ru",
-    "lat": 55.8621,
-    "lon": 37.7136,
+    "lat": 43.3441,
+    "lon": 77.0426,
     "publishedAt": 1794909000000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "463368c6",
@@ -4862,10 +4862,10 @@
     "snippet": "",
     "outlet": "BigGo Finance",
     "language": "en",
-    "lat": -33.8044,
-    "lon": 151.2578,
+    "lat": 25.0976,
+    "lon": 121.6138,
     "publishedAt": 1794909300000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "6756f668",
@@ -4924,10 +4924,10 @@
     "snippet": "",
     "outlet": "Cyprus Mail",
     "language": "en",
-    "lat": 40.8482,
-    "lon": -73.8862,
+    "lat": 35.3212,
+    "lon": 33.5018,
     "publishedAt": 1794909464000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e038a680",
@@ -4998,8 +4998,8 @@
     "snippet": "",
     "outlet": "Raw Story",
     "language": "en",
-    "lat": -26.0639,
-    "lon": 28.2217,
+    "lat": 39.0471,
+    "lon": -76.8623,
     "publishedAt": 1794909720000,
     "geoBasis": "outlet"
   },
@@ -5013,7 +5013,7 @@
     "lat": 48.736,
     "lon": 2.1903,
     "publishedAt": 1794909732000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "6761254b",
@@ -5035,8 +5035,8 @@
     "snippet": "",
     "outlet": "RSE Magazine",
     "language": "fr",
-    "lat": 37.2067,
-    "lon": -6.1257,
+    "lat": 48.6747,
+    "lon": 2.2103,
     "publishedAt": 1794910006000,
     "geoBasis": "outlet"
   },
@@ -5073,8 +5073,8 @@
     "snippet": "",
     "outlet": "elciudadano.com",
     "language": "de",
-    "lat": 40.4782,
-    "lon": -3.6263,
+    "lat": -33.3878,
+    "lon": -70.5913,
     "publishedAt": 1794910155000,
     "geoBasis": "outlet"
   },
@@ -5085,8 +5085,8 @@
     "snippet": "",
     "outlet": "elciudadano.com",
     "language": "en",
-    "lat": 40.2226,
-    "lon": -3.5067,
+    "lat": -33.6434,
+    "lon": -70.4717,
     "publishedAt": 1794910155000,
     "geoBasis": "outlet"
   },
@@ -5097,8 +5097,8 @@
     "snippet": "",
     "outlet": "elciudadano.com",
     "language": "es",
-    "lat": 40.2541,
-    "lon": -3.8503,
+    "lat": -33.6119,
+    "lon": -70.8153,
     "publishedAt": 1794910155000,
     "geoBasis": "outlet"
   },
@@ -5122,10 +5122,10 @@
     "snippet": "",
     "outlet": "Türkiye Today",
     "language": "en",
-    "lat": 43.6513,
-    "lon": -79.369,
+    "lat": 41.0063,
+    "lon": 28.992,
     "publishedAt": 1794910297000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "76075cbf",
@@ -5211,10 +5211,10 @@
     "snippet": "Sie können besser entscheiden, weil Sie besser informiert sind – das ist das Ziel von Table.Briefings. Mit dem Informationsvorsprung zum Wettbewerbsvorteil.",
     "outlet": "Table.Media",
     "language": "de",
-    "lat": 48.1252,
-    "lon": 16.2811,
+    "lat": 52.4372,
+    "lon": 13.3131,
     "publishedAt": 1794910800000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "608ad977",
@@ -5236,10 +5236,10 @@
     "snippet": "La investigación Inside Deutsche Bank revela que el banco alemán ignoró alertas de lavado de dinero en cuentas ligadas a Jeffrey Epstein y Donald Trump; cae debajo de 31 euros.",
     "outlet": "Mi Bolsillo",
     "language": "pt",
-    "lat": -23.6989,
-    "lon": -46.8227,
+    "lat": 14.4851,
+    "lon": -90.6957,
     "publishedAt": 1794910860000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "ca8c339d",
@@ -5273,10 +5273,10 @@
     "snippet": "",
     "outlet": "Економічна правда",
     "language": "ru",
-    "lat": 55.9168,
-    "lon": 37.7685,
+    "lat": 50.6108,
+    "lon": 30.6745,
     "publishedAt": 1794911100000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "43c21072",
@@ -5285,10 +5285,10 @@
     "snippet": "Lebih dari 15 juta dokumen internal Deutsche Bank bocor, mengungkap kegagalan kepatuhan, aliran dana oligarki Rusia, hingga jejak Trump dan Epstein.",
     "outlet": "Tirto.ID",
     "language": "en",
-    "lat": 40.5916,
-    "lon": -74.093,
+    "lat": -6.3304,
+    "lon": 106.759,
     "publishedAt": 1794911340000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "7faaa57a",
@@ -5374,8 +5374,8 @@
     "snippet": "",
     "outlet": "Nacionale",
     "language": "en",
-    "lat": 41.2681,
-    "lon": -8.5265,
+    "lat": 41.4471,
+    "lon": 19.9025,
     "publishedAt": 1794911927000,
     "geoBasis": "outlet"
   },
@@ -5478,7 +5478,7 @@
     "lat": 40.8543,
     "lon": -73.9055,
     "publishedAt": 1794912660000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8159deeb",
@@ -5487,10 +5487,10 @@
     "snippet": "",
     "outlet": "Portail des médias indépendants",
     "language": "fr",
-    "lat": 50.8354,
-    "lon": 4.322,
+    "lat": 48.8424,
+    "lon": 2.322,
     "publishedAt": 1794912772000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "2d5fd184",
@@ -5499,10 +5499,10 @@
     "snippet": "President Trump touched down in Manila for his Asia trip, issuing an Iran warning, responding to the Deutsche Bank tax leak, and previewing a rare Xi-Putin meet ...",
     "outlet": "Idaho Public Press",
     "language": "en",
-    "lat": -26.2167,
-    "lon": 28.0251,
+    "lat": 43.6023,
+    "lon": -116.2239,
     "publishedAt": 1794912824000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "18f16cc4",
@@ -5523,10 +5523,10 @@
     "snippet": "A NEW investigation into the internal workings of one of the world’s largest banks reveals that it repeatedly missed warning signs of possible money laundering and sanctions violations, bent its own ...",
     "outlet": "Dawn ePaper",
     "language": "en",
-    "lat": 51.5264,
-    "lon": -0.1492,
+    "lat": 24.8804,
+    "lon": 66.9888,
     "publishedAt": 1794913200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5a6db883",
@@ -5535,10 +5535,10 @@
     "snippet": "",
     "outlet": "Мінфін",
     "language": "ru",
-    "lat": 59.8335,
-    "lon": 30.1938,
+    "lat": 50.3495,
+    "lon": 30.3818,
     "publishedAt": 1794913200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "d78ee19b",
@@ -5560,8 +5560,8 @@
     "snippet": "",
     "outlet": "Armando.info",
     "language": "es",
-    "lat": 40.4659,
-    "lon": -3.6697,
+    "lat": 10.5299,
+    "lon": -66.8707,
     "publishedAt": 1794913303000,
     "geoBasis": "outlet"
   },
@@ -5611,10 +5611,10 @@
     "snippet": "",
     "outlet": "Hindustan Times",
     "language": "en",
-    "lat": 51.4106,
-    "lon": -0.2339,
+    "lat": 28.5176,
+    "lon": 77.1031,
     "publishedAt": 1794913860000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e4d14d23",
@@ -5623,8 +5623,8 @@
     "snippet": "",
     "outlet": "شبكة تواصل الإخبارية",
     "language": "ar",
-    "lat": 25.0439,
-    "lon": 55.1445,
+    "lat": 24.5519,
+    "lon": 46.5485,
     "publishedAt": 1794914048000,
     "geoBasis": "outlet"
   },
@@ -5635,8 +5635,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "ar",
-    "lat": 25.2014,
-    "lon": 55.2332,
+    "lat": 33.8904,
+    "lon": 35.4642,
     "publishedAt": 1794914187000,
     "geoBasis": "outlet"
   },
@@ -5750,10 +5750,10 @@
     "snippet": "",
     "outlet": "Knews, Kathimerini",
     "language": "en",
-    "lat": 43.8302,
-    "lon": -79.1966,
+    "lat": 35.3632,
+    "lon": 33.5684,
     "publishedAt": 1794915180000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "4c044684",
@@ -5814,7 +5814,7 @@
     "lat": 52.5384,
     "lon": 13.4638,
     "publishedAt": 1794916020000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "703c5e7c",
@@ -5836,8 +5836,8 @@
     "snippet": "",
     "outlet": "Nacionale",
     "language": "en",
-    "lat": 41.0653,
-    "lon": -8.6601,
+    "lat": 41.2443,
+    "lon": 19.7689,
     "publishedAt": 1794916050000,
     "geoBasis": "outlet"
   },
@@ -5848,10 +5848,10 @@
     "snippet": "",
     "outlet": "TheBanker.com",
     "language": "en",
-    "lat": -26.0468,
-    "lon": 28.1698,
+    "lat": 51.6642,
+    "lon": -0.0052,
     "publishedAt": 1794916317000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c75db05a",
@@ -5873,10 +5873,10 @@
     "snippet": "",
     "outlet": "UNITED24 Media",
     "language": "en",
-    "lat": 43.7812,
-    "lon": -79.2703,
+    "lat": 50.5782,
+    "lon": 30.6357,
     "publishedAt": 1794916493000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c2d19182",
@@ -5963,10 +5963,10 @@
     "snippet": "The cache contains more than 15 million files, including nearly nine million emails, which have been shared with a global consortium of news ...",
     "outlet": "News.az",
     "language": "en",
-    "lat": -33.8517,
-    "lon": 151.1921,
+    "lat": 40.4263,
+    "lon": 49.8501,
     "publishedAt": 1794917220000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "011cbbcf",
@@ -5975,10 +5975,10 @@
     "snippet": "Leaked Deutsche Bank files reveal $581.9 million in Epstein-linked transactions and raise questions about the bank's compliance failures.",
     "outlet": "International Business Times Singapore",
     "language": "en",
-    "lat": -26.1308,
-    "lon": 28.1107,
+    "lat": 1.4252,
+    "lon": 103.8837,
     "publishedAt": 1794917280000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "732cbf79",
@@ -6026,8 +6026,8 @@
     "snippet": "",
     "outlet": "El Español",
     "language": "es",
-    "lat": 19.2707,
-    "lon": -99.3048,
+    "lat": 40.2547,
+    "lon": -3.8748,
     "publishedAt": 1794917429000,
     "geoBasis": "outlet"
   },
@@ -6038,10 +6038,10 @@
     "snippet": "",
     "outlet": "iProfesional",
     "language": "es",
-    "lat": -33.2714,
-    "lon": -70.8558,
+    "lat": -34.4264,
+    "lon": -58.5698,
     "publishedAt": 1794917580000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "bc40fa05",
@@ -6151,10 +6151,10 @@
     "snippet": "",
     "outlet": "Denkstrom",
     "language": "de",
-    "lat": 48.0702,
-    "lon": 16.2258,
+    "lat": 52.3822,
+    "lon": 13.2578,
     "publishedAt": 1794918480000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "cb2702fc",
@@ -6213,8 +6213,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.565,
-    "lon": -3.5456,
+    "lat": 10.076,
+    "lon": -83.9336,
     "publishedAt": 1794918907000,
     "geoBasis": "outlet"
   },
@@ -6264,8 +6264,8 @@
     "snippet": "",
     "outlet": "FinanceFeeds",
     "language": "en",
-    "lat": 37.679,
-    "lon": -122.5244,
+    "lat": 51.411,
+    "lon": -0.2334,
     "publishedAt": 1794919200000,
     "geoBasis": "outlet"
   },
@@ -6302,8 +6302,8 @@
     "snippet": "Ein internationales Datenleck bringt die Deutsche Bank in Erklärungsnot. Während die Politik Aufklärung fordert, erhebt die Linke schwere Vorwürfe gegen Friedrich Merz.",
     "outlet": "Lomazoma",
     "language": "ru",
-    "lat": 40.5855,
-    "lon": -3.894,
+    "lat": 52.6885,
+    "lon": 13.214,
     "publishedAt": 1794919320000,
     "geoBasis": "outlet"
   },
@@ -6352,10 +6352,10 @@
     "snippet": "Las revelaciones sobre el Deutsche Bank nos llevan a una conclusión sencilla: no puede existir verdadera integridad pública sin integridad financiera, ni igualdad ante la ley cuando el poder económico ...",
     "outlet": "elDiario.es",
     "language": "es",
-    "lat": 4.5414,
-    "lon": -74.2258,
+    "lat": 40.2474,
+    "lon": -3.8568,
     "publishedAt": 1794919528000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "7c9d9882",
@@ -6364,10 +6364,10 @@
     "snippet": "",
     "outlet": "Новая газета Европа",
     "language": "ru",
-    "lat": 55.77,
-    "lon": 37.6155,
+    "lat": 56.963,
+    "lon": 24.1035,
     "publishedAt": 1794919622000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "91c01e1c",
@@ -6402,10 +6402,10 @@
     "snippet": "",
     "outlet": "Телеканал «Дождь»",
     "language": "ru",
-    "lat": 55.8965,
-    "lon": 37.7668,
+    "lat": 52.5105,
+    "lon": 5.0448,
     "publishedAt": 1794919909000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "18464f1c",
@@ -6426,10 +6426,10 @@
     "snippet": "",
     "outlet": "Медиазона",
     "language": "ru",
-    "lat": 55.7602,
-    "lon": 37.6557,
+    "lat": 56.9532,
+    "lon": 24.1437,
     "publishedAt": 1794919920000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b9c1e8f9",
@@ -6438,10 +6438,10 @@
     "snippet": "",
     "outlet": "الاستاد الرياضي",
     "language": "ar",
-    "lat": 30.0201,
-    "lon": 31.2467,
+    "lat": 33.9961,
+    "lon": -6.8303,
     "publishedAt": 1794920534000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "284cd768",
@@ -6450,10 +6450,10 @@
     "snippet": "",
     "outlet": "BigGo Finance",
     "language": "en",
-    "lat": -33.9301,
-    "lon": 151.1323,
+    "lat": 24.9719,
+    "lon": 121.4883,
     "publishedAt": 1794920700000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "190fdaa3",
@@ -6488,8 +6488,8 @@
     "snippet": "",
     "outlet": "شبكة تواصل الإخبارية",
     "language": "ar",
-    "lat": 25.1557,
-    "lon": 55.2626,
+    "lat": 24.6637,
+    "lon": 46.6666,
     "publishedAt": 1794920829000,
     "geoBasis": "outlet"
   },
@@ -6526,10 +6526,10 @@
     "snippet": "United States President Donald Trump told reporters on Tuesday that it was \"illegal\" for Deutsche Bank to leak his tax records, shortly after the institution distanced itself from the 2017 breach.",
     "outlet": "AzerNews",
     "language": "en",
-    "lat": 40.8655,
-    "lon": -73.8191,
+    "lat": 40.5615,
+    "lon": 50.0539,
     "publishedAt": 1794921180000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "257b9e96",
@@ -6551,10 +6551,10 @@
     "snippet": "Deutsche Bank, nuove ombre sui controlli. Il titolo crolla.",
     "outlet": "Quotidiano Nazionale",
     "language": "it",
-    "lat": 45.3851,
-    "lon": 9.1267,
+    "lat": 41.8211,
+    "lon": 12.4327,
     "publishedAt": 1794921201000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "2af91939",
@@ -6575,10 +6575,10 @@
     "snippet": "Sie können besser entscheiden, weil Sie besser informiert sind – das ist das Ziel von Table.Briefings. Mit dem Informationsvorsprung zum Wettbewerbsvorteil.",
     "outlet": "Table.Media",
     "language": "ru",
-    "lat": 59.8051,
-    "lon": 30.2154,
+    "lat": 52.3911,
+    "lon": 13.2854,
     "publishedAt": 1794921420000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "84000968",
@@ -6611,8 +6611,8 @@
     "snippet": "",
     "outlet": "Notisistema",
     "language": "es",
-    "lat": 18.5347,
-    "lon": -69.9169,
+    "lat": 20.7077,
+    "lon": -103.3349,
     "publishedAt": 1794921540000,
     "geoBasis": "outlet"
   },
@@ -6623,10 +6623,10 @@
     "snippet": "",
     "outlet": "The Tenge",
     "language": "ru",
-    "lat": 59.9587,
-    "lon": 30.3942,
+    "lat": 43.2627,
+    "lon": 77.0052,
     "publishedAt": 1794921589000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e066c821",
@@ -6661,10 +6661,10 @@
     "snippet": "",
     "outlet": "Rolling Out",
     "language": "en",
-    "lat": 43.7969,
-    "lon": -79.2547,
+    "lat": 33.8929,
+    "lon": -84.2597,
     "publishedAt": 1794921842000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "ec350022",
@@ -6673,10 +6673,10 @@
     "snippet": "",
     "outlet": "National Business",
     "language": "ru",
-    "lat": 59.746,
-    "lon": 30.1626,
+    "lat": 50.981,
+    "lon": 71.2766,
     "publishedAt": 1794921900000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "cf3863eb",
@@ -6698,10 +6698,10 @@
     "snippet": "",
     "outlet": "Briefs Finance",
     "language": "en",
-    "lat": -33.7517,
-    "lon": 151.3355,
+    "lat": 51.6243,
+    "lon": -0.0015,
     "publishedAt": 1794922200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b41f4499",
@@ -6710,10 +6710,10 @@
     "snippet": "",
     "outlet": "Le Devoir",
     "language": "fr",
-    "lat": 50.8807,
-    "lon": 4.3481,
+    "lat": 45.5327,
+    "lon": -73.5709,
     "publishedAt": 1794922200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "58e95748",
@@ -6722,8 +6722,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.476,
-    "lon": -3.6284,
+    "lat": 9.987,
+    "lon": -84.0164,
     "publishedAt": 1794922207000,
     "geoBasis": "outlet"
   },
@@ -6747,10 +6747,10 @@
     "snippet": "",
     "outlet": "StartupItalia",
     "language": "it",
-    "lat": 42.0979,
-    "lon": 12.6595,
+    "lat": 45.6619,
+    "lon": 9.3535,
     "publishedAt": 1794922318000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "d2fcbc9d",
@@ -6810,10 +6810,10 @@
     "snippet": "",
     "outlet": "We Wealth",
     "language": "it",
-    "lat": 45.1181,
-    "lon": 7.7187,
+    "lat": 45.5121,
+    "lon": 9.2227,
     "publishedAt": 1794922614000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8f2663eb",
@@ -6848,10 +6848,10 @@
     "snippet": "",
     "outlet": "Lynnwood Times",
     "language": "en",
-    "lat": 40.8955,
-    "lon": -73.8644,
+    "lat": 48.0035,
+    "lon": -122.1734,
     "publishedAt": 1794923820000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "23435974",
@@ -6912,8 +6912,8 @@
     "snippet": "",
     "outlet": "Canal 9 Bío Bío Televisión",
     "language": "es",
-    "lat": -33.4545,
-    "lon": -70.664,
+    "lat": -36.8325,
+    "lon": -73.046,
     "publishedAt": 1794923998000,
     "geoBasis": "outlet"
   },
@@ -6937,10 +6937,10 @@
     "snippet": "",
     "outlet": "VINnews",
     "language": "en",
-    "lat": 51.59,
-    "lon": -0.0293,
+    "lat": 40.796,
+    "lon": -73.9073,
     "publishedAt": 1794924038000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "7a5ec883",
@@ -6965,7 +6965,7 @@
     "lat": 48.8721,
     "lon": 2.3765,
     "publishedAt": 1794924199000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8d985d3b",
@@ -6999,10 +6999,10 @@
     "snippet": "",
     "outlet": "Lo Strillone",
     "language": "it",
-    "lat": 45.4556,
-    "lon": 9.2162,
+    "lat": 41.8916,
+    "lon": 12.5222,
     "publishedAt": 1794924849000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "312b48e3",
@@ -7011,8 +7011,8 @@
     "snippet": "",
     "outlet": "Invezz",
     "language": "fr",
-    "lat": 37.8187,
-    "lon": -122.3907,
+    "lat": 51.5507,
+    "lon": -0.0997,
     "publishedAt": 1794924900000,
     "geoBasis": "outlet"
   },
@@ -7073,8 +7073,8 @@
     "snippet": "",
     "outlet": "FinanceFeeds",
     "language": "es",
-    "lat": 37.7621,
-    "lon": -122.3974,
+    "lat": 51.4941,
+    "lon": -0.1064,
     "publishedAt": 1794925560000,
     "geoBasis": "outlet"
   },
@@ -7085,10 +7085,10 @@
     "snippet": "",
     "outlet": "CHACODIAPORDIA.COM",
     "language": "es",
-    "lat": 4.8975,
-    "lon": -74.2509,
+    "lat": -27.2645,
+    "lon": -59.1659,
     "publishedAt": 1794925695000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b8cb0e13",
@@ -7175,10 +7175,10 @@
     "snippet": "",
     "outlet": "laquotidienne.ma",
     "language": "fr",
-    "lat": 45.6198,
-    "lon": 4.7064,
+    "lat": 33.4288,
+    "lon": -7.7186,
     "publishedAt": 1794926109000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "11edce6e",
@@ -7199,10 +7199,10 @@
     "snippet": "",
     "outlet": "Revista Mercado",
     "language": "es",
-    "lat": 4.7132,
-    "lon": -74.079,
+    "lat": 18.4882,
+    "lon": -69.938,
     "publishedAt": 1794926286000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "6f9067f8",
@@ -7211,8 +7211,8 @@
     "snippet": "",
     "outlet": "Nacionale",
     "language": "en",
-    "lat": 41.0005,
-    "lon": -8.7249,
+    "lat": 41.1795,
+    "lon": 19.7041,
     "publishedAt": 1794926286000,
     "geoBasis": "outlet"
   },
@@ -7223,10 +7223,10 @@
     "snippet": "",
     "outlet": "pogliad.com",
     "language": "ru",
-    "lat": 55.6298,
-    "lon": 37.5,
+    "lat": 50.3238,
+    "lon": 30.406,
     "publishedAt": 1794926318000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "42c64493",
@@ -7235,10 +7235,10 @@
     "snippet": "",
     "outlet": "Daily Pioneer",
     "language": "en",
-    "lat": -33.8607,
-    "lon": 151.2327,
+    "lat": 28.6223,
+    "lon": 77.2327,
     "publishedAt": 1794926356000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c22a34fe",
@@ -7247,10 +7247,10 @@
     "snippet": "",
     "outlet": "Libnanews",
     "language": "fr",
-    "lat": 48.6576,
-    "lon": 2.5117,
+    "lat": 33.6946,
+    "lon": 35.6617,
     "publishedAt": 1794926460000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "70280ef3",
@@ -7298,10 +7298,10 @@
     "snippet": "upi published a report headlined \"Deutsche Bank buffeted by revelations in files leak.\"",
     "outlet": "upi",
     "language": "en",
-    "lat": 40.6153,
-    "lon": -74.0628,
+    "lat": 38.8093,
+    "lon": -77.0938,
     "publishedAt": 1794927590000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "65d35445",
@@ -7310,10 +7310,10 @@
     "snippet": "",
     "outlet": "Semafor",
     "language": "en",
-    "lat": -26.1551,
-    "lon": 28.1364,
+    "lat": 40.7619,
+    "lon": -73.9166,
     "publishedAt": 1794927600000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8bec9985",
@@ -7347,10 +7347,10 @@
     "snippet": "",
     "outlet": "News24",
     "language": "en",
-    "lat": 43.6568,
-    "lon": -79.4197,
+    "lat": -26.2002,
+    "lon": 28.0103,
     "publishedAt": 1794927687000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "cc296271",
@@ -7371,10 +7371,10 @@
     "snippet": "",
     "outlet": "Бабель",
     "language": "en",
-    "lat": 51.5854,
-    "lon": -0.0652,
+    "lat": 50.5284,
+    "lon": 30.5858,
     "publishedAt": 1794927706000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "43b8055d",
@@ -7396,8 +7396,8 @@
     "snippet": "",
     "outlet": "082noticias.com",
     "language": "pt",
-    "lat": 40.5574,
-    "lon": -3.5471,
+    "lat": -9.5246,
+    "lon": -35.5791,
     "publishedAt": 1794928069000,
     "geoBasis": "outlet"
   },
@@ -7434,10 +7434,10 @@
     "snippet": "",
     "outlet": "N Digital",
     "language": "es",
-    "lat": -34.5398,
-    "lon": -58.3084,
+    "lat": 18.5502,
+    "lon": -69.8574,
     "publishedAt": 1794928919000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "26ec62f7",
@@ -7471,10 +7471,10 @@
     "snippet": "",
     "outlet": "El Periodista",
     "language": "es",
-    "lat": 40.4775,
-    "lon": -3.6269,
+    "lat": -33.3885,
+    "lon": -70.5919,
     "publishedAt": 1794929132000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "69e2dfa0",
@@ -7509,8 +7509,8 @@
     "snippet": "",
     "outlet": "Agência Pública",
     "language": "pt",
-    "lat": -15.8482,
-    "lon": -47.9269,
+    "lat": -23.6042,
+    "lon": -46.6779,
     "publishedAt": 1794929671000,
     "geoBasis": "outlet"
   },
@@ -7521,8 +7521,8 @@
     "snippet": "",
     "outlet": "Handelsblatt",
     "language": "de",
-    "lat": 53.4993,
-    "lon": 9.9006,
+    "lat": 51.1753,
+    "lon": 6.6806,
     "publishedAt": 1794929700000,
     "geoBasis": "outlet"
   },
@@ -7621,10 +7621,10 @@
     "snippet": "",
     "outlet": "Vietnam.vn",
     "language": "en",
-    "lat": -26.3171,
-    "lon": 27.9183,
+    "lat": 20.9149,
+    "lon": 105.7053,
     "publishedAt": 1794931140000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "01962915",
@@ -7636,7 +7636,7 @@
     "lat": 40.2494,
     "lon": -3.88,
     "publishedAt": 1794931200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "571de0d7",
@@ -7645,10 +7645,10 @@
     "snippet": "A consortium reports 15.6 million leaked Deutsche Bank files; allegations remain unproven. Our €2 billion provisions test awaits the 4 March 2027 annual report.",
     "outlet": "ctol.digital",
     "language": "en",
-    "lat": 40.7758,
-    "lon": -73.9086,
+    "lat": 1.4148,
+    "lon": 103.9174,
     "publishedAt": 1794931200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "486143f2",
@@ -7657,8 +7657,8 @@
     "snippet": "Actions Deutsche Bank chutent de 6% après fuite de 15M docs sur ses liens avec oligarques, Epstein et Trump. 7 Md€ en conformité.",
     "outlet": "FinanceFeeds",
     "language": "fr",
-    "lat": 37.8476,
-    "lon": -122.3308,
+    "lat": 51.5796,
+    "lon": -0.0398,
     "publishedAt": 1794931200000,
     "geoBasis": "outlet"
   },
@@ -7669,8 +7669,8 @@
     "snippet": "Azioni Deutsche Bank in ribasso del 6% dopo leak di 15 mln file su oligarchi, Epstein e Trump. Banca cita 7 mld euro in compliance.",
     "outlet": "FinanceFeeds",
     "language": "en",
-    "lat": 37.8114,
-    "lon": -122.367,
+    "lat": 51.5434,
+    "lon": -0.076,
     "publishedAt": 1794931200000,
     "geoBasis": "outlet"
   },
@@ -7681,8 +7681,8 @@
     "snippet": "流出資料には、ジェフリー・エプスタインとの旧取引に関する追加の詳細も含まれていた。FTによると、ドイツ銀行はエプスタイン関連の不審な支払いを約6億ドル処理しており、従来開示されていた額を大幅に上回る。不審取引は必ずしも犯罪行為の証拠ではない。ドイツ銀行は2020年にエプスタインおよびその他のコルレスバンキング取引に関するコンプライアンス不備でニューヨークの金融当局から1億5000万ドルの制裁金を支 ...",
     "outlet": "FinanceFeeds",
     "language": "ja",
-    "lat": 37.9093,
-    "lon": -122.2442,
+    "lat": 51.6413,
+    "lon": 0.0468,
     "publishedAt": 1794931200000,
     "geoBasis": "outlet"
   },
@@ -7693,8 +7693,8 @@
     "snippet": "",
     "outlet": "FinanceFeeds",
     "language": "pt",
-    "lat": 37.8153,
-    "lon": -122.3381,
+    "lat": 51.5473,
+    "lon": -0.0471,
     "publishedAt": 1794931200000,
     "geoBasis": "outlet"
   },
@@ -7757,10 +7757,10 @@
     "snippet": "La investigación internacional “Inside Deutsche Bank” revela que el actual presidente del BCRA siguió recibiendo compensaciones diferidas de su exempleador cuando ya trabajaba en el Estado. La Justici ...",
     "outlet": "Los Primeros TV",
     "language": "es",
-    "lat": 19.283,
-    "lon": -99.2737,
+    "lat": -34.754,
+    "lon": -58.5227,
     "publishedAt": 1794931200000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "3dc4d06a",
@@ -7810,7 +7810,7 @@
     "lat": 30.1579,
     "lon": 31.3092,
     "publishedAt": 1794931379000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "1d76a2d6",
@@ -7819,10 +7819,10 @@
     "snippet": "More than 15 million confidential documents from Germany's Deutsche Bank have been leaked, revealing fresh details about its financial dealings with Russian ...",
     "outlet": "24 News HD",
     "language": "en",
-    "lat": -34.0447,
-    "lon": 151.0178,
+    "lat": 31.3733,
+    "lon": 74.1528,
     "publishedAt": 1794931380000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "bc739219",
@@ -7831,10 +7831,10 @@
     "snippet": "",
     "outlet": "Correio da Manhã Canadá",
     "language": "pt",
-    "lat": 41.1665,
-    "lon": -8.6028,
+    "lat": 43.6705,
+    "lon": -79.3748,
     "publishedAt": 1794932056000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e5323339",
@@ -7843,10 +7843,10 @@
     "snippet": "",
     "outlet": "El Cierre Digital",
     "language": "es",
-    "lat": -34.794,
-    "lon": -58.5814,
+    "lat": 40.227,
+    "lon": -3.9024,
     "publishedAt": 1794932082000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "3d003197",
@@ -7880,8 +7880,8 @@
     "snippet": "",
     "outlet": "Canal 9 Bío Bío Televisión",
     "language": "es",
-    "lat": -33.3932,
-    "lon": -70.5717,
+    "lat": -36.7712,
+    "lon": -72.9537,
     "publishedAt": 1794933331000,
     "geoBasis": "outlet"
   },
@@ -7895,7 +7895,7 @@
     "lat": 25.0957,
     "lon": 55.1712,
     "publishedAt": 1794933332000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "af7c9db1",
@@ -7930,8 +7930,8 @@
     "snippet": "",
     "outlet": "CriptoTendencia",
     "language": "es",
-    "lat": 19.5282,
-    "lon": -99.0785,
+    "lat": 10.5762,
+    "lon": -66.8495,
     "publishedAt": 1794933823000,
     "geoBasis": "outlet"
   },
@@ -7955,10 +7955,10 @@
     "snippet": "",
     "outlet": "Correio da Manhã Canadá",
     "language": "pt",
-    "lat": 41.1162,
-    "lon": -8.6094,
+    "lat": 43.6202,
+    "lon": -79.3814,
     "publishedAt": 1794934353000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "f8aac3ca",
@@ -7980,8 +7980,8 @@
     "snippet": "",
     "outlet": "Invezz",
     "language": "pt",
-    "lat": 37.6324,
-    "lon": -122.5458,
+    "lat": 51.3644,
+    "lon": -0.2548,
     "publishedAt": 1794934464000,
     "geoBasis": "outlet"
   },
@@ -7992,10 +7992,10 @@
     "snippet": "",
     "outlet": "Luxembourg Times",
     "language": "en",
-    "lat": -26.2357,
-    "lon": 27.9809,
+    "lat": 49.5803,
+    "lon": 6.0639,
     "publishedAt": 1794934800000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "20409a57",
@@ -8069,10 +8069,10 @@
     "snippet": "",
     "outlet": "Open",
     "language": "it",
-    "lat": 41.8795,
-    "lon": 12.4348,
+    "lat": 45.4435,
+    "lon": 9.1288,
     "publishedAt": 1794935498000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "04ffd6cf",
@@ -8106,10 +8106,10 @@
     "snippet": "",
     "outlet": "Big News Network.com",
     "language": "en",
-    "lat": -26.154,
-    "lon": 28.0814,
+    "lat": -33.819,
+    "lon": 151.2434,
     "publishedAt": 1794936000000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "2c280989",
@@ -8131,10 +8131,10 @@
     "snippet": "",
     "outlet": "Common Dreams",
     "language": "en",
-    "lat": 43.5252,
-    "lon": -79.52,
+    "lat": 42.2322,
+    "lon": -71.196,
     "publishedAt": 1794936449000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "3eadd88a",
@@ -8169,10 +8169,10 @@
     "snippet": "Deutsche Bank, крупнейший по сумме активов и числу сотрудников финансовый конгломерат Германии и один из ведущих универсальных банков мира, на протяжении нескольких лет обслуживал американского финанс ...",
     "outlet": "Oxu.Az",
     "language": "ru",
-    "lat": 55.782,
-    "lon": 37.6521,
+    "lat": 40.435,
+    "lon": 49.9021,
     "publishedAt": 1794937260000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "30a76a20",
@@ -8181,8 +8181,8 @@
     "snippet": "",
     "outlet": "Nacionale",
     "language": "en",
-    "lat": 41.1613,
-    "lon": -8.6142,
+    "lat": 41.3403,
+    "lon": 19.8148,
     "publishedAt": 1794937294000,
     "geoBasis": "outlet"
   },
@@ -8206,10 +8206,10 @@
     "snippet": "",
     "outlet": "San Marino Rtv",
     "language": "it",
-    "lat": 45.1585,
-    "lon": 7.8091,
+    "lat": 44.0245,
+    "lon": 12.5701,
     "publishedAt": 1794937566000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "1573d120",
@@ -8317,10 +8317,10 @@
     "snippet": "",
     "outlet": "https://theins.press/en",
     "language": "en",
-    "lat": 43.594,
-    "lon": -79.4013,
+    "lat": 56.89,
+    "lon": 24.0867,
     "publishedAt": 1794938042000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "1088fd64",
@@ -8329,10 +8329,10 @@
     "snippet": "Deutsche Bank shares plunged nearly 6% after 15 million leaked records exposed past dealings involving Trump, Epstein and Russian oligarchs.",
     "outlet": "swikblog",
     "language": "en",
-    "lat": 40.8169,
-    "lon": -73.9176,
+    "lat": 28.7179,
+    "lon": 77.2974,
     "publishedAt": 1794938400000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "a863fb8b",
@@ -8341,8 +8341,8 @@
     "snippet": "",
     "outlet": "Handelsblatt",
     "language": "de",
-    "lat": 53.3926,
-    "lon": 9.8752,
+    "lat": 51.0686,
+    "lon": 6.6552,
     "publishedAt": 1794938401000,
     "geoBasis": "outlet"
   },
@@ -8415,10 +8415,10 @@
     "snippet": "",
     "outlet": "inkl",
     "language": "en",
-    "lat": -26.0721,
-    "lon": 28.1945,
+    "lat": -37.6821,
+    "lon": 145.1105,
     "publishedAt": 1794939900000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "4b887d0d",
@@ -8469,7 +8469,7 @@
     "lat": 42.0517,
     "lon": 12.6885,
     "publishedAt": 1794940278000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b785be78",
@@ -8478,10 +8478,10 @@
     "snippet": "",
     "outlet": "信報網站",
     "language": "zh",
-    "lat": 22.6072,
-    "lon": 114.1131,
+    "lat": 22.3842,
+    "lon": 114.2241,
     "publishedAt": 1794940299000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "2d024c83",
@@ -8527,10 +8527,10 @@
     "snippet": "More than 15 million leaked records detail $582m in suspicious Epstein-linked transactions, payments involving Trump companies and Deutsche Bank’s Russian conne ...",
     "outlet": "paradigma.uz",
     "language": "en",
-    "lat": 43.6047,
-    "lon": -79.3968,
+    "lat": 41.2517,
+    "lon": 69.2262,
     "publishedAt": 1794941100000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "a23235ae",
@@ -8539,10 +8539,10 @@
     "snippet": "",
     "outlet": "AOL.com",
     "language": "en",
-    "lat": 51.4661,
-    "lon": -0.1844,
+    "lat": 40.6721,
+    "lon": -74.0624,
     "publishedAt": 1794941183000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "77c017ec",
@@ -8578,7 +8578,7 @@
     "lat": 39.7337,
     "lon": 116.6023,
     "publishedAt": 1794942060000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "06407a0d",
@@ -8587,10 +8587,10 @@
     "snippet": "",
     "outlet": "La Veu Lliure",
     "language": "es",
-    "lat": 4.8033,
-    "lon": -73.9951,
+    "lat": 42.5983,
+    "lon": 1.5989,
     "publishedAt": 1794942877000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e85db3d3",
@@ -8599,10 +8599,10 @@
     "snippet": "",
     "outlet": "TradingKey",
     "language": "zh",
-    "lat": 39.8582,
-    "lon": 116.3458,
+    "lat": 22.2742,
+    "lon": 114.1078,
     "publishedAt": 1794943059000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c468c1ce",
@@ -8662,10 +8662,10 @@
     "snippet": "",
     "outlet": "Latest news from Azerbaijan",
     "language": "en",
-    "lat": -26.266,
-    "lon": 27.9443,
+    "lat": 40.347,
+    "lon": 49.7643,
     "publishedAt": 1794944752000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "a9600113",
@@ -8677,7 +8677,7 @@
     "lat": 45.5279,
     "lon": 9.2632,
     "publishedAt": 1794945548000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "35f2516d",
@@ -8699,10 +8699,10 @@
     "snippet": "Zwei Whistleblower leaken Millionen E-Mails und Kundenlisten der Deutschen Bank – auch mit Bezug zur Schweiz. Unser Wirtschaftschef Jorgos Brouzos ordnet die Enthüllungen ein.",
     "outlet": "Basler Zeitung via MSN",
     "language": "de",
-    "lat": 47.9978,
-    "lon": 11.4263,
+    "lat": 47.4208,
+    "lon": 7.4403,
     "publishedAt": 1794945900000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "3558d765",
@@ -8711,10 +8711,10 @@
     "snippet": "",
     "outlet": "Il Globo",
     "language": "it",
-    "lat": 45.3539,
-    "lon": 9.0641,
+    "lat": -37.9241,
+    "lon": 144.8371,
     "publishedAt": 1794946140000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "bd9b6097",
@@ -8723,10 +8723,10 @@
     "snippet": "",
     "outlet": "617 News",
     "language": "es",
-    "lat": 40.5527,
-    "lon": -3.6078,
+    "lat": -34.4683,
+    "lon": -58.2868,
     "publishedAt": 1794946148000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "f8f650fb",
@@ -8747,8 +8747,8 @@
     "snippet": "\"Haben überhaupt nichts zu verbergen\" In einem weiteren Interview mit der \"Bild\"-Zeitung sagte Sewing, die Deutsche Bank habe sich in den vergangenen acht Jahren enorm verändert. \"Nicht nur hinsichtli ...",
     "outlet": "finanzen.net",
     "language": "de",
-    "lat": 52.5454,
-    "lon": 13.446,
+    "lat": 49.0324,
+    "lon": 8.445,
     "publishedAt": 1794946320000,
     "geoBasis": "outlet"
   },
@@ -8759,10 +8759,10 @@
     "snippet": "LEAKED internal documents from Deutsche Bank dealt a major setback to CEO Christian Sewing's efforts to reform the lender.",
     "outlet": "AML Intelligence",
     "language": "en",
-    "lat": -33.9875,
-    "lon": 151.0751,
+    "lat": 51.3885,
+    "lon": -0.2619,
     "publishedAt": 1794946440000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "a678ee8a",
@@ -8784,8 +8784,8 @@
     "snippet": "",
     "outlet": "شبكة تواصل الإخبارية",
     "language": "ar",
-    "lat": 25.0228,
-    "lon": 55.4542,
+    "lat": 24.5308,
+    "lon": 46.8582,
     "publishedAt": 1794947199000,
     "geoBasis": "outlet"
   },
@@ -8796,8 +8796,8 @@
     "snippet": "",
     "outlet": "El Destape",
     "language": "es",
-    "lat": 4.5568,
-    "lon": -74.2608,
+    "lat": -34.7582,
+    "lon": -58.5708,
     "publishedAt": 1794947288000,
     "geoBasis": "outlet"
   },
@@ -8811,7 +8811,7 @@
     "lat": 30.1871,
     "lon": 31.4134,
     "publishedAt": 1794947661000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "f5f4ee45",
@@ -8820,10 +8820,10 @@
     "snippet": "德意志银行逾1500万份内部文件、高管电邮、机密风险评估与可疑交易报告泄露后，贸工部长佐哈里表示，马来西亚将检视这些外泄文件。 《路透社》报道，身兼一马公司资产追回特别工作组主席的佐哈里受访时说，现阶段发表马来西亚的立场仍言之过早，因为针对德意志银行的法庭案件仍在审理中。 “马来西亚已经、并将继续对那些我们认为在刘某及其同伙和/或代理人转移一马公司资金一事上未能履行适当客户尽职调查义务的国际银行采 ...",
     "outlet": "当今大马",
     "language": "zh",
-    "lat": 22.3868,
-    "lon": 113.8675,
+    "lat": 2.9828,
+    "lon": 101.4965,
     "publishedAt": 1794947700000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "72e3b6da",
@@ -8858,10 +8858,10 @@
     "snippet": "According to Zhitong Finance APP, as more details emerge from a recent data breach, Deutsche Bank's (DB.US) past compliance issues have once again cast a shadow ...",
     "outlet": "kucoin",
     "language": "en",
-    "lat": 51.6214,
-    "lon": -0.0541,
+    "lat": 1.4664,
+    "lon": 103.8939,
     "publishedAt": 1794949680000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "6970b855",
@@ -8896,10 +8896,10 @@
     "snippet": "",
     "outlet": "Expats.cz",
     "language": "en",
-    "lat": 43.7741,
-    "lon": -79.2775,
+    "lat": 50.1971,
+    "lon": 14.5435,
     "publishedAt": 1794951840000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "f90db9af",
@@ -8920,10 +8920,10 @@
     "snippet": "",
     "outlet": "Table.Briefings",
     "language": "en",
-    "lat": 43.4894,
-    "lon": -79.556,
+    "lat": 52.3564,
+    "lon": 13.232,
     "publishedAt": 1794952017000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "0dba47b0",
@@ -8970,10 +8970,10 @@
     "snippet": "",
     "outlet": "Ambito",
     "language": "es",
-    "lat": 19.4164,
-    "lon": -99.1591,
+    "lat": -34.6206,
+    "lon": -58.4081,
     "publishedAt": 1794953280000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "2014598a",
@@ -9082,10 +9082,10 @@
     "snippet": "智通财经APP获悉，随着近期一起数据泄露事件的更多细节浮出水面，德意志银行 (DB.US)过往的合规污点再度笼罩这家银行，也令其首席执行官克里斯蒂安・泽温陷入被动。 周三有报道称，六年前一项内部核查发现，该行哥伦比亚分支机构的资金监测存在重大漏洞。外部监督机构评价，核查结果暴露出德银风控体系存在 “令人震惊” 的漏洞。 报道还提到，德银在 2010 ...",
     "outlet": "智通财经网",
     "language": "zh",
-    "lat": 22.6384,
-    "lon": 114.1939,
+    "lat": 22.4154,
+    "lon": 114.3049,
     "publishedAt": 1794955800000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "071beddd",
@@ -9094,8 +9094,8 @@
     "snippet": "",
     "outlet": "Agência Pública",
     "language": "pt",
-    "lat": -15.7928,
-    "lon": -47.8714,
+    "lat": -23.5488,
+    "lon": -46.6224,
     "publishedAt": 1794956400000,
     "geoBasis": "outlet"
   },
@@ -9132,8 +9132,8 @@
     "snippet": "CEO Christian Sewing hat das Institut aus der Krise geführt und will nun von der Übernahme der Commerzbank durch Unicredit profitieren. Doch die Vergangenheit ...",
     "outlet": "Lomazoma",
     "language": "en",
-    "lat": 40.6109,
-    "lon": -3.5434,
+    "lat": 52.7139,
+    "lon": 13.5646,
     "publishedAt": 1794957780000,
     "geoBasis": "outlet"
   },
@@ -9157,10 +9157,10 @@
     "snippet": "",
     "outlet": "JAMnews",
     "language": "en",
-    "lat": 51.3288,
-    "lon": -0.3157,
+    "lat": 41.5378,
+    "lon": 44.5953,
     "publishedAt": 1794958500000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "2e10b740",
@@ -9169,8 +9169,8 @@
     "snippet": "",
     "outlet": "Al-Bawaba",
     "language": "en",
-    "lat": 24.881,
-    "lon": 46.8512,
+    "lat": 32.121,
+    "lon": 36.0872,
     "publishedAt": 1794959100000,
     "geoBasis": "outlet"
   },
@@ -9231,10 +9231,10 @@
     "snippet": "En evidencia. Documentos internos de uno de los bancos globales más importantes e influyentes exhiben flexibilidad de sus normas antilavado y trato preferente para políticos prominentes y personajes d ...",
     "outlet": "La República",
     "language": "es",
-    "lat": 40.4634,
-    "lon": -3.641,
+    "lat": -11.9996,
+    "lon": -76.981,
     "publishedAt": 1794961680000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "be52753a",
@@ -9256,10 +9256,10 @@
     "snippet": "Акции финансового учреждения упали на 6%. Крупнейший частный банк Германии Deutsche Bank вновь оказался в центре масштабного скандала.",
     "outlet": "ZN.ua",
     "language": "ru",
-    "lat": 59.8188,
-    "lon": 30.2355,
+    "lat": 50.3348,
+    "lon": 30.4235,
     "publishedAt": 1794961800000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "fd3f4308",
@@ -9305,10 +9305,10 @@
     "snippet": "",
     "outlet": "JournalArta",
     "language": "en",
-    "lat": 51.3152,
-    "lon": -0.3041,
+    "lat": 50.2582,
+    "lon": 30.3469,
     "publishedAt": 1794964064000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "7aa0d8a4",
@@ -9455,10 +9455,10 @@
     "snippet": "Une fuite massive de documents bancaires réévalue l’ampleur des flux financiers Selon les informations révélées par le média Financial Times, Deutsche Bank a traité près de 582 millions de dollars de ...",
     "outlet": "LaNature.ca via MSN",
     "language": "fr",
-    "lat": 51.0268,
-    "lon": 4.5134,
+    "lat": 45.6788,
+    "lon": -73.4056,
     "publishedAt": 1794967064000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "493e5403",
@@ -9479,10 +9479,10 @@
     "snippet": "",
     "outlet": "EUalive",
     "language": "en",
-    "lat": -34.0538,
-    "lon": 151.0588,
+    "lat": 50.6652,
+    "lon": 4.2018,
     "publishedAt": 1794967140000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "9903dffd",
@@ -9556,8 +9556,8 @@
     "snippet": "",
     "outlet": "إيلاف",
     "language": "ar",
-    "lat": 32.1558,
-    "lon": 35.749,
+    "lat": 51.7068,
+    "lon": -0.294,
     "publishedAt": 1794968040000,
     "geoBasis": "outlet"
   },
@@ -9619,10 +9619,10 @@
     "snippet": "",
     "outlet": "Asia Times",
     "language": "en",
-    "lat": 40.9036,
-    "lon": -74.206,
+    "lat": 22.5106,
+    "lon": 113.969,
     "publishedAt": 1794969405000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "652fc50a",
@@ -9644,8 +9644,8 @@
     "snippet": "",
     "outlet": "Admirals",
     "language": "en",
-    "lat": 51.6631,
-    "lon": 0.0689,
+    "lat": 59.5931,
+    "lon": 24.9509,
     "publishedAt": 1794969600000,
     "geoBasis": "outlet"
   },
@@ -9705,8 +9705,8 @@
     "snippet": "",
     "outlet": "Agência Pública",
     "language": "pt",
-    "lat": -15.8233,
-    "lon": -47.952,
+    "lat": -23.5793,
+    "lon": -46.703,
     "publishedAt": 1794970860000,
     "geoBasis": "outlet"
   },
@@ -9781,10 +9781,10 @@
     "snippet": "",
     "outlet": "Азаттык Азия",
     "language": "ru",
-    "lat": 59.7823,
-    "lon": 30.1987,
+    "lat": 42.7233,
+    "lon": 74.4537,
     "publishedAt": 1794972600000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "f3f31e7d",
@@ -9793,10 +9793,10 @@
     "snippet": "",
     "outlet": "JAMnews",
     "language": "ru",
-    "lat": 55.604,
-    "lon": 37.4808,
+    "lat": 41.564,
+    "lon": 44.6468,
     "publishedAt": 1794973146000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "7877ded1",
@@ -9817,8 +9817,8 @@
     "snippet": "El presidente del Banco Central, Santiago Bausili, fue investigado en seis oportunidades por conflicto de intereses por su víinculo con el Deutsche Bank.",
     "outlet": "minutouno.com",
     "language": "es",
-    "lat": 4.8167,
-    "lon": -73.9256,
+    "lat": -34.4983,
+    "lon": -58.2356,
     "publishedAt": 1794973200000,
     "geoBasis": "outlet"
   },
@@ -9841,10 +9841,10 @@
     "snippet": "Компании Дональда Трампа как минимум с 2014 года получали средства из сомнительных источников, связанных с российскими ...",
     "outlet": "InfoResist",
     "language": "ru",
-    "lat": 59.8085,
-    "lon": 30.1749,
+    "lat": 50.3245,
+    "lon": 30.3629,
     "publishedAt": 1794973560000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8be27df8",
@@ -9853,10 +9853,10 @@
     "snippet": "كشف تحقيق دولي واسع، استند إلى تسريب أكثر من 15 مليون وثيقة داخلية من مصرف «",
     "outlet": "النشرة",
     "language": "ar",
-    "lat": 24.5454,
-    "lon": 46.4909,
+    "lat": 33.7254,
+    "lon": 35.3179,
     "publishedAt": 1794973620000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8d0c762c",
@@ -9878,10 +9878,10 @@
     "snippet": "",
     "outlet": "Billionaires.Africa",
     "language": "en",
-    "lat": 51.4499,
-    "lon": -0.1507,
+    "lat": 6.4669,
+    "lon": 3.3563,
     "publishedAt": 1794974100000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "9f337158",
@@ -9902,10 +9902,10 @@
     "snippet": "A cache of internal records outlines the bank's dealings with Jeffrey Epstein, Donald Trump and Russian oligarchs. The German lender has sought to deflect criticism by claiming its bad behavior is a ...",
     "outlet": "The Business Standard",
     "language": "en",
-    "lat": -33.8079,
-    "lon": 151.2547,
+    "lat": 23.8711,
+    "lon": 90.4587,
     "publishedAt": 1794974640000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "0e7fc07b",
@@ -9927,8 +9927,8 @@
     "snippet": "",
     "outlet": "IDL Reporteros",
     "language": "es",
-    "lat": 4.7073,
-    "lon": -74.0603,
+    "lat": -12.0497,
+    "lon": -77.0313,
     "publishedAt": 1794975022000,
     "geoBasis": "outlet"
   },
@@ -9952,10 +9952,10 @@
     "snippet": "Gestern hatte ein Journalistenkonsortium unter dem Titel Inside Deutsche Bank eine Großrecherche veröffentlicht, die auf der Auswertung von mehr als 15 Millionen Dokumenten, davon alleine rund neun Mi ...",
     "outlet": "Citywire",
     "language": "ru",
-    "lat": 59.7388,
-    "lon": 30.5241,
+    "lat": 51.3118,
+    "lon": 0.0611,
     "publishedAt": 1794975420000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e1038485",
@@ -9964,8 +9964,8 @@
     "snippet": "حين اجتمع مسؤولو المخاطر في \"دويتشه بنك\" في كانون الثاني/يناير 2022، كان عليهم أن يقرروا ما إذا كان المصرف سيضمن دفعة مقدّمة في صفقة لتوريد قطع لدبابات ميركافا الإسرائيلية. في ذاك الوقت، رأى أحد ال ...",
     "outlet": "فلسطين أون لاين",
     "language": "ar",
-    "lat": 31.925,
-    "lon": 35.2145,
+    "lat": 31.527,
+    "lon": 34.4515,
     "publishedAt": 1794975840000,
     "geoBasis": "outlet"
   },
@@ -10038,8 +10038,8 @@
     "snippet": "Una filtración histórica ha vuelto a poner contra las cuerdas al mayor banco de Alemania. Bajo el nombre Inside Deutsche Bank, una investigación periodística internacional ha analizado más de 15 millo ...",
     "outlet": "Consumidor Global",
     "language": "es",
-    "lat": 19.6247,
-    "lon": -99.3257,
+    "lat": 41.5767,
+    "lon": 1.9803,
     "publishedAt": 1794977040000,
     "geoBasis": "outlet"
   },
@@ -10152,8 +10152,8 @@
     "snippet": "",
     "outlet": "agefi.com",
     "language": "fr",
-    "lat": 48.7344,
-    "lon": 2.2387,
+    "lat": 46.0814,
+    "lon": 6.0297,
     "publishedAt": 1794979080000,
     "geoBasis": "outlet"
   },
@@ -10164,10 +10164,10 @@
     "snippet": "",
     "outlet": "LaRepublica.co",
     "language": "es",
-    "lat": -34.5247,
-    "lon": -58.3373,
+    "lat": 4.7903,
+    "lon": -74.0273,
     "publishedAt": 1794979080000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "efd33baa",
@@ -10176,10 +10176,10 @@
     "snippet": "Deutsche Bank is making headlines again. This time thanks to documents provided by two whistleblowers to a group of journalists.",
     "outlet": "FXMAG",
     "language": "en",
-    "lat": 40.7599,
-    "lon": -73.95,
+    "lat": 52.2769,
+    "lon": 21.068,
     "publishedAt": 1794979740000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "0333cfdf",
@@ -10191,7 +10191,7 @@
     "lat": 41.964,
     "lon": 12.5446,
     "publishedAt": 1794979800000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "00aa47f8",
@@ -10200,10 +10200,10 @@
     "snippet": "",
     "outlet": "Inshorts",
     "language": "en",
-    "lat": -26.3234,
-    "lon": 27.9432,
+    "lat": 28.4946,
+    "lon": 77.1052,
     "publishedAt": 1794980190000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "7167812a",
@@ -10237,10 +10237,10 @@
     "snippet": "",
     "outlet": "Aktualita.co",
     "language": "en",
-    "lat": 40.7669,
-    "lon": -73.9865,
+    "lat": 42.7169,
+    "lon": 21.1845,
     "publishedAt": 1794981450000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "dc25d163",
@@ -10249,8 +10249,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "en",
-    "lat": 25.3056,
-    "lon": 55.387,
+    "lat": 33.9946,
+    "lon": 35.618,
     "publishedAt": 1794981600000,
     "geoBasis": "outlet"
   },
@@ -10274,8 +10274,8 @@
     "snippet": "",
     "outlet": "Follow the Money - Platform for investigative journalism",
     "language": "en",
-    "lat": 52.4857,
-    "lon": 13.38,
+    "lat": 52.3357,
+    "lon": 4.87,
     "publishedAt": 1794981600000,
     "geoBasis": "outlet"
   },
@@ -10362,10 +10362,10 @@
     "snippet": "",
     "outlet": "Diario Socialista",
     "language": "es",
-    "lat": -33.558,
-    "lon": -70.7865,
+    "lat": 40.308,
+    "lon": -3.8215,
     "publishedAt": 1794981803000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "f2169e15",
@@ -10374,8 +10374,8 @@
     "snippet": "",
     "outlet": "Himal Southasian",
     "language": "en",
-    "lat": 51.6725,
-    "lon": 0.0468,
+    "lat": 27.8825,
+    "lon": 85.4988,
     "publishedAt": 1794981947000,
     "geoBasis": "outlet"
   },
@@ -10412,8 +10412,8 @@
     "snippet": "",
     "outlet": "مونت كارلو الدولية",
     "language": "ar",
-    "lat": 33.8637,
-    "lon": 35.5062,
+    "lat": 48.8267,
+    "lon": 2.3562,
     "publishedAt": 1794982500000,
     "geoBasis": "outlet"
   },
@@ -10436,10 +10436,10 @@
     "snippet": "De nuevo el Deutsche Bank está en boca de todos. Esta vez gracias a los documentos que dos denunciantes entregaron al grupo de periodistas.",
     "outlet": "FXMAG",
     "language": "es",
-    "lat": 19.6096,
-    "lon": -99.3218,
+    "lat": 52.4066,
+    "lon": 20.8232,
     "publishedAt": 1794983400000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "67d41125",
@@ -10524,10 +10524,10 @@
     "snippet": "Разследването, озаглавено „Inside Deutsche Bank“, е проведено от над 230 журналисти от около 50 медии по света ...",
     "outlet": "Нова телевизия",
     "language": "de",
-    "lat": 52.6781,
-    "lon": 13.5224,
+    "lat": 42.8561,
+    "lon": 23.4394,
     "publishedAt": 1794984240000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "0b5045b0",
@@ -10549,10 +10549,10 @@
     "snippet": "",
     "outlet": "Gazeta Express",
     "language": "en",
-    "lat": 40.7929,
-    "lon": -73.9604,
+    "lat": 42.7429,
+    "lon": 21.2106,
     "publishedAt": 1794984540000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "2615deda",
@@ -10561,10 +10561,10 @@
     "snippet": "",
     "outlet": "Mejor Informado",
     "language": "es",
-    "lat": -33.6257,
-    "lon": -70.8603,
+    "lat": -33.0657,
+    "lon": -69.0373,
     "publishedAt": 1794984540000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "05d05311",
@@ -10633,8 +10633,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "en",
-    "lat": 25.3352,
-    "lon": 55.4104,
+    "lat": 34.0242,
+    "lon": 35.6414,
     "publishedAt": 1794985200000,
     "geoBasis": "outlet"
   },
@@ -10648,7 +10648,7 @@
     "lat": 52.704,
     "lon": 13.5484,
     "publishedAt": 1794985320000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8d73d21a",
@@ -10657,10 +10657,10 @@
     "snippet": "Behind closed doors of Deutsche Bank, millions of confidential files held financial secrets involving some of the world’s most powerful figures.",
     "outlet": "Daily Pakistan English News",
     "language": "en",
-    "lat": 40.6471,
-    "lon": -74.0875,
+    "lat": 31.4831,
+    "lon": 74.2625,
     "publishedAt": 1794985560000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "7c9bd1b2",
@@ -10744,10 +10744,10 @@
     "snippet": "",
     "outlet": "Gazeta Express",
     "language": "en",
-    "lat": 40.6551,
-    "lon": -74.0985,
+    "lat": 42.6051,
+    "lon": 21.0725,
     "publishedAt": 1794986880000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "a38cb7a8",
@@ -10769,10 +10769,10 @@
     "snippet": "",
     "outlet": "Ratopati",
     "language": "en",
-    "lat": -26.3057,
-    "lon": 27.9796,
+    "lat": 27.6153,
+    "lon": 85.2566,
     "publishedAt": 1794988780000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "adcb934e",
@@ -10781,10 +10781,10 @@
     "snippet": "",
     "outlet": "Thought Catalog",
     "language": "en",
-    "lat": 51.3778,
-    "lon": -0.2227,
+    "lat": 40.5838,
+    "lon": -74.1007,
     "publishedAt": 1794989396000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8086328d",
@@ -10831,10 +10831,10 @@
     "snippet": "",
     "outlet": "Compliance Week",
     "language": "en",
-    "lat": -33.7812,
-    "lon": 151.3377,
+    "lat": 42.4478,
+    "lon": -70.9303,
     "publishedAt": 1794992400000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "f0d4ad15",
@@ -10930,10 +10930,10 @@
     "snippet": "",
     "outlet": "Апостроф",
     "language": "ru",
-    "lat": 60.0902,
-    "lon": 30.4754,
+    "lat": 50.6062,
+    "lon": 30.6634,
     "publishedAt": 1794995100000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5ac9dbe5",
@@ -10967,10 +10967,10 @@
     "snippet": "",
     "outlet": "OC Media",
     "language": "en",
-    "lat": 40.8584,
-    "lon": -73.8764,
+    "lat": 41.8614,
+    "lon": 44.9126,
     "publishedAt": 1794996933000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e4e9317b",
@@ -11030,10 +11030,10 @@
     "snippet": "",
     "outlet": "Экономические Новости",
     "language": "ru",
-    "lat": 60.0018,
-    "lon": 30.3874,
+    "lat": 50.5178,
+    "lon": 30.5754,
     "publishedAt": 1794998051000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "526befb5",
@@ -11042,8 +11042,8 @@
     "snippet": "",
     "outlet": "Admirals",
     "language": "de",
-    "lat": 51.6072,
-    "lon": -0.0624,
+    "lat": 59.5372,
+    "lon": 24.8196,
     "publishedAt": 1794998400000,
     "geoBasis": "outlet"
   },
@@ -11054,8 +11054,8 @@
     "snippet": "",
     "outlet": "Admirals",
     "language": "fr",
-    "lat": 51.3206,
-    "lon": -0.305,
+    "lat": 59.2506,
+    "lon": 24.577,
     "publishedAt": 1794998400000,
     "geoBasis": "outlet"
   },
@@ -11066,8 +11066,8 @@
     "snippet": "",
     "outlet": "Handelsblatt",
     "language": "de",
-    "lat": 53.699,
-    "lon": 10.1567,
+    "lat": 51.375,
+    "lon": 6.9367,
     "publishedAt": 1794999043000,
     "geoBasis": "outlet"
   },
@@ -11078,8 +11078,8 @@
     "snippet": "",
     "outlet": "Handelsblatt",
     "language": "de",
-    "lat": 53.7441,
-    "lon": 10.1766,
+    "lat": 51.4201,
+    "lon": 6.9566,
     "publishedAt": 1794999043000,
     "geoBasis": "outlet"
   },
@@ -11103,10 +11103,10 @@
     "snippet": "",
     "outlet": "نيوز رووم",
     "language": "ar",
-    "lat": 31.8124,
-    "lon": 35.8058,
+    "lat": 25.0614,
+    "lon": 55.1618,
     "publishedAt": 1794999077000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "606e6d8c",
@@ -11127,8 +11127,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.3342,
-    "lon": -3.7764,
+    "lat": 9.8452,
+    "lon": -84.1644,
     "publishedAt": 1794999772000,
     "geoBasis": "outlet"
   },
@@ -11139,8 +11139,8 @@
     "snippet": "",
     "outlet": "Armando.info",
     "language": "es",
-    "lat": 40.2189,
-    "lon": -3.5416,
+    "lat": 10.2829,
+    "lon": -66.7426,
     "publishedAt": 1794999839000,
     "geoBasis": "outlet"
   },
@@ -11177,8 +11177,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.3459,
-    "lon": -3.7896,
+    "lat": 9.8569,
+    "lon": -84.1776,
     "publishedAt": 1795000072000,
     "geoBasis": "outlet"
   },
@@ -11189,8 +11189,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.3983,
-    "lon": -3.6871,
+    "lat": 9.9093,
+    "lon": -84.0751,
     "publishedAt": 1795000072000,
     "geoBasis": "outlet"
   },
@@ -11201,8 +11201,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.4998,
-    "lon": -3.6044,
+    "lat": 10.0108,
+    "lon": -83.9924,
     "publishedAt": 1795000072000,
     "geoBasis": "outlet"
   },
@@ -11241,7 +11241,7 @@
     "lat": 40.9048,
     "lon": -74.1796,
     "publishedAt": 1795001172000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "33e5526a",
@@ -11250,10 +11250,10 @@
     "snippet": "",
     "outlet": "Dainik Jagran MP CG",
     "language": "en",
-    "lat": -26.2929,
-    "lon": 27.9674,
+    "lat": 21.1621,
+    "lon": 81.5504,
     "publishedAt": 1795001425000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8a42c2bd",
@@ -11275,8 +11275,8 @@
     "snippet": "",
     "outlet": "El Ágora Digital",
     "language": "es",
-    "lat": 40.3689,
-    "lon": -3.7106,
+    "lat": -34.6521,
+    "lon": -58.3896,
     "publishedAt": 1795001767000,
     "geoBasis": "outlet"
   },
@@ -11287,8 +11287,8 @@
     "snippet": "",
     "outlet": "El Armadillo",
     "language": "es",
-    "lat": 40.466,
-    "lon": -3.6631,
+    "lat": 4.76,
+    "lon": -74.0321,
     "publishedAt": 1795001787000,
     "geoBasis": "outlet"
   },
@@ -11363,10 +11363,10 @@
     "snippet": "",
     "outlet": "LinkedIn",
     "language": "en",
-    "lat": -33.9943,
-    "lon": 151.0683,
+    "lat": 41.7747,
+    "lon": 12.3553,
     "publishedAt": 1795004422000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e796d0ac",
@@ -11388,10 +11388,10 @@
     "snippet": "",
     "outlet": "Free Malaysia Today",
     "language": "en",
-    "lat": 40.6714,
-    "lon": -74.0567,
+    "lat": 3.0654,
+    "lon": 101.5563,
     "publishedAt": 1795004906000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "d91801a9",
@@ -11400,10 +11400,10 @@
     "snippet": "",
     "outlet": "Das Verbraucherschutzforum",
     "language": "de",
-    "lat": 48.3242,
-    "lon": 16.4485,
+    "lat": 52.6362,
+    "lon": 13.4805,
     "publishedAt": 1795005181000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "8125d1e0",
@@ -11412,10 +11412,10 @@
     "snippet": "",
     "outlet": "Израиль на ладони - israelinfo",
     "language": "ru",
-    "lat": 59.8288,
-    "lon": 30.1954,
+    "lat": 31.9798,
+    "lon": 34.6424,
     "publishedAt": 1795005784000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "0ec5f56e",
@@ -11437,8 +11437,8 @@
     "snippet": "",
     "outlet": "IDL Reporteros",
     "language": "es",
-    "lat": 4.7527,
-    "lon": -74.021,
+    "lat": -12.0043,
+    "lon": -76.992,
     "publishedAt": 1795007924000,
     "geoBasis": "outlet"
   },
@@ -11452,7 +11452,7 @@
     "lat": 40.8469,
     "lon": -73.8563,
     "publishedAt": 1795009980000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5e1cdffc",
@@ -11461,10 +11461,10 @@
     "snippet": "",
     "outlet": "BigGo Finance",
     "language": "en",
-    "lat": -33.9303,
-    "lon": 151.1821,
+    "lat": 24.9717,
+    "lon": 121.5381,
     "publishedAt": 1795010100000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c99c40be",
@@ -11498,10 +11498,10 @@
     "snippet": "",
     "outlet": "Luxemburger Wort",
     "language": "de",
-    "lat": 52.6726,
-    "lon": 13.5732,
+    "lat": 49.7646,
+    "lon": 6.2982,
     "publishedAt": 1795010781000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "7e168bb4",
@@ -11565,7 +11565,7 @@
     "lat": 55.7069,
     "lon": 37.5771,
     "publishedAt": 1795012934000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "1f5d0e0d",
@@ -11574,8 +11574,8 @@
     "snippet": "",
     "outlet": "Canal26",
     "language": "es",
-    "lat": -31.2765,
-    "lon": -64.1411,
+    "lat": -34.5715,
+    "lon": -58.3401,
     "publishedAt": 1795013124000,
     "geoBasis": "outlet"
   },
@@ -11598,10 +11598,10 @@
     "snippet": "",
     "outlet": "InvestmentWeek",
     "language": "de",
-    "lat": 48.0771,
-    "lon": 16.2767,
+    "lat": 52.3891,
+    "lon": 13.3087,
     "publishedAt": 1795014000000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "dd49761f",
@@ -11610,10 +11610,10 @@
     "snippet": "",
     "outlet": "Investing.com España",
     "language": "es",
-    "lat": 19.3509,
-    "lon": -99.1993,
+    "lat": 40.3349,
+    "lon": -3.7693,
     "publishedAt": 1795014540000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "70825e13",
@@ -11743,10 +11743,10 @@
     "snippet": "В Германии началась проверка «Дойче банка», у которого до этого произошла утечка более 15 миллионов внутренних документов. Проверку ведет Александр Росснагель, это уполномоченный по защите данных земл ...",
     "outlet": "NEWS.IsraelInfo.co.il",
     "language": "ru",
-    "lat": 59.9367,
-    "lon": 30.3031,
+    "lat": 32.0877,
+    "lon": 34.7501,
     "publishedAt": 1795014900000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5a873f4d",
@@ -11831,10 +11831,10 @@
     "snippet": "",
     "outlet": "Ynetnews",
     "language": "en",
-    "lat": 43.8345,
-    "lon": -79.192,
+    "lat": 32.2665,
+    "lon": 34.973,
     "publishedAt": 1795016220000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "244a7b91",
@@ -11906,10 +11906,10 @@
     "snippet": "",
     "outlet": "Global Investigative Journalism Network (GIJN)",
     "language": "en",
-    "lat": 51.343,
-    "lon": -0.2574,
+    "lat": 38.743,
+    "lon": -77.1664,
     "publishedAt": 1795017660000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c1019672",
@@ -12058,8 +12058,8 @@
     "snippet": "",
     "outlet": "IDL Reporteros",
     "language": "es",
-    "lat": 4.7302,
-    "lon": -74.0435,
+    "lat": -12.0268,
+    "lon": -77.0145,
     "publishedAt": 1795018730000,
     "geoBasis": "outlet"
   },
@@ -12073,7 +12073,7 @@
     "lat": 40.4917,
     "lon": -3.6625,
     "publishedAt": 1795019029000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "45eedc89",
@@ -12094,8 +12094,8 @@
     "snippet": "",
     "outlet": "avozdocampo",
     "language": "pt",
-    "lat": -34.7598,
-    "lon": -58.4973,
+    "lat": -23.7058,
+    "lon": -46.7483,
     "publishedAt": 1795019456000,
     "geoBasis": "outlet"
   },
@@ -12131,8 +12131,8 @@
     "snippet": "",
     "outlet": "Canal 9 Bío Bío Televisión",
     "language": "es",
-    "lat": -33.3262,
-    "lon": -70.5043,
+    "lat": -36.7042,
+    "lon": -72.8863,
     "publishedAt": 1795021200000,
     "geoBasis": "outlet"
   },
@@ -12205,10 +12205,10 @@
     "snippet": "",
     "outlet": "Report.az",
     "language": "ru",
-    "lat": 55.8601,
-    "lon": 37.7304,
+    "lat": 40.5131,
+    "lon": 49.9804,
     "publishedAt": 1795022880000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5f4f2e96",
@@ -12217,10 +12217,10 @@
     "snippet": "",
     "outlet": "SuaraGarut.ID",
     "language": "de",
-    "lat": 48.2194,
-    "lon": 16.3688,
+    "lat": -7.2156,
+    "lon": 107.9048,
     "publishedAt": 1795023017000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "fd5fc832",
@@ -12229,10 +12229,10 @@
     "snippet": "El mayor banco de Alemania tiene también un pasado oscuro que ahora vuelve a perseguirlo. Según un informe periodístico, ...",
     "outlet": "BioBioChile",
     "language": "es",
-    "lat": -33.5631,
-    "lon": -70.7665,
+    "lat": -36.9411,
+    "lon": -73.1485,
     "publishedAt": 1795023060000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e632fbaf",
@@ -12344,10 +12344,10 @@
     "snippet": "",
     "outlet": "rus tvnet",
     "language": "ru",
-    "lat": 55.6472,
-    "lon": 37.4676,
+    "lat": 56.8402,
+    "lon": 23.9556,
     "publishedAt": 1795025061000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "557faa39",
@@ -12369,10 +12369,10 @@
     "snippet": "",
     "outlet": "Briefs Finance",
     "language": "en",
-    "lat": -33.7393,
-    "lon": 151.3792,
+    "lat": 51.6367,
+    "lon": 0.0422,
     "publishedAt": 1795026120000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "74c5d6e2",
@@ -12394,10 +12394,10 @@
     "snippet": "",
     "outlet": "BigGo Finance",
     "language": "en",
-    "lat": -33.8287,
-    "lon": 151.2151,
+    "lat": 25.0733,
+    "lon": 121.5711,
     "publishedAt": 1795026960000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c7a4bc03",
@@ -12418,10 +12418,10 @@
     "snippet": "",
     "outlet": "Pluang",
     "language": "en",
-    "lat": -34.0329,
-    "lon": 151.0544,
+    "lat": -6.3729,
+    "lon": 106.6914,
     "publishedAt": 1795027457000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "31dd44df",
@@ -12443,10 +12443,10 @@
     "snippet": "",
     "outlet": "Modern Ghana",
     "language": "en",
-    "lat": 51.4893,
-    "lon": -0.1303,
+    "lat": 5.5853,
+    "lon": -0.1893,
     "publishedAt": 1795028400000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "eae75ea3",
@@ -12458,7 +12458,7 @@
     "lat": 42.0557,
     "lon": 12.6424,
     "publishedAt": 1795028595000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5a80b01b",
@@ -12479,10 +12479,10 @@
     "snippet": "",
     "outlet": "Русская служба The Moscow Times",
     "language": "ru",
-    "lat": 55.9437,
-    "lon": 37.7703,
+    "lat": 52.5577,
+    "lon": 5.0483,
     "publishedAt": 1795028870000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "d6cad856",
@@ -12541,10 +12541,10 @@
     "snippet": "",
     "outlet": "The Globe and Mail",
     "language": "en",
-    "lat": 40.7228,
-    "lon": -74.0054,
+    "lat": 43.6628,
+    "lon": -79.3824,
     "publishedAt": 1795030379000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "2fcfc92b",
@@ -12553,10 +12553,10 @@
     "snippet": "",
     "outlet": "shattered.io",
     "language": "en",
-    "lat": 43.7777,
-    "lon": -79.2925,
+    "lat": 51.6317,
+    "lon": -0.0375,
     "publishedAt": 1795030915000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "9f4e7807",
@@ -12713,10 +12713,10 @@
     "snippet": "",
     "outlet": "freebeacon.com",
     "language": "en",
-    "lat": 51.537,
-    "lon": -0.0885,
+    "lat": 38.937,
+    "lon": -76.9975,
     "publishedAt": 1795040316000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "09a64758",
@@ -12761,10 +12761,10 @@
     "snippet": "",
     "outlet": "Tiempo de San Juan",
     "language": "es",
-    "lat": 19.5441,
-    "lon": -99.0314,
+    "lat": -31.4259,
+    "lon": -68.4344,
     "publishedAt": 1795041000000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "4175a38f",
@@ -12773,10 +12773,10 @@
     "snippet": "",
     "outlet": "finchannel",
     "language": "en",
-    "lat": -33.7168,
-    "lon": 151.3458,
+    "lat": 38.1362,
+    "lon": 23.8648,
     "publishedAt": 1795041096000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "14cdc717",
@@ -12811,8 +12811,8 @@
     "snippet": "",
     "outlet": "GIGAZINE",
     "language": "ja",
-    "lat": 35.5465,
-    "lon": 139.509,
+    "lat": 34.5605,
+    "lon": 135.359,
     "publishedAt": 1795042800000,
     "geoBasis": "outlet"
   },
@@ -12849,8 +12849,8 @@
     "snippet": "Deutsche-Bank-Leak: Grüne fordern Einberufung des Nationalen Sicherheitsrates Spiegel(S+) Interne Dokumente zeigen, wie wenig die Klimaversprechen der ...",
     "outlet": "Lomazoma",
     "language": "de",
-    "lat": 40.398,
-    "lon": -3.7127,
+    "lat": 52.501,
+    "lon": 13.3953,
     "publishedAt": 1795042920000,
     "geoBasis": "outlet"
   },
@@ -12861,10 +12861,10 @@
     "snippet": "2026年11月17日、ドイツ銀行に関する大規模な国際共同調査「Inside Deutsche Bank」の公開が始まった。翌18日から19日にかけては、中国・深圳でAPEC経済首脳会議が開かれている。調査報道の公開がAPECの直前に重なったこともあり、タイミングだけを見ても相当に強烈である。 調査の材料となったのは、1500万件を超える同行の内部文書である。大量のメールをはじめ、内部調査資料、顧 ...",
     "outlet": "note",
     "language": "it",
-    "lat": 41.8266,
-    "lon": 12.4072,
+    "lat": 35.6026,
+    "lon": 139.5612,
     "publishedAt": 1795043100000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b4dbea91",
@@ -12899,10 +12899,10 @@
     "snippet": "",
     "outlet": "Counterview",
     "language": "en",
-    "lat": 40.5559,
-    "lon": -74.1974,
+    "lat": 22.8659,
+    "lon": 72.3796,
     "publishedAt": 1795043700000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "fa354405",
@@ -12936,8 +12936,8 @@
     "snippet": "",
     "outlet": "Política Obrera",
     "language": "es",
-    "lat": 40.422,
-    "lon": -3.7073,
+    "lat": -34.599,
+    "lon": -58.3863,
     "publishedAt": 1795046400000,
     "geoBasis": "outlet"
   },
@@ -12984,10 +12984,10 @@
     "snippet": "Secondo l’Ft, che collabora all’inchiesta internazionale sui documenti segreti della banca tedesca, la filiale italiana del gruppo avrebbe occultato fino a 800 milioni di euro. Deutsche Bank ribatte: ...",
     "outlet": "Milano Finanza",
     "language": "nl",
-    "lat": 52.3712,
-    "lon": 4.9055,
+    "lat": 45.4652,
+    "lon": 9.2005,
     "publishedAt": 1795046400000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "a5aec8cb",
@@ -13082,10 +13082,10 @@
     "snippet": "",
     "outlet": "Around Prague",
     "language": "ru",
-    "lat": 55.8731,
-    "lon": 37.7498,
+    "lat": 50.1931,
+    "lon": 14.5708,
     "publishedAt": 1795050411000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b675c94c",
@@ -13170,10 +13170,10 @@
     "snippet": "",
     "outlet": "Marianne",
     "language": "fr",
-    "lat": 45.6858,
-    "lon": 4.7161,
+    "lat": 48.7788,
+    "lon": 2.2331,
     "publishedAt": 1795053600000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e5a875e5",
@@ -13270,8 +13270,8 @@
     "snippet": "",
     "outlet": "Handelsblatt",
     "language": "de",
-    "lat": 53.6327,
-    "lon": 10.0342,
+    "lat": 51.3087,
+    "lon": 6.8142,
     "publishedAt": 1795057304000,
     "geoBasis": "outlet"
   },
@@ -13295,10 +13295,10 @@
     "snippet": "德国黑森州数据保护专员亚历山大·罗斯纳格尔于2026年11月19日宣布，已针对德意志银行内部文件大规模泄露事件正式启动调查。调查聚焦该行是否落实了适当的数据保护措施，以及是否依法及时报告此次泄露事件；专员已要求德意志银行提交进一步信息与相关文件。 此次行动直接回应本周密集曝光的1500万份内部文件泄露事件。泄露材料涵盖邮件、合规档案、董事会纪要及内部调查报告等，内容涉及该行在哥伦比亚、俄罗斯、美国 ...",
     "outlet": "搜狐",
     "language": "zh",
-    "lat": 22.3974,
-    "lon": 113.9031,
+    "lat": 39.7584,
+    "lon": 116.2521,
     "publishedAt": 1795057860000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "44b0eb62",
@@ -13372,8 +13372,8 @@
     "snippet": "Deutsche Bank a suivi 1,7 Md€ via des sociétés écrans liées à Deripaska, selon des fuites, sous pression des dossiers Epstein et Trump.",
     "outlet": "FinanceFeeds",
     "language": "fr",
-    "lat": 37.7504,
-    "lon": -122.4527,
+    "lat": 51.4824,
+    "lon": -0.1617,
     "publishedAt": 1795061520000,
     "geoBasis": "outlet"
   },
@@ -13384,8 +13384,8 @@
     "snippet": "Deutsche Bank rastreou €1,7 bi via empresas de fachada de Deripaska, segundo arquivos vazados, com achados sobre Epstein e Trump aumentando pressão.",
     "outlet": "FinanceFeeds",
     "language": "pt",
-    "lat": 37.6779,
-    "lon": -122.5068,
+    "lat": 51.4099,
+    "lon": -0.2158,
     "publishedAt": 1795061580000,
     "geoBasis": "outlet"
   },
@@ -13396,10 +13396,10 @@
     "snippet": "",
     "outlet": "The Edge Malaysia",
     "language": "en",
-    "lat": 43.7969,
-    "lon": -79.2798,
+    "lat": 3.2829,
+    "lon": 101.7902,
     "publishedAt": 1795061700000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "9999b8a6",
@@ -13471,8 +13471,8 @@
     "snippet": "ドイツ銀行は、少なくとも17億ユーロを15以上のシェル企業を通じて移動させたネットワークを調査したと、11月18日にフォロー・ザ・マネーが報じた内部文書の漏洩が示している。一部は制裁対象のロシア人富豪オレグ・デリパスカ氏に関連付けられている。銀行は自らこのパターンを発見し、当局に報告したという。 フォロー・ザ・マネーの報道は、Inside Deutsche Bankと呼ばれる流出文書の最新情報であ ...",
     "outlet": "FinanceFeeds",
     "language": "ja",
-    "lat": 37.7793,
-    "lon": -122.3742,
+    "lat": 51.5113,
+    "lon": -0.0832,
     "publishedAt": 1795067760000,
     "geoBasis": "outlet"
   },
@@ -13522,8 +13522,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "ar",
-    "lat": 25.1772,
-    "lon": 55.2527,
+    "lat": 33.8662,
+    "lon": 35.4837,
     "publishedAt": 1795068027000,
     "geoBasis": "outlet"
   },
@@ -13534,8 +13534,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "en",
-    "lat": 25.0385,
-    "lon": 55.1203,
+    "lat": 33.7275,
+    "lon": 35.3513,
     "publishedAt": 1795068094000,
     "geoBasis": "outlet"
   },
@@ -13621,10 +13621,10 @@
     "snippet": "",
     "outlet": "il Mitte",
     "language": "it",
-    "lat": 45.3969,
-    "lon": 9.1387,
+    "lat": 52.4529,
+    "lon": 13.3537,
     "publishedAt": 1795070887000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5f5b9851",
@@ -13645,8 +13645,8 @@
     "snippet": "",
     "outlet": "GIGAZINE",
     "language": "en",
-    "lat": 35.6654,
-    "lon": 139.6718,
+    "lat": 34.6794,
+    "lon": 135.5218,
     "publishedAt": 1795071600000,
     "geoBasis": "outlet"
   },
@@ -13657,10 +13657,10 @@
     "snippet": "",
     "outlet": "Rus.Postimees.ee",
     "language": "ru",
-    "lat": 55.7017,
-    "lon": 37.5284,
+    "lat": 59.3827,
+    "lon": 24.6654,
     "publishedAt": 1795072500000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e83cdd5c",
@@ -13695,10 +13695,10 @@
     "snippet": "",
     "outlet": "Knews, Kathimerini",
     "language": "en",
-    "lat": 43.7215,
-    "lon": -79.2988,
+    "lat": 35.2545,
+    "lon": 33.4662,
     "publishedAt": 1795074300000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "cbe1accb",
@@ -13707,8 +13707,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "ar",
-    "lat": 25.2028,
-    "lon": 55.303,
+    "lat": 33.8918,
+    "lon": 35.534,
     "publishedAt": 1795075546000,
     "geoBasis": "outlet"
   },
@@ -13745,8 +13745,8 @@
     "snippet": "",
     "outlet": "082noticias.com",
     "language": "pt",
-    "lat": 40.522,
-    "lon": -3.5573,
+    "lat": -9.56,
+    "lon": -35.5893,
     "publishedAt": 1795075964000,
     "geoBasis": "outlet"
   },
@@ -13770,8 +13770,8 @@
     "snippet": "Die gleichzeitige Nutzung von SPIEGEL+-Inhalten ist auf ein Gerät beschränkt. Sie können SPIEGEL+ auf diesem Gerät weiterlesen oder sich abmelden, um Ihr ...",
     "outlet": "Lomazoma",
     "language": "de",
-    "lat": 40.5521,
-    "lon": -3.6025,
+    "lat": 52.6551,
+    "lon": 13.5055,
     "publishedAt": 1795076820000,
     "geoBasis": "outlet"
   },
@@ -13855,10 +13855,10 @@
     "snippet": "",
     "outlet": "端傳媒Initium Media",
     "language": "zh",
-    "lat": 31.2774,
-    "lon": 121.506,
+    "lat": 25.0804,
+    "lon": 121.597,
     "publishedAt": 1795078800000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "018f10e4",
@@ -13867,8 +13867,8 @@
     "snippet": "",
     "outlet": "Börse Express",
     "language": "de",
-    "lat": 52.7041,
-    "lon": 13.5484,
+    "lat": 48.3921,
+    "lon": 16.5164,
     "publishedAt": 1795078933000,
     "geoBasis": "outlet"
   },
@@ -13879,8 +13879,8 @@
     "snippet": "",
     "outlet": "Himal Southasian",
     "language": "en",
-    "lat": 51.4302,
-    "lon": -0.214,
+    "lat": 27.6402,
+    "lon": 85.238,
     "publishedAt": 1795079034000,
     "geoBasis": "outlet"
   },
@@ -13891,8 +13891,8 @@
     "snippet": "",
     "outlet": "Agência Pública",
     "language": "pt",
-    "lat": -15.81,
-    "lon": -47.8887,
+    "lat": -23.566,
+    "lon": -46.6397,
     "publishedAt": 1795079158000,
     "geoBasis": "outlet"
   },
@@ -13988,10 +13988,10 @@
     "snippet": "Inside Deutsche Bank халықаралық журналистік зерттеуінде Қазақстанның бұрынғы президенті Нұрсұлтан Назарбаевтың күйеу баласы, миллиардер Тимур Құлыбаевтың да есімі аталады. Зерттеу дерегінше, кәсіпкер ...",
     "outlet": "Жас Алаш",
     "language": "ru",
-    "lat": 60.0112,
-    "lon": 30.4029,
+    "lat": 43.3152,
+    "lon": 77.0139,
     "publishedAt": 1795080300000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "42f47fb3",
@@ -14000,10 +14000,10 @@
     "snippet": "",
     "outlet": "XTB.com",
     "language": "de",
-    "lat": 52.3205,
-    "lon": 13.5898,
+    "lat": 52.0305,
+    "lon": 21.1968,
     "publishedAt": 1795080600000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "d0a5e7f1",
@@ -14024,10 +14024,10 @@
     "snippet": "",
     "outlet": "Investing.com España",
     "language": "es",
-    "lat": 19.4684,
-    "lon": -99.0818,
+    "lat": 40.4524,
+    "lon": -3.6518,
     "publishedAt": 1795082580000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "47d32984",
@@ -14108,8 +14108,8 @@
     "snippet": "",
     "outlet": "Finanzen.net",
     "language": "de",
-    "lat": 52.6443,
-    "lon": 13.5387,
+    "lat": 49.1313,
+    "lon": 8.5377,
     "publishedAt": 1795082701000,
     "geoBasis": "outlet"
   },
@@ -14120,10 +14120,10 @@
     "snippet": "",
     "outlet": "Nice-Matin",
     "language": "fr",
-    "lat": 48.8394,
-    "lon": 2.325,
+    "lat": 43.6924,
+    "lon": 7.235,
     "publishedAt": 1795082739000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c0e12120",
@@ -14245,8 +14245,8 @@
     "snippet": "",
     "outlet": "Himal Southasian",
     "language": "en",
-    "lat": 51.4726,
-    "lon": -0.1278,
+    "lat": 27.6826,
+    "lon": 85.3242,
     "publishedAt": 1795084419000,
     "geoBasis": "outlet"
   },
@@ -14318,8 +14318,8 @@
     "snippet": "",
     "outlet": "Himal Southasian",
     "language": "en",
-    "lat": 51.3167,
-    "lon": -0.3277,
+    "lat": 27.5267,
+    "lon": 85.1243,
     "publishedAt": 1795085320000,
     "geoBasis": "outlet"
   },
@@ -14330,10 +14330,10 @@
     "snippet": "",
     "outlet": "LA17",
     "language": "es",
-    "lat": -33.6278,
-    "lon": -70.8063,
+    "lat": -34.7828,
+    "lon": -58.5203,
     "publishedAt": 1795085460000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "6dde64cf",
@@ -14342,8 +14342,8 @@
     "snippet": "",
     "outlet": "FinanceFeeds",
     "language": "en",
-    "lat": 37.6093,
-    "lon": -122.544,
+    "lat": 51.3413,
+    "lon": -0.253,
     "publishedAt": 1795085670000,
     "geoBasis": "outlet"
   },
@@ -14383,7 +14383,7 @@
     "lat": 41.7795,
     "lon": 12.3849,
     "publishedAt": 1795085940000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "cdd06d5c",
@@ -14395,7 +14395,7 @@
     "lat": 48.0591,
     "lon": 16.2085,
     "publishedAt": 1795086000000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "bbdaf679",
@@ -14417,8 +14417,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.5702,
-    "lon": -3.5903,
+    "lat": 10.0812,
+    "lon": -83.9783,
     "publishedAt": 1795086416000,
     "geoBasis": "outlet"
   },
@@ -14441,10 +14441,10 @@
     "snippet": "",
     "outlet": "Modern Ghana",
     "language": "en",
-    "lat": 51.5402,
-    "lon": -0.0543,
+    "lat": 5.6362,
+    "lon": -0.1133,
     "publishedAt": 1795088400000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "be27dfce",
@@ -14453,10 +14453,10 @@
     "snippet": "A leak of over 15 million Deutsche Bank documents reveals alleged ties to Jeffrey Epstein, Russian oligarchs, and Donald Trump, raising compliance concerns.",
     "outlet": "NewsBytes",
     "language": "en",
-    "lat": 51.3785,
-    "lon": -0.2721,
+    "lat": 12.8435,
+    "lon": 77.4499,
     "publishedAt": 1795089180000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "c063c68e",
@@ -14465,8 +14465,8 @@
     "snippet": "",
     "outlet": "FinanceFeeds",
     "language": "es",
-    "lat": 37.8197,
-    "lon": -122.3839,
+    "lat": 51.5517,
+    "lon": -0.0929,
     "publishedAt": 1795090354000,
     "geoBasis": "outlet"
   },
@@ -14477,8 +14477,8 @@
     "snippet": "",
     "outlet": "FinanceFeeds",
     "language": "it",
-    "lat": 37.9248,
-    "lon": -122.3038,
+    "lat": 51.6568,
+    "lon": -0.0128,
     "publishedAt": 1795090411000,
     "geoBasis": "outlet"
   },
@@ -14540,10 +14540,10 @@
     "snippet": "",
     "outlet": "Le Revenu",
     "language": "fr",
-    "lat": 45.7478,
-    "lon": 4.8594,
+    "lat": 48.8408,
+    "lon": 2.3764,
     "publishedAt": 1795094040000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "2f95004d",
@@ -14628,10 +14628,10 @@
     "snippet": "",
     "outlet": "Facebook",
     "language": "en",
-    "lat": -33.9338,
-    "lon": 151.1537,
+    "lat": 52.4552,
+    "lon": 13.3497,
     "publishedAt": 1795098625000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e6ece1ea",
@@ -14703,10 +14703,10 @@
     "snippet": "",
     "outlet": "NVI Noticias",
     "language": "es",
-    "lat": 40.5598,
-    "lon": -3.5197,
+    "lat": 17.2158,
+    "lon": -96.5427,
     "publishedAt": 1795102053000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e6e6e7cd",
@@ -14728,10 +14728,10 @@
     "snippet": "",
     "outlet": "برلمان.كوم",
     "language": "ar",
-    "lat": 25.1792,
-    "lon": 55.2108,
+    "lat": 33.9942,
+    "lon": -6.9012,
     "publishedAt": 1795103753000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "1841ee62",
@@ -14881,10 +14881,10 @@
     "snippet": "",
     "outlet": "LINE TODAY",
     "language": "zh",
-    "lat": 39.9969,
-    "lon": 116.4654,
+    "lat": 25.1259,
+    "lon": 121.6234,
     "publishedAt": 1795115787000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "10e7a6fd",
@@ -14906,8 +14906,8 @@
     "snippet": "",
     "outlet": "АНТИКОР",
     "language": "en",
-    "lat": 55.9189,
-    "lon": 37.7456,
+    "lat": 50.6129,
+    "lon": 30.6516,
     "publishedAt": 1795118940000,
     "geoBasis": "outlet"
   },
@@ -14918,8 +14918,8 @@
     "snippet": "",
     "outlet": "АНТИКОР",
     "language": "ru",
-    "lat": 55.8108,
-    "lon": 37.6562,
+    "lat": 50.5048,
+    "lon": 30.5622,
     "publishedAt": 1795118940000,
     "geoBasis": "outlet"
   },
@@ -14943,10 +14943,10 @@
     "snippet": "",
     "outlet": "Asbarez",
     "language": "en",
-    "lat": 40.7279,
-    "lon": -74.0255,
+    "lat": 34.0669,
+    "lon": -118.2635,
     "publishedAt": 1795123122000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "4d5fa0d5",
@@ -14968,10 +14968,10 @@
     "snippet": "El mayor banco de Alemania tiene también un pasado oscuro que ahora vuelve a perseguirlo. Según un informe periodístico, una filtración de datos revela numerosas prácticas comerciales cuestionables de ...",
     "outlet": "El Mostrador",
     "language": "es",
-    "lat": -34.4477,
-    "lon": -58.1849,
+    "lat": -33.2927,
+    "lon": -70.4709,
     "publishedAt": 1795132800000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "31c66a0f",
@@ -14980,10 +14980,10 @@
     "snippet": "Deutsche Bank’s misconduct scandals are a thing of the past, CEO Christian Sewing said on Friday, days after a massive leak laid bare years of compliance failings at Germany’s biggest lender.",
     "outlet": "AML Intelligence",
     "language": "en",
-    "lat": -33.6862,
-    "lon": 151.4012,
+    "lat": 51.6898,
+    "lon": 0.0642,
     "publishedAt": 1795135620000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "41cde0e5",
@@ -15018,10 +15018,10 @@
     "snippet": "С начала полномасштабного вторжения по 4 августа 2022 года таможенные записи зафиксировали не менее 36 поставок российского угля швейцарской компании DTEK Trading SA, входящей в состав энергохолдинга ...",
     "outlet": "news.telegraf",
     "language": "ru",
-    "lat": 55.8373,
-    "lon": 37.7077,
+    "lat": 50.5313,
+    "lon": 30.6137,
     "publishedAt": 1795140300000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "61c668cc",
@@ -15069,10 +15069,10 @@
     "snippet": "Das Kölner Schauspiel bringt brisante Banken-Recherchen auf die Bühne. Der Abend beleuchtet Geldwäsche und staatliche Hilflosigkeit im Finanzsektor.",
     "outlet": "Kölner Stadt-Anzeiger via MSN",
     "language": "de",
-    "lat": 48.3654,
-    "lon": 16.5649,
+    "lat": 51.0954,
+    "lon": 7.1519,
     "publishedAt": 1795142472000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "ec18d90b",
@@ -15081,8 +15081,8 @@
     "snippet": "",
     "outlet": "LIGA.net",
     "language": "ru",
-    "lat": 55.5746,
-    "lon": 37.795,
+    "lat": 50.2686,
+    "lon": 30.701,
     "publishedAt": 1795143000000,
     "geoBasis": "outlet"
   },
@@ -15093,8 +15093,8 @@
     "snippet": "Ім'я українського бізнесмена Ріната Ахметова фігурує у витоку внутрішніх документів Deutsche Bank, доступ до яких отримали журналісти Слідство.Інфо в межах міжнародного проєкту Inside Deutsche Bank.",
     "outlet": "LIGA.net",
     "language": "en",
-    "lat": 55.9014,
-    "lon": 37.7718,
+    "lat": 50.5954,
+    "lon": 30.6778,
     "publishedAt": 1795143000000,
     "geoBasis": "outlet"
   },
@@ -15108,7 +15108,7 @@
     "lat": 49.016,
     "lon": 2.5515,
     "publishedAt": 1795143990000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5540bb84",
@@ -15132,7 +15132,7 @@
     "lat": 52.6152,
     "lon": 13.5407,
     "publishedAt": 1795144680000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "aa91c270",
@@ -15166,8 +15166,8 @@
     "snippet": "Das Datenleck der Deutschen Bank zeigt, wie die Erbschaftssteuer rechtlich umgangen wird. Es handele sich um einen „Skandal mit Ansage“, sagt ...",
     "outlet": "Lomazoma",
     "language": "de",
-    "lat": 40.3437,
-    "lon": -3.7417,
+    "lat": 52.4467,
+    "lon": 13.3663,
     "publishedAt": 1795149960000,
     "geoBasis": "outlet"
   },
@@ -15178,10 +15178,10 @@
     "snippet": "",
     "outlet": "Ак Жайык",
     "language": "ru",
-    "lat": 59.8719,
-    "lon": 30.2885,
+    "lat": 51.1649,
+    "lon": 51.3405,
     "publishedAt": 1795150080000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "9afa5201",
@@ -15267,8 +15267,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "ar",
-    "lat": 25.0389,
-    "lon": 55.1144,
+    "lat": 33.7279,
+    "lon": 35.3454,
     "publishedAt": 1795154400000,
     "geoBasis": "outlet"
   },
@@ -15279,8 +15279,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "en",
-    "lat": 25.0734,
-    "lon": 55.1548,
+    "lat": 33.7624,
+    "lon": 35.3858,
     "publishedAt": 1795154400000,
     "geoBasis": "outlet"
   },
@@ -15343,10 +15343,10 @@
     "snippet": "",
     "outlet": "Philenews",
     "language": "en",
-    "lat": -26.341,
-    "lon": 27.9505,
+    "lat": 35.049,
+    "lon": 33.2855,
     "publishedAt": 1795156120000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "ce4cbc34",
@@ -15368,10 +15368,10 @@
     "snippet": "Hesse’s data commissioner is examining Deutsche Bank’s safeguards and breach reporting after 15 million files leaked.",
     "outlet": "The Paypers",
     "language": "en",
-    "lat": 51.6148,
-    "lon": -0.0111,
+    "lat": 52.4778,
+    "lon": 5.0119,
     "publishedAt": 1795157580000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "fda30151",
@@ -15380,8 +15380,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "ar",
-    "lat": 25.1285,
-    "lon": 55.235,
+    "lat": 33.8175,
+    "lon": 35.466,
     "publishedAt": 1795158000000,
     "geoBasis": "outlet"
   },
@@ -15392,8 +15392,8 @@
     "snippet": "",
     "outlet": "Daraj",
     "language": "en",
-    "lat": 25.1958,
-    "lon": 55.2211,
+    "lat": 33.8848,
+    "lon": 35.4521,
     "publishedAt": 1795158000000,
     "geoBasis": "outlet"
   },
@@ -15429,10 +15429,10 @@
     "snippet": "ДТЕК Ріната Ахметова ймовірно вела бізнес з російською шахтою до серпня 2022 року – хоча офіційно заперечує будь-які відносини з компаніями РФ після повномасштабного вторгнення у лютому 2022-го.",
     "outlet": "НВ Бізнес",
     "language": "ru",
-    "lat": 60.0617,
-    "lon": 30.4536,
+    "lat": 50.5777,
+    "lon": 30.6416,
     "publishedAt": 1795159140000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "6013f76d",
@@ -15453,10 +15453,10 @@
     "snippet": "",
     "outlet": "Tribuna.com",
     "language": "ru",
-    "lat": 59.7834,
-    "lon": 30.2188,
+    "lat": 50.2994,
+    "lon": 30.4068,
     "publishedAt": 1795160640000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "87821431",
@@ -15506,7 +15506,7 @@
     "lat": 40.7116,
     "lon": -73.9983,
     "publishedAt": 1795161720000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "08eb1c80",
@@ -15515,8 +15515,8 @@
     "snippet": "A new flood of leaked documents is putting fresh scrutiny on banking behemoth Deutsche Bank.",
     "outlet": "Marketplace",
     "language": "en",
-    "lat": 39.1611,
-    "lon": -94.5543,
+    "lat": 34.1101,
+    "lon": -118.2203,
     "publishedAt": 1795161720000,
     "geoBasis": "outlet"
   },
@@ -15527,8 +15527,8 @@
     "snippet": "",
     "outlet": "Marketplace.org",
     "language": "en",
-    "lat": 38.9601,
-    "lon": -94.7052,
+    "lat": 33.9091,
+    "lon": -118.3712,
     "publishedAt": 1795162080000,
     "geoBasis": "outlet"
   },
@@ -15552,10 +15552,10 @@
     "snippet": "",
     "outlet": "News Telegraf",
     "language": "ru",
-    "lat": 55.8062,
-    "lon": 37.633,
+    "lat": 50.5002,
+    "lon": 30.539,
     "publishedAt": 1795163815000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "ec69de2d",
@@ -15567,7 +15567,7 @@
     "lat": 19.2535,
     "lon": -99.272,
     "publishedAt": 1795164577000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "3c83aa73",
@@ -15576,10 +15576,10 @@
     "snippet": "",
     "outlet": "Articolo21",
     "language": "it",
-    "lat": 45.611,
-    "lon": 9.3275,
+    "lat": 42.047,
+    "lon": 12.6335,
     "publishedAt": 1795164660000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b8c8f1a9",
@@ -15601,10 +15601,10 @@
     "snippet": "",
     "outlet": "Monitor Expresso",
     "language": "es",
-    "lat": 19.5485,
-    "lon": -99.052,
+    "lat": 18.6015,
+    "lon": -69.85,
     "publishedAt": 1795165260000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "2c511209",
@@ -15773,8 +15773,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.3831,
-    "lon": -3.7461,
+    "lat": 9.8941,
+    "lon": -84.1341,
     "publishedAt": 1795172839000,
     "geoBasis": "outlet"
   },
@@ -15811,10 +15811,10 @@
     "snippet": "",
     "outlet": "Maktoob",
     "language": "en",
-    "lat": -33.7815,
-    "lon": 151.2872,
+    "lat": 28.7015,
+    "lon": 77.2872,
     "publishedAt": 1795176919000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "50cf1c1a",
@@ -15836,8 +15836,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.3811,
-    "lon": -3.7731,
+    "lat": 9.8921,
+    "lon": -84.1611,
     "publishedAt": 1795179166000,
     "geoBasis": "outlet"
   },
@@ -15863,7 +15863,7 @@
     "lat": 51.4095,
     "lon": -0.2663,
     "publishedAt": 1795181148000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b0f2c810",
@@ -15946,8 +15946,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.5715,
-    "lon": -3.583,
+    "lat": 10.0825,
+    "lon": -83.971,
     "publishedAt": 1795187014000,
     "geoBasis": "outlet"
   },
@@ -15958,8 +15958,8 @@
     "snippet": "",
     "outlet": "Himal Southasian",
     "language": "en",
-    "lat": 51.4709,
-    "lon": -0.1735,
+    "lat": 27.6809,
+    "lon": 85.2785,
     "publishedAt": 1795189092000,
     "geoBasis": "outlet"
   },
@@ -16059,10 +16059,10 @@
     "snippet": "",
     "outlet": "BigGo Finance",
     "language": "en",
-    "lat": -33.7065,
-    "lon": 151.3809,
+    "lat": 25.1955,
+    "lon": 121.7369,
     "publishedAt": 1795193700000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "0b02e087",
@@ -16071,10 +16071,10 @@
     "snippet": "",
     "outlet": "Courrier international",
     "language": "fr",
-    "lat": 45.677,
-    "lon": 4.7826,
+    "lat": 48.77,
+    "lon": 2.2996,
     "publishedAt": 1795193771000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "0284da48",
@@ -16108,10 +16108,10 @@
     "snippet": "",
     "outlet": "theTrumpet.com",
     "language": "en",
-    "lat": 51.3315,
-    "lon": -0.3128,
+    "lat": 35.4775,
+    "lon": -97.6628,
     "publishedAt": 1795199330000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "67301e0a",
@@ -16170,10 +16170,10 @@
     "snippet": "",
     "outlet": "عنب بلدي",
     "language": "ar",
-    "lat": 31.8578,
-    "lon": 35.8576,
+    "lat": 36.9678,
+    "lon": 37.3256,
     "publishedAt": 1795215660000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "31addab3",
@@ -16208,10 +16208,10 @@
     "snippet": "",
     "outlet": "EL CEO",
     "language": "es",
-    "lat": 4.7646,
-    "lon": -74.0276,
+    "lat": 19.4866,
+    "lon": -99.0886,
     "publishedAt": 1795220446000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "e454a80e",
@@ -16259,8 +16259,8 @@
     "snippet": "",
     "outlet": "Follow the Money - Platform for investigative journalism",
     "language": "en",
-    "lat": 52.6274,
-    "lon": 13.5468,
+    "lat": 52.4774,
+    "lon": 5.0368,
     "publishedAt": 1795237200000,
     "geoBasis": "outlet"
   },
@@ -16284,8 +16284,8 @@
     "snippet": "",
     "outlet": "Börse Express",
     "language": "de",
-    "lat": 52.4032,
-    "lon": 13.3291,
+    "lat": 48.0912,
+    "lon": 16.2971,
     "publishedAt": 1795241708000,
     "geoBasis": "outlet"
   },
@@ -16296,8 +16296,8 @@
     "snippet": "SPD-Generalsekretär Klüssendorf kritisierte, dass sich jeder, der ein Milliardenvermögen geschenkt bekommt oder erbt, beim Finanzamt derzeit rechtlich als ...",
     "outlet": "Lomazoma",
     "language": "de",
-    "lat": 40.4438,
-    "lon": -3.7169,
+    "lat": 52.5468,
+    "lon": 13.3911,
     "publishedAt": 1795242000000,
     "geoBasis": "outlet"
   },
@@ -16385,10 +16385,10 @@
     "snippet": "",
     "outlet": "Комерсант Український",
     "language": "ru",
-    "lat": 59.9888,
-    "lon": 30.3492,
+    "lat": 50.5048,
+    "lon": 30.5372,
     "publishedAt": 1795266420000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "a157122c",
@@ -16397,10 +16397,10 @@
     "snippet": "",
     "outlet": "Millat Times",
     "language": "en",
-    "lat": 40.8709,
-    "lon": -73.8576,
+    "lat": 28.7719,
+    "lon": 77.3574,
     "publishedAt": 1795269758000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "df00ff1e",
@@ -16409,8 +16409,8 @@
     "snippet": "",
     "outlet": "IDL Reporteros",
     "language": "es",
-    "lat": 4.5786,
-    "lon": -74.22,
+    "lat": -12.1784,
+    "lon": -77.191,
     "publishedAt": 1795276135000,
     "geoBasis": "outlet"
   },
@@ -16421,8 +16421,8 @@
     "snippet": "",
     "outlet": "El Clip",
     "language": "es",
-    "lat": 40.2724,
-    "lon": -3.8819,
+    "lat": 9.7834,
+    "lon": -84.2699,
     "publishedAt": 1795277657000,
     "geoBasis": "outlet"
   },
@@ -16433,10 +16433,10 @@
     "snippet": "",
     "outlet": "Virgule.lu",
     "language": "fr",
-    "lat": 50.9837,
-    "lon": 4.4702,
+    "lat": 49.7457,
+    "lon": 6.2482,
     "publishedAt": 1795284600000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "b770a341",
@@ -16484,10 +16484,10 @@
     "snippet": "Di Mario* Lettieri e Paolo Raimondi** L’inchiesta giornalistica “Inside Deutsche Bank” ha scoperto un vaso di Pandora ricco di segreti, malefatte e frodi, molte delle quali già conosciute da anni.",
     "outlet": "corrierenazionale",
     "language": "it",
-    "lat": 45.1942,
-    "lon": 7.7947,
+    "lat": 42.0242,
+    "lon": 12.6047,
     "publishedAt": 1795311600000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "29f65f8f",
@@ -16560,8 +16560,8 @@
     "snippet": "",
     "outlet": "082noticias.com",
     "language": "pt",
-    "lat": 40.4402,
-    "lon": -3.6891,
+    "lat": -9.6418,
+    "lon": -35.7211,
     "publishedAt": 1795329560000,
     "geoBasis": "outlet"
   },
@@ -16598,10 +16598,10 @@
     "snippet": "",
     "outlet": "Digg",
     "language": "en",
-    "lat": -33.9603,
-    "lon": 151.1586,
+    "lat": 37.6837,
+    "lon": -122.4694,
     "publishedAt": 1795380173000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "ee94b180",
@@ -16623,10 +16623,10 @@
     "snippet": "",
     "outlet": "Jeune Afrique",
     "language": "fr",
-    "lat": 45.6664,
-    "lon": 4.7718,
+    "lat": 48.7594,
+    "lon": 2.2888,
     "publishedAt": 1795396320000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "234a7ada",
@@ -16635,10 +16635,10 @@
     "snippet": "Один из крупнейших венгерских банков MKB, контролирующий окружение премьер-министра Виктора Орбана, годами помогал переводить в Европу миллиарды евро российского олигарха ...",
     "outlet": "УкрРудПром",
     "language": "ru",
-    "lat": 55.8761,
-    "lon": 37.7027,
+    "lat": 50.5701,
+    "lon": 30.6087,
     "publishedAt": 1795396800000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   },
   {
     "id": "5d275f60",
@@ -16660,8 +16660,8 @@
     "snippet": "",
     "outlet": "Agência Pública",
     "language": "pt",
-    "lat": -15.6373,
-    "lon": -47.7348,
+    "lat": -23.3933,
+    "lon": -46.4858,
     "publishedAt": 1795424621000,
     "geoBasis": "outlet"
   },
@@ -16672,9 +16672,9 @@
     "snippet": "",
     "outlet": "The Africa Report",
     "language": "en",
-    "lat": -26.0059,
-    "lon": 27.8797,
+    "lat": 49.0551,
+    "lon": 2.1847,
     "publishedAt": 1795428111000,
-    "geoBasis": "language"
+    "geoBasis": "outlet"
   }
 ]

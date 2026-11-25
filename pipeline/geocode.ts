@@ -4,7 +4,8 @@
  * 3-tier geocoding:
  *   1. country  — explicit country → curated city in that country
  *   2. outlet   — curated outlet HQ table
- *   3. language — representative city for the language (fallback)
+ *   3. language — representative city for the language (last resort: a guess,
+ *                 so every outlet that reaches it should be added to the table)
  *
  * City picks are deterministic (FNV-1a hash of the outlet) with a small
  * ±0.2° jitter so clusters look organic but are stable across runs.

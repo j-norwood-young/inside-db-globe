@@ -60,6 +60,12 @@ function main(): void {
   console.log(`  outlet   (curated outlet HQ):              ${tiers.outlet} (${pct(tiers.outlet)})`);
   console.log(`  language (representative language city):   ${tiers.language} (${pct(tiers.language)})`);
   console.log(`  placed at a real outlet location:          ${tiers.country + tiers.outlet} (${pct(tiers.country + tiers.outlet)})`);
+  const guessed = [...new Set(stories.filter((s) => s.geoBasis === 'language').map((s) => s.outlet))].sort();
+  if (guessed.length > 0) {
+    console.log('');
+    console.log(`WARNING: ${guessed.length} outlets have no known location; add them to data/tables/outlet-geo.json:`);
+    for (const o of guessed) console.log(`  ${JSON.stringify(o.trim().toLowerCase())}`);
+  }
   console.log('');
   console.log('Top countries:');
   for (const [code, n] of Object.entries(countries)
