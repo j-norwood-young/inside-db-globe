@@ -1,8 +1,8 @@
 # Inside Deutsche Bank — World Coverage Globe
 
 A full-screen 3D globe that replays how news of the "Inside Deutsche Bank" leak spread
-around the world: 1,341 stories in 11 languages, each appearing at its publication time
-(UTC) on a realistic day/night Earth, over a 7.2-day window (16–23 Nov 2026).
+around the world: 1,546 stories in 22 languages, each appearing at its publication time
+(UTC) on a realistic day/night Earth, over a 9.2-day window (16–25 Nov 2026).
 
 SvelteKit 5 + TypeScript + three.js, built as a single static page.
 
@@ -38,7 +38,7 @@ copied in locally; the committed `data/build/*.json` is all the app build needs.
 
 - **Intro**: on load the whole window plays from the start, then rests at the end. Any
   play or scrub input stops it; ⏮ replays it from the start, ⏭ jumps to the end.
-- **Time**: there is one playback rate — the whole 7.2-day window in 30 s (~5.8 sim-hours
+- **Time**: there is one playback rate — the whole 9.2-day window in 30 s (~7.4 sim-hours
   per second). space = play/pause (from the end it replays) ·
   drag the timeline to scrub. The histogram shows stories per 15 min, stacked by language.
 - **Stories**: hover for the headline; click to fly in to the story at a tilt (dragging
@@ -49,7 +49,7 @@ copied in locally; the committed `data/build/*.json` is all the app build needs.
   view you had before the first click — hopping between stories or clusters keeps that
   view as the one to return to.
 - **Prev/next**: ‹ › on the detail card step through stories in publication order
-  ("12 of 1,341" — counting stories published so far that pass the filters). A step within
+  ("12 of 1,546" — counting stories published so far that pass the filters). A step within
   the open cluster just moves the selection; anywhere else, the camera flies there.
 - **Spin**: flick the globe sideways and it keeps turning about its axis, slowing over a
   few seconds; touch it or scroll to stop. (Off under reduced motion.)
@@ -124,7 +124,9 @@ pixel ratio is capped at 2, and markers need no per-frame CPU work.
   to JPEG, the clouds map recompressed, and the day map colour-graded in the
   shader (darker, less saturated, warmer land, deeper ocean — see `globe/earth.ts`). The same credit appears in the app's About box.
 - Data: keyword monitoring export of the leak's coverage, 16–23 Nov 2026
-  (`inside-db-news up to 23.11.25.xlsx` → `data/stories.csv`).
+  (`inside-db-news up to 23.11.25.xlsx` → `data/stories.csv`), plus 205 publishing-partner
+  stories up to 25 Nov gathered from partner sites, RSS feeds and the consortium's story
+  tracker (appended to the same CSV).
 
 ## Licence
 

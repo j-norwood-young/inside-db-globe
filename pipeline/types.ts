@@ -76,6 +76,7 @@ export const COUNTRY_NAMES: Record<string, string> = {
 
 export const KNOWN_LANGUAGES = new Set([
   'en', 'de', 'es', 'fr', 'it', 'ru', 'pt', 'ar', 'zh', 'nl', 'ja',
+  'cs', 'da', 'el', 'et', 'hu', 'id', 'ko', 'lt', 'ms', 'tr', 'uk',
 ]);
 
 /** FNV-1a 32-bit hash of a string. Deterministic across runs. */

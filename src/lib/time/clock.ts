@@ -15,7 +15,7 @@ export const clock = {
 };
 
 export const PLAY_MS = 30000;
-/** sim-ms advanced per real-ms (~5.8 sim-hours per second for the 7.2-day window) */
+/** sim-ms advanced per real-ms (~7.4 sim-hours per second for the 9.2-day window) */
 export const PLAY_SPEED = (DATA.windowEnd - DATA.windowStart) / PLAY_MS;
 
 export const clampWindow = (t: number) =>

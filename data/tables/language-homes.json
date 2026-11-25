@@ -55,5 +55,45 @@
   "ja": [
     { "city": "Tokyo", "lat": 35.68, "lon": 139.652 },
     { "city": "Osaka", "lat": 34.694, "lon": 135.502 }
+  ],
+  "cs": [
+    { "city": "Prague", "lat": 50.075, "lon": 14.438 },
+    { "city": "Brno", "lat": 49.195, "lon": 16.607 }
+  ],
+  "da": [
+    { "city": "Copenhagen", "lat": 55.676, "lon": 12.568 },
+    { "city": "Aarhus", "lat": 56.163, "lon": 10.204 }
+  ],
+  "el": [
+    { "city": "Athens", "lat": 37.984, "lon": 23.728 },
+    { "city": "Nicosia", "lat": 35.186, "lon": 33.382 }
+  ],
+  "et": [
+    { "city": "Tallinn", "lat": 59.437, "lon": 24.754 }
+  ],
+  "hu": [
+    { "city": "Budapest", "lat": 47.498, "lon": 19.04 }
+  ],
+  "id": [
+    { "city": "Jakarta", "lat": -6.208, "lon": 106.846 },
+    { "city": "Surabaya", "lat": -7.257, "lon": 112.752 }
+  ],
+  "ko": [
+    { "city": "Seoul", "lat": 37.567, "lon": 126.978 },
+    { "city": "Busan", "lat": 35.18, "lon": 129.075 }
+  ],
+  "lt": [
+    { "city": "Vilnius", "lat": 54.687, "lon": 25.28 }
+  ],
+  "ms": [
+    { "city": "Kuala Lumpur", "lat": 3.139, "lon": 101.687 }
+  ],
+  "tr": [
+    { "city": "Istanbul", "lat": 41.008, "lon": 28.978 },
+    { "city": "Ankara", "lat": 39.934, "lon": 32.86 }
+  ],
+  "uk": [
+    { "city": "Kyiv", "lat": 50.45, "lon": 30.523 },
+    { "city": "Lviv", "lat": 49.839, "lon": 24.03 }
   ]
 }

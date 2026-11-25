@@ -1,7 +1,9 @@
 /**
- * Colour-blind-safe categorical palette (Okabe–Ito base, extended for 11
- * languages). One fixed colour per language across globe, legend, histogram
- * and stats.
+ * Categorical palette: Okabe–Ito base for the 11 main languages (colour-blind
+ * safe), then lighter, separately-hued tints for the smaller partner languages,
+ * which can't all stay distinct for every viewer — the legend and detail card
+ * name the language too. One fixed colour per language across globe, legend,
+ * histogram and stats.
  */
 export const LANG_COLORS: Record<string, string> = {
   en: '#56b4e9', // sky blue
@@ -14,7 +16,18 @@ export const LANG_COLORS: Record<string, string> = {
   ar: '#9c9c9c', // grey
   zh: '#ff0000', // red
   nl: '#8f7fd6', // muted purple
-  ja: '#66e0d0' // teal
+  ja: '#66e0d0', // teal
+  cs: '#a1887f', // taupe
+  da: '#e040fb', // magenta
+  el: '#b0bec5', // blue-grey
+  et: '#ce93d8', // light violet
+  hu: '#9acd32', // yellow-green
+  id: '#ffcc80', // peach
+  ko: '#ff8a80', // light coral
+  lt: '#4caf50', // green
+  ms: '#c6ff00', // lime
+  tr: '#00bcd4', // cyan
+  uk: '#7986cb' // periwinkle
 };
 
 export const LANG_NAMES: Record<string, string> = {
@@ -28,7 +41,18 @@ export const LANG_NAMES: Record<string, string> = {
   ar: 'Arabic',
   zh: 'Chinese',
   nl: 'Dutch',
-  ja: 'Japanese'
+  ja: 'Japanese',
+  cs: 'Czech',
+  da: 'Danish',
+  el: 'Greek',
+  et: 'Estonian',
+  hu: 'Hungarian',
+  id: 'Indonesian',
+  ko: 'Korean',
+  lt: 'Lithuanian',
+  ms: 'Malay',
+  tr: 'Turkish',
+  uk: 'Ukrainian'
 };
 
 export const langColor = (lang: string): string => LANG_COLORS[lang] ?? '#9c9c9c';

@@ -1484,6 +1484,78 @@
     "geoBasis": "country"
   },
   {
+    "id": "013d9ee6",
+    "url": "https://theblacksea.eu/investigations/idb/db-bank-at-its-best/",
+    "headline": "Deutsche Bank “at its best”: how it financed Erdoğan’s megaprojects",
+    "snippet": "",
+    "outlet": "The Black Sea",
+    "language": "en",
+    "lat": 41.1093,
+    "lon": 29.1137,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "f2b4acf2",
+    "url": "https://theblacksea.eu/investigations/idb/deutsche-bank-mega-projeler/",
+    "headline": "Deutsche Bank’ın AKP’nin mega projeleriyle imtihanı",
+    "snippet": "",
+    "outlet": "The Black Sea",
+    "language": "tr",
+    "lat": 40.9076,
+    "lon": 28.8869,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "95c9e406",
+    "url": "https://theblacksea.eu/investigations/idb/deutsche-bankin-icyuzu/",
+    "headline": "Deutsche Bank’ın İç Yüzü",
+    "snippet": "",
+    "outlet": "The Black Sea",
+    "language": "tr",
+    "lat": 41.1655,
+    "lon": 29.176,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "5d176476",
+    "url": "https://theblacksea.eu/investigations/idb/inside-deutsche-bank/",
+    "headline": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of a global financial giant",
+    "snippet": "",
+    "outlet": "The Black Sea",
+    "language": "en",
+    "lat": 41.0692,
+    "lon": 29.0548,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "4082fab6",
+    "url": "https://theblacksea.eu/investigations/idb/oligarchs-secrecy-havens/",
+    "headline": "Oligarchs and secrecy havens: Deutsche Bank’s high-risk Russian entanglement",
+    "snippet": "",
+    "outlet": "The Black Sea",
+    "language": "en",
+    "lat": 40.8455,
+    "lon": 28.8563,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "6fae8439",
+    "url": "https://theblacksea.eu/investigations/idb/oligarklar/",
+    "headline": "Oligarklar, savaş ve yaptırımlar: Deutsche Bank’ın Rusya ile riskli ilişkileri",
+    "snippet": "",
+    "outlet": "The Black Sea",
+    "language": "tr",
+    "lat": 40.9476,
+    "lon": 28.9581,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "16ff271d",
     "url": "https://vlast.kz/biznes/71644-inside-deutsche-bank-utecka-15-millionov-fajlov-raskryvaet-sekrety-skandaly-i-dvojnye-standarty.html",
     "headline": "Inside Deutsche Bank: утечка 15 миллионов файлов раскрывает секреты, скандалы и двойные стандарты",
@@ -1496,6 +1568,67 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "cf40d87e",
+    "url": "https://vlast.kz/english/71643-inside-deutsche-bank-leak-of-15-million-files-exposes-secrets-scandals-and-double-standards-of-global-financial-giant.html",
+    "headline": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of global financial giant - Аналитический интернет-журнал Власть",
+    "snippet": "",
+    "outlet": "Vlast.kz",
+    "language": "en",
+    "lat": 43.3643,
+    "lon": 77.088,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "c63adfc7",
+    "url": "https://www.berlingske.dk/virksomheder/trump-fik-mistaenkelige-betalinger-fra-konti-i-danske-banks-hvidvaskplagede-filial",
+    "headline": "Trump fik mistænkelige betalinger fra konti i Danske Banks hvidvaskplagede filial",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.8362,
+    "lon": 12.7128,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "48f98d84",
+    "url": "https://www.dawn.com/news/2044910/inside-deutsche-bank-all-you-need-to-know",
+    "headline": "Inside Deutsche Bank: All you need to know",
+    "snippet": "",
+    "outlet": "Dawn",
+    "language": "en",
+    "lat": 24.9805,
+    "lon": 67.1639,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "ca1b7ebd",
+    "url": "https://www.dawn.com/news/2045169/bankrolling-attacks-in-gaza-how-a-global-bank-arms-israel",
+    "headline": "Bankrolling attacks in Gaza: How a global bank arms Israel",
+    "snippet": "",
+    "outlet": "Dawn",
+    "language": "en",
+    "lat": 24.7772,
+    "lon": 66.9668,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "026847b6",
+    "url": "https://www.derstandard.at/story/3000000346866/inside-deutsche-bank-schmutziges-geld-oligarchen-ein-us-praesident-und-was-die-bank-wirklich-wusste",
+    "headline": "Inside Deutsche Bank: Schmutziges Geld, Oligarchen, ein US-Präsident – und was die Bank wirklich wusste",
+    "snippet": "",
+    "outlet": "Der Standard",
+    "language": "de",
+    "country": "AT",
+    "lat": 48.1906,
+    "lon": 16.34,
+    "publishedAt": 1794895200000,
+    "geoBasis": "country"
+  },
+  {
     "id": "19b3d373",
     "url": "https://www.derstandard.at/story/3000000348862/schlechtes-karma-wie-die-deutsche-bank-die-signa-durchschaute-und-letztlich-doch-akzeptierte",
     "headline": "\"Schlechtes Karma\": Wie die Deutsche Bank die Signa durchschaute und letztlich doch akzeptierte",
@@ -1505,6 +1638,19 @@
     "country": "AT",
     "lat": 48.0146,
     "lon": 16.539,
+    "publishedAt": 1794895200000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "0136d762",
+    "url": "https://www.derstandard.at/story/3000000348864/putins-banker-wie-die-deutsche-bank-russische-oligarchen-schuetzte",
+    "headline": "Putins Banker: Wie die Deutsche Bank russische Oligarchen schützte",
+    "snippet": "",
+    "outlet": "Der Standard",
+    "language": "de",
+    "country": "AT",
+    "lat": 48.2623,
+    "lon": 16.4682,
     "publishedAt": 1794895200000,
     "geoBasis": "country"
   },
@@ -1548,6 +1694,19 @@
     "geoBasis": "country"
   },
   {
+    "id": "b9af576d",
+    "url": "https://www.derstandard.at/story/3000000348877/projekt-erbfolge-die-erlassenen-steuern-des-springer-chefs-mathias-doepfner",
+    "headline": "Projekt Erbfolge: Die erlassenen Steuern des Springer-Chefs Mathias Döpfner",
+    "snippet": "",
+    "outlet": "Der Standard",
+    "language": "de",
+    "country": "AT",
+    "lat": 48.0612,
+    "lon": 16.2604,
+    "publishedAt": 1794895200000,
+    "geoBasis": "country"
+  },
+  {
     "id": "e1879085",
     "url": "https://www.derstandard.at/story/3000000348884/hacker-aus-china-spaehten-monatelang-unbeobachtet-die-deutsche-bank-aus",
     "headline": "Hacker aus China spähten monatelang unbeobachtet die Deutsche Bank aus",
@@ -1586,6 +1745,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "e92f0d84",
+    "url": "https://www.irpimedia.eu/cosa-ce-nel-leak-inside-deutsche-bank/",
+    "headline": "Cosa c’è nel leak Inside Deutsche Bank?",
+    "snippet": "",
+    "outlet": "IrpiMedia",
+    "language": "it",
+    "lat": 45.3667,
+    "lon": 9.0772,
+    "publishedAt": 1794895200000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "a09ee738",
     "url": "https://www.malaysiakini.com/news/889234-inside-deutsche-bank-15m-leaked-files-expose-secrets-scandals-double-standards",
     "headline": "Inside Deutsche Bank: 15m leaked files expose secrets, scandals, double standards",
@@ -1607,6 +1778,19 @@
     "country": "DE",
     "lat": 51.0153,
     "lon": 7.0215,
+    "publishedAt": 1794895200000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "a2afb752",
+    "url": "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-offenbart-unzensiert-die-dunklen-facetten-des-christian-sewing-a-e4f11c60-9e80-4bfb-af58-3f9be6bd4ca3",
+    "headline": "Deutsche Bank: Datenleak zeigt die dunklen Facetten von CEO Christian Sewing",
+    "snippet": "",
+    "outlet": "Manager Magazin",
+    "language": "de",
+    "country": "DE",
+    "lat": 50.8448,
+    "lon": 6.9012,
     "publishedAt": 1794895200000,
     "geoBasis": "country"
   },
@@ -1779,6 +1963,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "68cbd00b",
+    "url": "https://ekspress.delfi.ee/artikkel/120625030/danske-eesti-rahapesumasinast-joudis-raha-donald-trumpi-taskusse",
+    "headline": "Danske Eesti rahapesumasinast jõudis raha Donald Trumpi taskusse",
+    "snippet": "",
+    "outlet": "Eesti Ekspress (Delfi)",
+    "language": "et",
+    "lat": 59.2959,
+    "lon": 24.6223,
+    "publishedAt": 1794895213000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "b14c7bde",
     "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
     "headline": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
@@ -1818,6 +2014,42 @@
     "geoBasis": "country"
   },
   {
+    "id": "966ff464",
+    "url": "https://www.himalmag.com/inside-deutsche-bank-leak-investigation/",
+    "headline": "Leak of 15 million files from Deutsche Bank exposes secrets, scandals and double standards",
+    "snippet": "",
+    "outlet": "Himal Southasian",
+    "language": "en",
+    "lat": 27.8022,
+    "lon": 85.4437,
+    "publishedAt": 1794895251000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "25b5e215",
+    "url": "https://www.investigace.cz/inside-deutsche-bank-rusko-a-trump/",
+    "headline": "Inside Deutsche Bank: Banka tajila účty ruských oligarchů i informace o ruských penězích na Trumpových účtech",
+    "snippet": "",
+    "outlet": "investigace.cz",
+    "language": "cs",
+    "lat": 50.0308,
+    "lon": 14.3531,
+    "publishedAt": 1794895253000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "79ff9700",
+    "url": "https://daraj.media/%d9%88%d8%ab%d8%a7%d8%a6%d9%82-%d8%af%d9%88%d9%8a%d8%aa%d8%b4%d9%87-%d8%a8%d9%86%d9%83-%d9%87%d8%b2%d8%a7%d8%a6%d9%85-%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7/",
+    "headline": "تحقيقات \"وثائق دويتشه بنك\" على وقع هزائم اليمين الانتخابية",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 33.944,
+    "lon": 35.5676,
+    "publishedAt": 1794895260000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "57355874",
     "url": "https://www.infolibre.es/internacional/secretos-deutsche-bank-descubierto-trump-epstein-empresas-espanolas-investigadas-corrupcion_1_2240302.html",
     "headline": "La filtración del Deutsche Bank: de Trump y Epstein a empresas españolas investigadas por corrupción",
@@ -1827,6 +2059,45 @@
     "country": "ES",
     "lat": 41.2979,
     "lon": 2.0643,
+    "publishedAt": 1794895260000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "7e8b1c8d",
+    "url": "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-das-muessen-sie-ueber-das-datenleak-inside-deutsche-bank-wissen-a-a5483826-fb89-43b7-ac72-d125b90490d3?sara_ecid=dirl_upd_YE8kVT8RN6Fcy0Bl10USoREtuscuLf",
+    "headline": "„Inside Deutsche Bank“: Das müssen Sie über das Datenleak wissen",
+    "snippet": "",
+    "outlet": "Manager Magazin",
+    "language": "de",
+    "country": "DE",
+    "lat": 50.9138,
+    "lon": 6.9016,
+    "publishedAt": 1794895260000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "dcdd9ea3",
+    "url": "https://www.manager-magazin.de/unternehmen/banken/leak-die-deutsche-bank-und-jeffrey-epstein-eine-600-millionen-dollar-beziehung-a-ec6e2561-86be-4dbb-92ea-292f9a8cbfb6?sara_ecid=dirl_upd_Zb98rBhJSS6odflMumZi9xORPrBwij",
+    "headline": "Deutsche-Bank-Leak: So tief war die Bank in Jeffrey Epsteins Schattenreich verstrickt",
+    "snippet": "",
+    "outlet": "Manager Magazin",
+    "language": "de",
+    "country": "DE",
+    "lat": 50.8634,
+    "lon": 6.8696,
+    "publishedAt": 1794895260000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "c2709caa",
+    "url": "https://www.manager-magazin.de/unternehmen/dienstleister/axel-springer-verlag-so-bekam-mathias-doepfner-seine-anteile-im-projekt-heritage-wirklich-geschenkt-a-5884a780-450f-4bd9-9a36-9e2d739c5121?sara_ecid=dirl_upd_ozmslqelXVezz257bexpO6ArrcFhLN",
+    "headline": "Mathias Döpfner: So bekam er seine Anteile am Axel Springer Verlag geschenkt",
+    "snippet": "",
+    "outlet": "Manager Magazin",
+    "language": "de",
+    "country": "DE",
+    "lat": 51.1073,
+    "lon": 7.1198,
     "publishedAt": 1794895260000,
     "geoBasis": "country"
   },
@@ -1857,6 +2128,19 @@
     "geoBasis": "country"
   },
   {
+    "id": "5411f24e",
+    "url": "https://www.tagesanzeiger.ch/deutsche-bank-jobangebote-fuer-kinder-von-kunden-967626579451",
+    "headline": "Manager fragt vor grossem Auftrag nach Job für seine Tochter. «Win-Win», jubeln die Banker",
+    "snippet": "",
+    "outlet": "Tages-Anzeiger",
+    "language": "de",
+    "country": "CH",
+    "lat": 47.7303,
+    "lon": 7.7438,
+    "publishedAt": 1794895263000,
+    "geoBasis": "country"
+  },
+  {
     "id": "5ee971c2",
     "url": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538",
     "headline": "‘Katastrophe’: inside the chaos at Deutsche Bank",
@@ -1866,6 +2150,30 @@
     "lat": 51.4634,
     "lon": -0.206,
     "publishedAt": 1794895265000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "cc3e3db6",
+    "url": "https://www.investigace.cz/inside-deutsche-bank-epstein/",
+    "headline": "Inside Deutsche Bank: Banka léta držela Epsteina jako klienta navzdory jeho kriminální minulosti",
+    "snippet": "",
+    "outlet": "investigace.cz",
+    "language": "cs",
+    "lat": 50.0104,
+    "lon": 14.3827,
+    "publishedAt": 1794895265000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "ab0dd62e",
+    "url": "https://www.irpimedia.eu/progetto-fenice-deutsche-bank-non-ha-vigilato-sugli-illeciti-di-finanza-futuro/",
+    "headline": "Progetto Fenice. Deutsche Bank non ha vigilato sugli illeciti di Finanza & Futuro",
+    "snippet": "",
+    "outlet": "IrpiMedia",
+    "language": "it",
+    "lat": 45.454,
+    "lon": 9.1644,
+    "publishedAt": 1794895301000,
     "geoBasis": "outlet"
   },
   {
@@ -1882,6 +2190,19 @@
     "geoBasis": "country"
   },
   {
+    "id": "8b7f17eb",
+    "url": "https://www.eldiario.es/internacional/deutsche-bank-acepto-mantuvo-depredador-sexual-jeffrey-epstein-cliente-582-millones-pagos-sospechosos_1_13668560.html",
+    "headline": "Cómo Deutsche Bank aceptó y mantuvo al depredador sexual Jeffrey Epstein como cliente con 582 millones en pagos sospechosos",
+    "snippet": "",
+    "outlet": "elDiario.es",
+    "language": "es",
+    "country": "ES",
+    "lat": 39.3531,
+    "lon": -0.5093,
+    "publishedAt": 1794895307000,
+    "geoBasis": "country"
+  },
+  {
     "id": "f2b45a8b",
     "url": "https://www.eldiario.es/internacional/oligarcas-secreto-bancario-arriesgada-relacion-deutsche-bank-rusia_1_13667990.amp.html",
     "headline": "Oligarcas y secreto bancario: la arriesgada relación de Deutsche Bank con Rusia",
@@ -1891,6 +2212,19 @@
     "country": "ES",
     "lat": 39.2904,
     "lon": -0.5161,
+    "publishedAt": 1794895307000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "d7e3c4c7",
+    "url": "https://www.eldiario.es/internacional/oligarcas-secreto-bancario-arriesgada-relacion-deutsche-bank-rusia_1_13667990.html",
+    "headline": "Oligarcas y secreto bancario: la arriesgada relación de Deutsche Bank con Rusia",
+    "snippet": "",
+    "outlet": "elDiario.es",
+    "language": "es",
+    "country": "ES",
+    "lat": 39.6181,
+    "lon": -0.2383,
     "publishedAt": 1794895307000,
     "geoBasis": "country"
   },
@@ -1959,6 +2293,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "4f8386f8",
+    "url": "https://www.irpimedia.eu/inside-deutsche-bank-cosa-emerge-dal-leak-sui-mancati-controlli-della-banca-in-italia/",
+    "headline": "Dentro Deutsche Bank. Cosa emerge dal leak sui mancati controlli della banca in Italia",
+    "snippet": "",
+    "outlet": "IrpiMedia",
+    "language": "it",
+    "lat": 45.5679,
+    "lon": 9.3283,
+    "publishedAt": 1794895320000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "976ef7ff",
     "url": "https://www.manager-magazin.de/unternehmen/banken/stellungnahme-was-die-deutsche-bank-zum-leak-sagt-a-4acd8383-934c-4b3d-ae22-af27e584eb7b",
     "headline": "Stellungnahme: Was die Deutsche Bank zum Leak sagt",
@@ -1970,6 +2316,18 @@
     "lon": 6.8966,
     "publishedAt": 1794895320000,
     "geoBasis": "country"
+  },
+  {
+    "id": "f2973e86",
+    "url": "https://www.investigace.cz/co-je-inside-deutsche-bank/",
+    "headline": "Co je projekt Inside Deutsche Bank?",
+    "snippet": "",
+    "outlet": "investigace.cz",
+    "language": "cs",
+    "lat": 50.2105,
+    "lon": 14.5827,
+    "publishedAt": 1794895334000,
+    "geoBasis": "outlet"
   },
   {
     "id": "e0ed8357",
@@ -1993,6 +2351,18 @@
     "lat": 51.3966,
     "lon": -0.2542,
     "publishedAt": 1794895355000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "51502431",
+    "url": "https://www.berlingske.dk/dagens-overblik/storbank-advarede-om-betalinger-til-donald-trump-via-skandaleramt-dansk-bank",
+    "headline": "Storbank advarede om betalinger til Donald Trump via skandaleramt dansk bank",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.8727,
+    "lon": 12.7493,
+    "publishedAt": 1794895380000,
     "geoBasis": "outlet"
   },
   {
@@ -2043,6 +2413,18 @@
     "lat": 40.8612,
     "lon": -73.8171,
     "publishedAt": 1794895380000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "6c55231b",
+    "url": "https://www.investigace.cz/inside-deutsche-bank/",
+    "headline": "Inside Deutsche Bank: Únik 15 milionů souborů odhaluje tajemství, skandály a dvojí metr globálního finančního giganta",
+    "snippet": "",
+    "outlet": "investigace.cz",
+    "language": "cs",
+    "lat": 50.0586,
+    "lon": 14.4123,
+    "publishedAt": 1794895390000,
     "geoBasis": "outlet"
   },
   {
@@ -2108,6 +2490,66 @@
     "geoBasis": "country"
   },
   {
+    "id": "07569c09",
+    "url": "https://ciren.cy/gr/ereuna-gr/sta-aduta-tes-deutsche-bank-diarroe-15-ekatommurion-arkheion-apokaluptei-mustika-skandala-kai-duo-metra-kai-duo-stathma-tou-pagkosmiou-khrematooikonomikou-kolossou/",
+    "headline": "Στα άδυτα της Deutsche Bank: Διαρροή 15 εκατομμυρίων αρχείων αποκαλύπτει μυστικά, σκάνδαλα και δύο μέτρα και δύο σταθμά του παγκόσμιου χρηματοοικονομικού κολοσσού - CIReN",
+    "snippet": "",
+    "outlet": "CIReN",
+    "language": "el",
+    "lat": 34.9911,
+    "lon": 33.5464,
+    "publishedAt": 1794895442000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "87c71403",
+    "url": "https://ciren.cy/investigation/inside-deutsche-bank/",
+    "headline": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of global financial giant",
+    "snippet": "",
+    "outlet": "CIReN",
+    "language": "en",
+    "lat": 35.296,
+    "lon": 33.5078,
+    "publishedAt": 1794895442000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "0f7abb1d",
+    "url": "https://ciren.cy/tr/arastirmalar-tr/deutsche-bankin-ic-yuzu-sizdirilan-15-milyon-dosya-kuresel-finans-devinin-sirlarini-skandallarini-ve-cifte-standartlarini-ortaya-koyuyor/",
+    "headline": "Deutsche Bank’ın İç Yüzü: Sızdırılan 15 milyon dosya, küresel finans devinin sırlarını, skandallarını ve çifte standartlarını ortaya koyuyor - CIReN",
+    "snippet": "",
+    "outlet": "CIReN",
+    "language": "tr",
+    "lat": 35.1959,
+    "lon": 33.3824,
+    "publishedAt": 1794895442000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "69420485",
+    "url": "https://www.investigace.cz/inside-deutsche-bank-ruske-penize-v-ceskych-bankach/",
+    "headline": "Inside Deutsche Bank: Ruské peníze v českých bankách? Uniklé dokumenty potvrzují letité domněnky expertů",
+    "snippet": "",
+    "outlet": "investigace.cz",
+    "language": "cs",
+    "lat": 50.1959,
+    "lon": 14.5996,
+    "publishedAt": 1794895457000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "d1c94982",
+    "url": "https://revistaconcolon.com/investigacion/trump-deutsche-bank-empresas-lavado-dinero/",
+    "headline": "Documentos de Deutsche Bank vinculan a empresas de Trump con redes de lavado de dinero",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 8.8292,
+    "lon": -79.6551,
+    "publishedAt": 1794895511000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "68992fa4",
     "url": "https://apublica.org/2026/11/picaretas-nao-melhoram-disse-executivo-do-deutsche-bank-sobre-andre-esteves-do-btg/",
     "headline": "“Picaretas não melhoram”, disse executivo do Deutsche Bank sobre André Esteves, do BTG",
@@ -2131,6 +2573,54 @@
     "lon": 7.4588,
     "publishedAt": 1794895680000,
     "geoBasis": "country"
+  },
+  {
+    "id": "c64cec71",
+    "url": "https://revistaconcolon.com/investigacion/deutsche-bank-filtracion-15-millones-archivos/",
+    "headline": "Filtración de 15 millones de archivos revela secretos, escándalos y dobles estándares del gigante financiero mundial",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 9.1654,
+    "lon": -79.7,
+    "publishedAt": 1794895739000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "3250fe57",
+    "url": "https://istories.media/en/stories/2026/11/17/deutsche-bank-moved-russian-billionaires-to-secrecy-jurisdictions/",
+    "headline": "Deutsche Bank Moved Russian Billionaires to “Secrecy Jurisdictions”",
+    "snippet": "",
+    "outlet": "Важные истории",
+    "language": "en",
+    "lat": 56.9168,
+    "lon": 24.0822,
+    "publishedAt": 1794895800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "5f7f7937",
+    "url": "https://istories.media/en/stories/2026/11/17/trumps-companies-received-money-from-laundromat-shell-firms-deutsche-bank-documents-show/",
+    "headline": "Trump’s Companies Received Money From “Laundromat” Shell Firms, Deutsche Bank Documents Show",
+    "snippet": "",
+    "outlet": "Важные истории",
+    "language": "en",
+    "lat": 57.0447,
+    "lon": 24.1913,
+    "publishedAt": 1794895800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "cfd6b1e3",
+    "url": "https://istories.media/stories/2026/11/17/amerikanskii-prezident-i-landromati/",
+    "headline": "Американский президент и «ландроматы»",
+    "snippet": "",
+    "outlet": "Важные истории",
+    "language": "ru",
+    "lat": 56.8631,
+    "lon": 24.0097,
+    "publishedAt": 1794895800000,
+    "geoBasis": "outlet"
   },
   {
     "id": "5a5cedd2",
@@ -2231,6 +2721,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "ce27f7a9",
+    "url": "https://newstapa.org/article/iILtx",
+    "headline": "[인사이드 도이체방크]사상 최대 문건 유출...글로벌 금융의 민낯",
+    "snippet": "",
+    "outlet": "Newstapa",
+    "language": "ko",
+    "lat": 37.3753,
+    "lon": 126.7958,
+    "publishedAt": 1794896700000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "d2aa02b5",
     "url": "https://www.arab48.com/amp/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/2026/11/17/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-15-6-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D9%8A%D9%81%D8%B6%D8%AD-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%AF%D9%88%D9%8A%D8%AA%D8%B4%D9%87-%D8%A8%D9%86%D9%83-%D9%85%D8%B9-%D8%A3%D8%AB%D8%B1%D9%8A%D8%A7%D8%A1-%D8%B1%D9%88%D8%B3-%D9%88%D8%A5%D8%A8%D8%B3%D8%AA%D9%8A%D9%86",
     "headline": "تسريب 15.6 مليون وثيقة يفضح تعاملات \"دويتشه بنك\" مع أثرياء روس وإبستين",
@@ -2256,6 +2758,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "fb2dce90",
+    "url": "https://newstapa.org/article/oXF_m",
+    "headline": "[인사이드 도이체방크]도이체방크의 위험한 '러시아 커넥션'",
+    "snippet": "",
+    "outlet": "Newstapa",
+    "language": "ko",
+    "lat": 37.6203,
+    "lon": 127.0217,
+    "publishedAt": 1794897000000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "5f119920",
     "url": "https://no-ficcion.com/inside-deutsche-bank-filtracion-de-15-millones-de-archivos/",
     "headline": "Inside Deutsche Bank: Filtración de 15 millones de archivos revela secretos, escándalos y dobles estándares del gigante financiero mundial",
@@ -2278,6 +2792,19 @@
     "lon": 77.0616,
     "publishedAt": 1794897060000,
     "geoBasis": "outlet"
+  },
+  {
+    "id": "e543d989",
+    "url": "https://thewire.in/banking/leaked-deutsche-bank-files-show-epsteins-suspect-payments-were-double-what-was-known",
+    "headline": "Leaked Deutsche Bank Files Show Epstein’s Suspected Payments Were Double What Was Known",
+    "snippet": "",
+    "outlet": "TheWire.in",
+    "language": "en",
+    "country": "IN",
+    "lat": 18.894,
+    "lon": 72.7118,
+    "publishedAt": 1794897100000,
+    "geoBasis": "country"
   },
   {
     "id": "aefc0bdc",
@@ -2439,6 +2966,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "8c8c9952",
+    "url": "https://www.berlingske.dk/business/major-bank-leak-reveals-trump-received-suspicious-payments-from-clientsin-scandal-ridden-branch-of-danske-bank",
+    "headline": "Major bank leak reveals: Trump received suspicious payments from clients in scandal-ridden branch of Danske Bank",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "en",
+    "lat": 55.7777,
+    "lon": 12.6853,
+    "publishedAt": 1794898320000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "ea4b6b49",
     "url": "https://www.perfil.com/economia/una-filtracion-de-15-millones-de-documentos-del-deutsche-bank-revelo-sus-secretos-y-salpico-a-santiago-bausili-aae6D6g9kfWN",
     "headline": "Una filtración de 15 millones de documentos del Deutsche Bank reveló sus secretos y salpicó a Santiago Bausili",
@@ -2509,6 +3048,30 @@
     "lat": 27.6925,
     "lon": 85.3339,
     "publishedAt": 1794898723000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "8ace2a71",
+    "url": "https://daraj.media/%d8%a7%d9%84%d8%a3%d9%85%d9%8a%d8%b1-%d9%85%d8%ad%d9%85%d9%91%d8%af-%d8%a8%d9%86-%d9%86%d8%a7%d9%8a%d9%81-%d9%88%d8%ab%d8%a7%d8%a6%d9%82-%d8%af%d9%88%d9%8a%d8%aa%d8%b4%d9%87-%d8%a8%d9%86%d9%83-%d9%85/",
+    "headline": "طريق \"دويتشه بنك\" غير المشروع إلى الأمير محمّد بن نايف",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 33.9572,
+    "lon": 35.5245,
+    "publishedAt": 1794898800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "9239c455",
+    "url": "https://newstapa.org/article/-jnrm",
+    "headline": "[인사이드 도이체방크] 트럼프 회사-러시아 자금세탁망 연결고리…도이체방크 내부 문서로 확인",
+    "snippet": "",
+    "outlet": "Newstapa",
+    "language": "ko",
+    "lat": 37.6502,
+    "lon": 127.0206,
+    "publishedAt": 1794898800000,
     "geoBasis": "outlet"
   },
   {
@@ -3037,6 +3600,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "7127ff5f",
+    "url": "https://newstapa.org/article/7fyxP",
+    "headline": "[인사이드 도이체방크]도이체방크 엡스타인 '의심 거래' 6억 달러…알려진 액수의 두 배 넘어",
+    "snippet": "",
+    "outlet": "Newstapa",
+    "language": "ko",
+    "lat": 37.6763,
+    "lon": 127.078,
+    "publishedAt": 1794901500000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "9835e4f6",
     "url": "https://www.ledauphine.com/economie/2026/11/17/epstein-trump-liens-avec-la-russie-la-deutsche-bank-dans-la-tourmente-apres-une-fuite-de-documents",
     "headline": "Allemagne Epstein, Trump, liens avec la Russie : la Deutsche Bank dans la tourmente après une fuite de documents",
@@ -3122,6 +3697,54 @@
     "lon": 77.0144,
     "publishedAt": 1794902330000,
     "geoBasis": "country"
+  },
+  {
+    "id": "be31609e",
+    "url": "https://www.slidstvo.info/articles/vseredyni-deutsche-bank-vytik-15-milyoniv-fayliv-rozkryvaie-taiemnytsi-skandaly-ta-podviyni-standarty-svitovoho-finansovoho-hihanta/",
+    "headline": "Всередині Deutsche Bank: витік 15 мільйонів файлів розкриває таємниці, скандали та подвійні стандарти світового фінансового гіганта",
+    "snippet": "",
+    "outlet": "Slidstvo.Info",
+    "language": "uk",
+    "lat": 50.3537,
+    "lon": 30.4423,
+    "publishedAt": 1794902400000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "b8639d96",
+    "url": "https://www.tempo.co/investigasi/jutaan-dokumen-deutsche-bank-bocor-2305339",
+    "headline": "Bocoran Dokumen Deutsche Bank",
+    "snippet": "“Inside Deutsche Bank” menyelidiki bocoran dokumen bank terbesar di Jerman. Investigasi 200-an jurnalis dari 46 negara.",
+    "outlet": "Tempo",
+    "language": "id",
+    "lat": -6.3148,
+    "lon": 106.7548,
+    "publishedAt": 1794902400000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "9c0f11af",
+    "url": "https://www.tempo.co/investigasi/politikus-indonesia-bocoran-dokumen-deutsche-bank-2305333",
+    "headline": "Politikus-Pengusaha Indonesia dalam Dokumen Deutsche Bank",
+    "snippet": "Lebih dari 15 juta dokumen Deutsche Bank bocor. Ada nama politikus dan pengusaha Indonesia.",
+    "outlet": "Tempo",
+    "language": "id",
+    "lat": -6.3421,
+    "lon": 106.6773,
+    "publishedAt": 1794902400000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "2fd7bd80",
+    "url": "https://daraj.media/%d9%85%d8%a7-%d9%87%d9%88-%d8%af%d9%88%d8%b1-%d8%af%d9%88%d9%8a%d8%aa%d8%b4%d9%87-%d8%a8%d9%86%d9%83-%d9%88%d9%85%d9%86%d8%b5%d9%88%d8%b1-%d8%a8%d9%86-%d8%b2%d8%a7%d9%8a%d8%af-%d9%81%d9%8a-%d9%82/",
+    "headline": "ما هو دور \"دويتشه بنك\" ومنصور بن زايد في قضيّة فساد 1MDB الماليزية؟",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 33.9931,
+    "lon": 35.5916,
+    "publishedAt": 1794902517000,
+    "geoBasis": "outlet"
   },
   {
     "id": "a82d0c78",
@@ -3333,6 +3956,18 @@
     "lon": 6.9169,
     "publishedAt": 1794903180000,
     "geoBasis": "country"
+  },
+  {
+    "id": "b873b218",
+    "url": "https://www.tempo.co/investigasi/dokumen-deutsche-bank-bocor-epstein-pencucian-uang-2305320",
+    "headline": "Epstein hingga Pencucian Uang dalam Bocoran Deutsche Bank",
+    "snippet": "Investigasi konsorsium jurnalis mendapati Deutsche Bank lambat menindak transaksi mencurigakan. Menjadikan Jeffrey Epstein nasabah.",
+    "outlet": "Tempo",
+    "language": "id",
+    "lat": -6.1921,
+    "lon": 106.8211,
+    "publishedAt": 1794903300000,
+    "geoBasis": "outlet"
   },
   {
     "id": "9fd58dfd",
@@ -3633,6 +4268,18 @@
     "lat": 45.4047,
     "lon": 9.1461,
     "publishedAt": 1794904453000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "5f55e15d",
+    "url": "https://fij.ng/article/inside-deutsche-bank-all-you-need-to-know/",
+    "headline": "Inside Deutsche Bank: All You Need to Know",
+    "snippet": "",
+    "outlet": "FIJ Nigeria",
+    "language": "en",
+    "lat": 6.4982,
+    "lon": 3.369,
+    "publishedAt": 1794904498000,
     "geoBasis": "outlet"
   },
   {
@@ -3997,6 +4644,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "602bf4a9",
+    "url": "https://fij.ng/article/inside-deutsche-bank-leak-of-15-million-files-exposes-secrets-scandals-and-double-standards-of-global-financial-giant/",
+    "headline": "Inside Deutsche Bank: Leak of 15 Million Files Exposes Secrets, Scandals, Double Standards of Global Financial Giant",
+    "snippet": "",
+    "outlet": "FIJ Nigeria",
+    "language": "en",
+    "lat": 6.3897,
+    "lon": 3.2354,
+    "publishedAt": 1794905994000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "ec294fe3",
     "url": "https://www.n-tv.de/wirtschaft/Datenleck-legt-fragwuerdige-Geschaefte-der-Deutschen-Bank-offen-id31542318.html",
     "headline": "Millionen interne Dokumente: Datenleck legt fragwürdige Geschäfte der Deutschen Bank offen",
@@ -4148,6 +4807,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "682280eb",
+    "url": "https://www.berlingske.dk/business/danske-bank-filial-haandterede-suspekte-betalinger-til-trump",
+    "headline": "Danske Bank-filial håndterede suspekte betalinger til Trump",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.748,
+    "lon": 12.6746,
+    "publishedAt": 1794906360000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "fe81d30c",
     "url": "https://www.thenewsminute.com/news/inside-deutsche-bank-secrets-scandals-and-double-standards-of-global-financial-giant-exposed-by-leak",
     "headline": "Inside Deutsche Bank: Secrets, scandals and double standards of global financial giant exposed by leak",
@@ -4260,6 +4931,18 @@
     "lon": 83.0615,
     "publishedAt": 1794906720000,
     "geoBasis": "country"
+  },
+  {
+    "id": "c8b5b860",
+    "url": "https://guardpost.ng/inside-deutsche-bank-leak-of-15-million-files-exposes-secrets-scandals-and-double-standards-of-global-financial-giant/",
+    "headline": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of global financial giant",
+    "snippet": "",
+    "outlet": "GuardPost",
+    "language": "en",
+    "lat": 9.0505,
+    "lon": 7.358,
+    "publishedAt": 1794906761000,
+    "geoBasis": "outlet"
   },
   {
     "id": "a32becc6",
@@ -4457,6 +5140,18 @@
     "lat": 28.4239,
     "lon": 77.3794,
     "publishedAt": 1794907243000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "a052dae7",
+    "url": "https://www.newslaundry.com/2026/11/17/inside-deutsche-bank-secrets-scandals-and-double-standards-of-global-financial-giant-exposed-by-leak",
+    "headline": "Inside Deutsche Bank: Secrets, scandals and double standards of global financial giant exposed by leak",
+    "snippet": "",
+    "outlet": "Newslaundry",
+    "language": "en",
+    "lat": 28.5235,
+    "lon": 77.129,
+    "publishedAt": 1794907398000,
     "geoBasis": "outlet"
   },
   {
@@ -5128,6 +5823,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "51e7ef9b",
+    "url": "https://www.berlingske.dk/virksomheder/15-millioner-filer-200-journalister-her-er-de-vigtigste-spoergsmaal-og-svar-om-verdens-stoerste-banklaek",
+    "headline": "15 millioner filer, 200 journalister: Her er de vigtigste spørgsmål og svar om verdens største banklæk",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.5798,
+    "lon": 12.4564,
+    "publishedAt": 1794910380000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "76075cbf",
     "url": "https://mezha.net/es/news/1b6cb474_deutsche_bank_leak_exposes/",
     "headline": "Filtración de Deutsche Bank expone deficiencias en los controles contra los delitos financieros",
@@ -5264,6 +5971,18 @@
     "lat": 51.3205,
     "lon": -0.274,
     "publishedAt": 1794910988000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "74bbd816",
+    "url": "https://thenewcrusadingguideonline.com/inside-deutsche-bank-leak-of-15-million-files-exposes-secrets-scandals-and-double-standards-of-global-financial-giant/?amp=1",
+    "headline": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of global financial giant – The New Crusading Guide Online",
+    "snippet": "",
+    "outlet": "The New Crusading Guide",
+    "language": "en",
+    "lat": 5.5811,
+    "lon": -0.1942,
+    "publishedAt": 1794911081000,
     "geoBasis": "outlet"
   },
   {
@@ -5592,6 +6311,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "31daebfb",
+    "url": "https://youtu.be/23gtZpKtwn4?si=IvLnoABjqrnjWV9q",
+    "headline": "Inside the massive Deutsche Bank leak with Josy Joseph",
+    "snippet": "",
+    "outlet": "Himal Southasian",
+    "language": "en",
+    "lat": 27.7695,
+    "lon": 85.3919,
+    "publishedAt": 1794913782000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "5455fb86",
     "url": "https://diarioelnorte.com.ar/filtracion-revela-negocios-riesgosos-de-deutsche-bank/",
     "headline": "Filtración revela negocios riesgosos de Deutsche Bank",
@@ -5666,6 +6397,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "dfe15c98",
+    "url": "https://www.impact.sn/Inside-Deutsche-Bank-la-fuite-de-15-millions-de-documents-revele-les-secrets-les-scandales-et-le-double-jeu-du-geant_a59764.html",
+    "headline": "Inside Deutsche Bank : la fuite de 15 millions de documents révèle les secrets, les scandales et le double jeu du géant financier mondial allemand",
+    "snippet": "",
+    "outlet": "Impact.sn",
+    "language": "fr",
+    "lat": 14.5618,
+    "lon": -17.5807,
+    "publishedAt": 1794914580000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "1547c745",
     "url": "https://www.merkur.de/wirtschaft/deutsche-bank-aktie-kurssturz-russland-enthuellungen-datenleck-zr-94594364.html",
     "headline": "Brisante Russland-Geschäfte enthüllt: Anleger flüchten aus der Deutsche-Bank-Aktie",
@@ -5731,6 +6474,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "a0893260",
+    "url": "https://www.elclip.org/inside-deutsche-bank-preguntas-respuestas-investigacion",
+    "headline": "Inside Deutsche Bank: preguntas y respuestas sobre la investigación",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 10.0809,
+    "lon": -83.9225,
+    "publishedAt": 1794915043000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "6cba4eb6",
     "url": "https://streamlinefeed.co.ke/news/deutsche-bank-responds-to-leaked-files-investigation-as-shares-fall",
     "headline": "Deutsche Bank responds to leaked-files investigation as shares fall",
@@ -5765,6 +6520,66 @@
     "lat": 46.0956,
     "lon": 6.0003,
     "publishedAt": 1794915323000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "33b23bad",
+    "url": "https://www.elclip.org/filtracion-deutsche-bank-pagos-sospechosos-epstein",
+    "headline": "Filtración de Deutsche Bank revela que los pagos sospechosos vinculados a Epstein duplican la cifra conocida hasta ahora",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.8959,
+    "lon": -84.1326,
+    "publishedAt": 1794915367000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "c6b09e29",
+    "url": "https://www.elclip.org/deutsche-bank-empresas-trump-lavado-dinero-rusia-azerbaiyan",
+    "headline": "Documentos de Deutsche Bank vinculan a empresas de Trump con redes de lavado de dinero",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.7447,
+    "lon": -84.2398,
+    "publishedAt": 1794915422000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "8934f347",
+    "url": "https://www.elclip.org/bausili-deutsche-bank-conflictos-interes-macri/",
+    "headline": "Bausili y el Deutsche Bank: documentos sobre conflictos de interés",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.7388,
+    "lon": -83.9144,
+    "publishedAt": 1794915581000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "7d304f78",
+    "url": "https://www.elclip.org/deutsche-bank-riesgo-reputacional-luksic-angelini-chile/",
+    "headline": "Deutsche Bank: el \"riesgo reputacional\" de Luksic y Angelini",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 10.1164,
+    "lon": -84.2682,
+    "publishedAt": 1794915658000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "d1eec46d",
+    "url": "https://www.elclip.org/inside-deutsche-bank-filtracion-15-millones-archivos-secretos/",
+    "headline": "Inside Deutsche Bank: Filtración de 15 millones de archivos revela secretos, escándalos y dobles estándares del gigante financiero mundial",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.8573,
+    "lon": -84.1462,
+    "publishedAt": 1794915704000,
     "geoBasis": "outlet"
   },
   {
@@ -5803,6 +6618,18 @@
     "lon": 5.5656,
     "publishedAt": 1794915810000,
     "geoBasis": "country"
+  },
+  {
+    "id": "cb8877f0",
+    "url": "https://www.berlingske.dk/virksomheder/en-betaling-fra-mystisk-kunde-i-danske-bank-fik-alarmen-til-at-gaa-modtageren-var-endnu-mere-opsigtsvaekkende",
+    "headline": "En betaling fra mystisk kunde i Danske Bank fik alarmen til at gå. Modtageren var endnu mere opsigtsvækkende",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.5614,
+    "lon": 12.4691,
+    "publishedAt": 1794915840000,
+    "geoBasis": "outlet"
   },
   {
     "id": "1e760f6e",
@@ -5892,6 +6719,66 @@
     "geoBasis": "country"
   },
   {
+    "id": "d56e21f3",
+    "url": "https://mediaspost.com/inside-deutsche-bank-la-fuite-de-15-millions-de-documents-revele-les-secrets-les-scandales-et-le-double-jeu-du-geant-financier-mondial-allemand/",
+    "headline": "Inside Deutsche Bank : la fuite de 15 millions de documents révèle les secrets, les scandales et le double jeu du géant financier mondial allemand – MEDIASPOST",
+    "snippet": "",
+    "outlet": "Mediaspost",
+    "language": "fr",
+    "lat": 14.5637,
+    "lon": -17.6098,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "340fd237",
+    "url": "https://news.jp/i/1495393724390670490",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "NEWSjp",
+    "language": "ja",
+    "lat": 35.6481,
+    "lon": 139.5795,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "5966946c",
+    "url": "https://news.livedoor.com/article/detail/32840565/",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "ライブドアニュース (共同通信)",
+    "language": "ja",
+    "lat": 35.8428,
+    "lon": 139.7805,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "0b27e513",
+    "url": "https://news.yahoo.co.jp/articles/be34c10fdba7135d47331938563e86310b0150a2",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "Yahoo!ニュース (共同通信)",
+    "language": "ja",
+    "lat": 35.5078,
+    "lon": 139.8452,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "ef530900",
+    "url": "https://ryukyushimpo.jp/kyodo/entry-5604752.html",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "琉球新報",
+    "language": "ja",
+    "lat": 26.199,
+    "lon": 127.6336,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "3cb759a9",
     "url": "https://www.agefi.fr/news/banque-assurance/deutsche-bank-renoue-avec-lere-du-soupcon",
     "headline": "Deutsche Bank renoue avec l'ère du soupçon",
@@ -5905,6 +6792,42 @@
     "geoBasis": "country"
   },
   {
+    "id": "233898d0",
+    "url": "https://www.ehime-np.co.jp/article/ky202611070198600010",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護",
+    "snippet": "",
+    "outlet": "愛媛新聞",
+    "language": "ja",
+    "lat": 33.821,
+    "lon": 132.7825,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "8e409ee6",
+    "url": "https://www.excite.co.jp/news/article/Kyodo_1495393724390670490/",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "エキサイトニュース (共同通信)",
+    "language": "ja",
+    "lat": 35.4935,
+    "lon": 139.4999,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "471352e3",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2749441",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護 新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "福井新聞Ｄ刊",
+    "language": "ja",
+    "lat": 36.2443,
+    "lon": 136.0346,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "405fbfef",
     "url": "https://www.ieidiseis.gr/kosmos/914947/inside-deutsche-bank-aporrita-eggrafa-syndeoyn-ton-tramp-me-vromiko-chrima-apo-to-azermpaitzan/",
     "headline": "«Inside Deutsche Bank»: Απόρρητα έγγραφα συνδέουν τον Τραμπ με βρόμικο χρήμα από το Αζερμπαϊτζάν",
@@ -5916,6 +6839,90 @@
     "lon": 22.8933,
     "publishedAt": 1794916800000,
     "geoBasis": "country"
+  },
+  {
+    "id": "43e7e7d9",
+    "url": "https://www.kochinews.co.jp/article/detail/1064934?n=1&e=1044888",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "高知新聞",
+    "language": "ja",
+    "lat": 33.725,
+    "lon": 133.7063,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "bf1edd3c",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1827962",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護",
+    "snippet": "",
+    "outlet": "京都新聞デジタル",
+    "language": "ja",
+    "lat": 34.8886,
+    "lon": 135.679,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "2f75a3eb",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/944491",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "新潟日報",
+    "language": "ja",
+    "lat": 37.8226,
+    "lon": 138.9769,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "1ca5ac4f",
+    "url": "https://www.nishinippon.co.jp/item/1561563/",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "西日本新聞me",
+    "language": "ja",
+    "lat": 33.5046,
+    "lon": 130.2761,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "90700c30",
+    "url": "https://www.saga-s.co.jp/articles/-/1832011",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護 新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "佐賀新聞",
+    "language": "ja",
+    "lat": 33.427,
+    "lon": 130.4616,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "586ffe24",
+    "url": "https://www.saitama-np.co.jp/articles/223688",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護",
+    "snippet": "",
+    "outlet": "埼玉新聞",
+    "language": "ja",
+    "lat": 35.7528,
+    "lon": 139.5277,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "27a50ecf",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1117613",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護",
+    "snippet": "",
+    "outlet": "山陰中央新報デジタル",
+    "language": "ja",
+    "lat": 35.3648,
+    "lon": 132.9304,
+    "publishedAt": 1794916800000,
+    "geoBasis": "outlet"
   },
   {
     "id": "c9a16a55",
@@ -6020,6 +7027,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "92512562",
+    "url": "https://www.hokkaido-np.co.jp/article/1410076/",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "北海道新聞デジタル",
+    "language": "ja",
+    "lat": 43.2367,
+    "lon": 141.5379,
+    "publishedAt": 1794917390000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "b68f7994",
     "url": "https://www.elespanol.com/invertia/empresas/banca/20261117/deutsche-bank-desploma-bolsa-investigacion-periodistica-cuestiona-controles-antiblanqueo/1003744461272_0.html",
     "headline": "Deutsche Bank se desploma en bolsa por una investigación periodística que cuestiona sus controles antiblanqueo",
@@ -6042,6 +7061,19 @@
     "lon": -58.5698,
     "publishedAt": 1794917580000,
     "geoBasis": "outlet"
+  },
+  {
+    "id": "00ff4b57",
+    "url": "https://ijb.utoronto.ca/news/deutsche-bank-files-epstein-trump/",
+    "headline": "Inside Deutsche Bank Leak of 15M Files exposes secrets",
+    "snippet": "",
+    "outlet": "Investigative Journalism Bureau",
+    "language": "en",
+    "country": "CA",
+    "lat": 43.8479,
+    "lon": -79.2286,
+    "publishedAt": 1794917601000,
+    "geoBasis": "country"
   },
   {
     "id": "bc40fa05",
@@ -6068,6 +7100,30 @@
     "lon": 11.5117,
     "publishedAt": 1794918013000,
     "geoBasis": "country"
+  },
+  {
+    "id": "bb8fb8e0",
+    "url": "https://www.direkt36.hu/en/piszkos-penzek-felrenezo-bankarok-feltarulnak-a-vilag-egyik-legnagyobb-bankjanak-titkai/",
+    "headline": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of global financial giant",
+    "snippet": "",
+    "outlet": "Direkt36",
+    "language": "en",
+    "lat": 47.382,
+    "lon": 18.9333,
+    "publishedAt": 1794918115000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "08496fb6",
+    "url": "https://www.direkt36.hu/piszkos-penzek-felrenezo-bankarok-feltarulnak-a-vilag-egyik-legnagyobb-bankjanak-titkai/",
+    "headline": "Piszkos pénzek, félrenéző bankárok: Feltárulnak a világ egyik legnagyobb bankjának titkai",
+    "snippet": "",
+    "outlet": "Direkt36",
+    "language": "hu",
+    "lat": 47.4374,
+    "lon": 18.9886,
+    "publishedAt": 1794918115000,
+    "geoBasis": "outlet"
   },
   {
     "id": "61458e66",
@@ -6520,6 +7576,19 @@
     "geoBasis": "country"
   },
   {
+    "id": "d5cf9dbd",
+    "url": "https://www.tagesanzeiger.ch/trump-deutsche-bank-durfte-meine-unterlagen-nicht-versenden-879029270520",
+    "headline": "Trump zu verschickten Steuerdaten: «Sie hätten es nicht tun sollen»",
+    "snippet": "",
+    "outlet": "Tages-Anzeiger",
+    "language": "de",
+    "country": "CH",
+    "lat": 47.4833,
+    "lon": 7.553,
+    "publishedAt": 1794921056000,
+    "geoBasis": "country"
+  },
+  {
     "id": "3a1614a2",
     "url": "https://www.azernews.az/region/267605.html",
     "headline": "Trump: Illegal for Deutsche Bank to leak tax records",
@@ -6777,6 +7846,18 @@
     "lon": 2.128,
     "publishedAt": 1794922369000,
     "geoBasis": "country"
+  },
+  {
+    "id": "2c50f743",
+    "url": "https://revistaconcolon.com/investigacion/preguntas-y-respuestas-sobre-inside-deutsche-bank-todo-lo-que-hay-que-saber/",
+    "headline": "Preguntas y respuestas sobre Inside Deutsche Bank: todo lo que hay que saber",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 9.1289,
+    "lon": -79.3554,
+    "publishedAt": 1794922500000,
+    "geoBasis": "outlet"
   },
   {
     "id": "af436a6f",
@@ -7428,6 +8509,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "a3f0a7dc",
+    "url": "https://cenozo.org/inside-deutsche-bank-leak-of-15-million-files-exposes-secrets-scandals-and-double-standards-of-global-financial-giant/",
+    "headline": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of global financial giant",
+    "snippet": "",
+    "outlet": "CENOZO",
+    "language": "en",
+    "lat": 12.4819,
+    "lon": -1.3747,
+    "publishedAt": 1794928689000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "c3ac7025",
     "url": "https://n.com.do/2026/11/17/republica-dominicana-investigacion-deutsche-bank-proyectos-corrupcion/",
     "headline": "República Dominicana figura en filtración de Deutsche Bank",
@@ -7613,6 +8706,18 @@
     "lon": 13.2755,
     "publishedAt": 1794930948000,
     "geoBasis": "country"
+  },
+  {
+    "id": "fc3920eb",
+    "url": "https://cenozo.org/inside-deutsche-bank-la-fuite-de-15-millions-de-documents-revele-les-secrets-les-scandales-et-le-double-jeu-du-geant-financier-mondial-allemand/",
+    "headline": "Inside Deutsche Bank : la fuite de 15 millions de documents révèle les secrets, les scandales et le double jeu du géant financier mondial allemand",
+    "snippet": "",
+    "outlet": "CENOZO",
+    "language": "fr",
+    "lat": 12.5141,
+    "lon": -1.4176,
+    "publishedAt": 1794931108000,
+    "geoBasis": "outlet"
   },
   {
     "id": "03d185d2",
@@ -7847,6 +8952,19 @@
     "lon": -3.9024,
     "publishedAt": 1794932082000,
     "geoBasis": "outlet"
+  },
+  {
+    "id": "cebf6eb0",
+    "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-leak-reaktionen-100.html",
+    "headline": "Leak: Trump kritisiert \"illegales\" Vorgehen der Deutschen Bank",
+    "snippet": "",
+    "outlet": "ZDFheute",
+    "language": "de",
+    "country": "DE",
+    "lat": 52.4158,
+    "lon": 13.2853,
+    "publishedAt": 1794932226000,
+    "geoBasis": "country"
   },
   {
     "id": "3d003197",
@@ -8148,6 +9266,30 @@
     "lon": 6.0407,
     "publishedAt": 1794936540000,
     "geoBasis": "country"
+  },
+  {
+    "id": "c3b4a698",
+    "url": "https://www.youtube.com/watch?v=l0RliEGBYI8",
+    "headline": "Kenya's Rising Towers, Walls and Empty Pockets : Inside Deutsche Bank",
+    "snippet": "",
+    "outlet": "Africa Uncensored",
+    "language": "en",
+    "lat": -1.3545,
+    "lon": 36.7077,
+    "publishedAt": 1794936607000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "3ac9dd93",
+    "url": "https://letau.net/au-coeur-de-la-deutsche-bank-la-fuite-de-15-millions-de-documents-revele-les-secrets-les-scandales-et-le-double-discours-du-geant-financier-mondial/",
+    "headline": "Inside Deutsche Bank : la fuite de 15 millions de documents révèle les secrets, les scandales et le double discours du géant financier mondial",
+    "snippet": "",
+    "outlet": "L'Etau.net",
+    "language": "fr",
+    "lat": 5.4201,
+    "lon": -3.9073,
+    "publishedAt": 1794936711000,
+    "geoBasis": "outlet"
   },
   {
     "id": "5758fa0b",
@@ -8680,6 +9822,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "73e8fe28",
+    "url": "https://webun.jp/articles/-/1130641",
+    "headline": "ドイツ銀がロシア富豪保護　顧客に米制裁対象もスイスなどに資産集約",
+    "snippet": "",
+    "outlet": "北日本新聞 webunプラス",
+    "language": "ja",
+    "lat": 36.564,
+    "lon": 137.0664,
+    "publishedAt": 1794945600000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "35f2516d",
     "url": "https://www.liberoquotidiano.it/news/esteri/bufera-deutsche-bank-svelati-milioni-di-file-segreti-rapporti-con-epstein-e-trump-il-tycoon-e-illegale-cosa-e-successo/",
     "headline": "Bufera Deutsche Bank, svelati milioni di file segreti: “Rapporti con Epstein e Trump”. Il Tycoon: “È illegale”. Cosa è successo",
@@ -8717,6 +9871,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "1700602b",
+    "url": "https://www.berlingske.dk/business/trump-papirer-og-russiske-oligarker-her-er-nogle-af-afsloeringerne-fra-kaempe-banklaek",
+    "headline": "Trump-papirer og russiske oligarker: Her er nogle af afsløringerne fra kæmpe banklæk",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.4868,
+    "lon": 12.413,
+    "publishedAt": 1794946140000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "bd9b6097",
     "url": "https://617.news/una-filtracion-de-deutsche-bank-eleva-a-us5819-millones-los-pagos-sospechosos-vinculados-a-epstein-mas-del-doble-de-lo-que-se-conocia/",
     "headline": "Una filtración de Deutsche Bank eleva a US$581,9 millones los pagos sospechosos vinculados a Epstein, más del doble de lo que se conocía",
@@ -8750,6 +9916,18 @@
     "lat": 49.0324,
     "lon": 8.445,
     "publishedAt": 1794946320000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "588b3b13",
+    "url": "https://www.berlingske.dk/ledere/berlingske-mener-trumps-russiske-pengecirkus-stinker",
+    "headline": "Berlingske mener: Trumps russiske pengecirkus stinker",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.7902,
+    "lon": 12.6668,
+    "publishedAt": 1794946380000,
     "geoBasis": "outlet"
   },
   {
@@ -8849,6 +10027,19 @@
     "lat": 50.0961,
     "lon": 8.6274,
     "publishedAt": 1794948300000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "d065b6b4",
+    "url": "https://www.eldiario.es/opinion/tribuna-abierta/deutsche-bank-delincuencia-altas-finanzas-politico-corrupcion-global_129_13672244.html",
+    "headline": "Deutsche Bank: Delincuencia, altas finanzas, poder político y corrupción global",
+    "snippet": "",
+    "outlet": "elDiario.es",
+    "language": "es",
+    "country": "ES",
+    "lat": 39.3992,
+    "lon": -0.4822,
+    "publishedAt": 1794948328000,
     "geoBasis": "country"
   },
   {
@@ -9299,6 +10490,114 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "1fe1b329",
+    "url": "https://newslab.malaysiakini.com/1mdb-bank-leak/en/part1/",
+    "headline": "How global banks helped Jho Low escape justice",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "en",
+    "lat": 2.9592,
+    "lon": 101.4979,
+    "publishedAt": 1794963600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "9fe9386e",
+    "url": "https://newslab.malaysiakini.com/1mdb-bank-leak/en/part2/",
+    "headline": "Inside Deutsche Bank: A RM4.5 billion suit, Najib’s family, and Jho Low",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "en",
+    "lat": 2.9428,
+    "lon": 101.8816,
+    "publishedAt": 1794963600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "7fe6c777",
+    "url": "https://newslab.malaysiakini.com/1mdb-bank-leak/en/part3/",
+    "headline": "Super yachts and a pink diamond: The 1MDB cover up and its UAE connection",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "en",
+    "lat": 3.1281,
+    "lon": 101.6607,
+    "publishedAt": 1794963600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "665c3778",
+    "url": "https://newslab.malaysiakini.com/1mdb-bank-leak/ms/part1/",
+    "headline": "Ketahui bagaimana bank tertentu dunia membantu Jho Low mengelak daripada hukuman",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "ms",
+    "lat": 2.9563,
+    "lon": 101.5387,
+    "publishedAt": 1794963600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "865ea86f",
+    "url": "https://newslab.malaysiakini.com/1mdb-bank-leak/ms/part2/",
+    "headline": "Inside Deutsche Bank: Beban RM4.5 bilion, keluarga Najib dan orang kanan Jho Low",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "ms",
+    "lat": 3.2541,
+    "lon": 101.8115,
+    "publishedAt": 1794963600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "6660b4a6",
+    "url": "https://newslab.malaysiakini.com/1mdb-bank-leak/ms/part3/",
+    "headline": "Kapal Layar Mewah,  Berlian Merah Jambu: Membungkam Skandal 1MDB dan hubungannya dengan UAE.",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "ms",
+    "lat": 3.3148,
+    "lon": 101.8784,
+    "publishedAt": 1794963600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "700a7156",
+    "url": "https://newslab.malaysiakini.com/1mdb-bank-leak/zh/part1/",
+    "headline": "外泄文件踢爆跨国银行，帮刘特佐逍遥法外",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "zh",
+    "lat": 3.0962,
+    "lon": 101.6098,
+    "publishedAt": 1794963600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "50038331",
+    "url": "https://newslab.malaysiakini.com/1mdb-bank-leak/zh/part2/",
+    "headline": "德银内部秘辛：45 亿元官司、纳吉家族与刘特佐亲信",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "zh",
+    "lat": 2.9483,
+    "lon": 101.8617,
+    "publishedAt": 1794963600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "7005f428",
+    "url": "https://newslab.malaysiakini.com/1mdb-bank-leak/zh/part3/",
+    "headline": "超级游艇与粉红钻石：一马丑闻下的阿联酋勾结",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "zh",
+    "lat": 3.2376,
+    "lon": 101.77,
+    "publishedAt": 1794963600000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "15d20d4e",
     "url": "https://journalarta.com/en/2026/11/18/deutsche-bank-trump-scrutiny-investigation/",
     "headline": "Deutsche Bank Protected Trump From Scrutiny, Investigation Says",
@@ -9308,6 +10607,66 @@
     "lat": 50.2582,
     "lon": 30.3469,
     "publishedAt": 1794964064000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "d322972c",
+    "url": "https://www.shikoku-np.co.jp/national/main/photo.aspx?id=20261117000833&no=1",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護／新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "四国新聞",
+    "language": "ja",
+    "lat": 34.1791,
+    "lon": 133.8487,
+    "publishedAt": 1794964080000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "6a5f560f",
+    "url": "https://www.47news.jp/15246310.html",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "47NEWS",
+    "language": "ja",
+    "lat": 35.5932,
+    "lon": 139.5745,
+    "publishedAt": 1794964102000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "2bf41ed7",
+    "url": "https://www.chunichi.co.jp/article/1340857?rct=world",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "中日新聞Web",
+    "language": "ja",
+    "lat": 35.0434,
+    "lon": 136.8091,
+    "publishedAt": 1794964102000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "f4d3bf86",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1968330",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護　新興財閥、制裁対象者も",
+    "snippet": "",
+    "outlet": "沖縄タイムス＋プラス",
+    "language": "ja",
+    "lat": 26.2924,
+    "lon": 127.7519,
+    "publishedAt": 1794964102000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "68c4f8b6",
+    "url": "https://www.daily.co.jp/society/main/2026/11/18/0021045279.shtml",
+    "headline": "【独自】ドイツ銀、ロシア富豪の情報保護",
+    "snippet": "",
+    "outlet": "デイリースポーツ online",
+    "language": "ja",
+    "lat": 34.8292,
+    "lon": 135.2943,
+    "publishedAt": 1794964320000,
     "geoBasis": "outlet"
   },
   {
@@ -9333,6 +10692,19 @@
     "lat": 52.5607,
     "lon": 13.4049,
     "publishedAt": 1794964560000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "a6fc86bb",
+    "url": "https://thewire.in/banking/what-is-inside-deutsche-bank-all-you-need-to-know-about-the-series",
+    "headline": "What is Inside Deutsche Bank? All You Need to Know About the Series",
+    "snippet": "",
+    "outlet": "TheWire.in",
+    "language": "en",
+    "country": "IN",
+    "lat": 18.9038,
+    "lon": 73.0653,
+    "publishedAt": 1794964589000,
     "geoBasis": "country"
   },
   {
@@ -9884,6 +11256,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "7f25676e",
+    "url": "https://www.irpimedia.eu/deutsche-bank-armata-anche-leonardo-tra-i-clienti/",
+    "headline": "Deutsche Bank armata. Anche Leonardo tra i suoi clienti",
+    "snippet": "",
+    "outlet": "IrpiMedia",
+    "language": "it",
+    "lat": 45.6343,
+    "lon": 9.3507,
+    "publishedAt": 1794974400000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "9f337158",
     "url": "https://finance.yahoo.com/news/leaked-files-put-deutsche-bank-120244996.html",
     "headline": "Leaked files put Deutsche Bank’s historic compliance record under scrutiny",
@@ -9980,6 +11364,19 @@
     "lat": 43.4893,
     "lon": 5.2029,
     "publishedAt": 1794975840000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "2374cd5d",
+    "url": "https://thewire.in/banking/how-deutsche-bank-bankrolled-israels-attacks-in-gaza",
+    "headline": "How Deutsche Bank Bankrolled Israel",
+    "snippet": "",
+    "outlet": "TheWire.in",
+    "language": "en",
+    "country": "IN",
+    "lat": 19.1484,
+    "lon": 72.9162,
+    "publishedAt": 1794976212000,
     "geoBasis": "country"
   },
   {
@@ -10120,6 +11517,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "4848a010",
+    "url": "https://www.investigace.cz/inside-deutsche-bank-michal-fico/",
+    "headline": "Inside Deutsche Bank: Studentský účet Michala Fica se banka rozhodla zrušit kvůli podezření z praní peněz",
+    "snippet": "",
+    "outlet": "investigace.cz",
+    "language": "cs",
+    "lat": 49.9115,
+    "lon": 14.2902,
+    "publishedAt": 1794978237000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "c47b9620",
     "url": "https://fr.businessam.be/le-pdg-de-la-deutsche-bank-defend-ses-mesures-de-lutte-contre-le-blanchiment-dargent-apres-une-fuite-de-donnees-majeure/",
     "headline": "Christian Sewing, PDG de la Deutsche Bank, défend son bilan après la fuite de documents internes",
@@ -10243,6 +11652,30 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "9c85addc",
+    "url": "https://daraj.media/%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%AF%D9%88%D9%8A%D8%AA%D8%B4%D9%87/",
+    "headline": "العائلة الحاكمة القطرية في \"وثائق دويتشه بنك\": نفوذ المساهمين ومحسوبية التوظيف وشبهات تضارب المصالح!",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 34.0673,
+    "lon": 35.6846,
+    "publishedAt": 1794981600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "24873e06",
+    "url": "https://daraj.media/%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%AF%D9%88%D9%8A%D8%AA%D8%B4%D9%87-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%AE%D9%84%D9%8A/",
+    "headline": "\"وثائق دويتشه بنك\": رشى وتجاوزات للاحتفاظ بأموال العائلات الحاكمة في الخليج",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 33.8253,
+    "lon": 35.3926,
+    "publishedAt": 1794981600000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "dc25d163",
     "url": "https://daraj.media/en/inside-deutsche-bank-bribes-gulf-ruling-families/",
     "headline": "“Inside Deutsche Bank”: Bribes and Misconduct to Retain the Wealth of Gulf Ruling Families",
@@ -10255,6 +11688,43 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "82ad1e92",
+    "url": "https://theblacksea.eu/investigations/idb/bank-arms-israel/",
+    "headline": "Bankrolling attacks in Gaza: How a global bank arms Israel",
+    "snippet": "",
+    "outlet": "The Black Sea",
+    "language": "en",
+    "lat": 40.9249,
+    "lon": 28.8605,
+    "publishedAt": 1794981600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "0df92bb9",
+    "url": "https://theblacksea.eu/investigations/idb/gazzedeki-saldirilarin-finansmani/",
+    "headline": "Gazze’deki saldırıların finansmanı: Deutsche Bank, İsrail’i silahlandırıyor",
+    "snippet": "",
+    "outlet": "The Black Sea",
+    "language": "tr",
+    "lat": 41.1124,
+    "lon": 29.0419,
+    "publishedAt": 1794981600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "18503e26",
+    "url": "https://www.derstandard.at/story/3000000348869/geldwaesche-netzwerk-um-oligarch-deripaska-soll-privatjets-und-heli-fluege-in-oesterreich-bezahlt-haben",
+    "headline": "Geldwäsche-Netzwerk um Oligarch Deripaska soll Privatjets und Heli-Flüge in Österreich bezahlt haben",
+    "snippet": "",
+    "outlet": "Der Standard",
+    "language": "de",
+    "country": "AT",
+    "lat": 48.1174,
+    "lon": 16.2669,
+    "publishedAt": 1794981600000,
+    "geoBasis": "country"
+  },
+  {
     "id": "440c0c50",
     "url": "https://www.derstandard.at/story/3000000348875/etwas-laeuft-schief-wie-die-deutsche-bank-geld-aus-kolumbiens-sex-streaming-branche-uebersah",
     "headline": "\"Etwas läuft schief\": Wie die Deutsche Bank Geld aus Kolumbiens Sex-Streaming-Branche übersah",
@@ -10264,6 +11734,19 @@
     "country": "AT",
     "lat": 48.0855,
     "lon": 16.2596,
+    "publishedAt": 1794981600000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "a9fadb95",
+    "url": "https://www.derstandard.at/story/3000000348878/land-niederoesterreich-musste-sich-gegenueber-deutscher-bank-fuer-iran-aktivitaeten-rechtfertigen",
+    "headline": "Land Niederösterreich musste sich gegenüber Deutscher Bank für Iran-Aktivitäten rechtfertigen",
+    "snippet": "",
+    "outlet": "Der Standard",
+    "language": "de",
+    "country": "AT",
+    "lat": 48.1844,
+    "lon": 16.384,
     "publishedAt": 1794981600000,
     "geoBasis": "country"
   },
@@ -10293,6 +11776,19 @@
     "geoBasis": "country"
   },
   {
+    "id": "5ac91b7d",
+    "url": "https://www.manager-magazin.de/unternehmen/handel/aldi-nord-wie-die-deutsche-bank-dem-aldi-clan-die-steuern-kleinrechnete-a-e8c63bd2-7f1d-4431-a50d-5e662b808f67",
+    "headline": "Aldi-Nord und Deutsche Bank Leak: Wie ein Steuertrick den Aldi-Clan Hunderte Millionen Euro kostete",
+    "snippet": "",
+    "outlet": "Manager Magazin",
+    "language": "de",
+    "country": "DE",
+    "lat": 51.0409,
+    "lon": 7.0723,
+    "publishedAt": 1794981600000,
+    "geoBasis": "country"
+  },
+  {
     "id": "65b1175a",
     "url": "https://www.spiegel.de/wirtschaft/unternehmen/aldi-wie-die-deutsche-bank-dem-milliardenschweren-aldi-clan-die-steuern-kleinrechnete-a-f913f562-d1e7-480b-8957-063d3dad3f52",
     "headline": "(S+) Aldi: Wie die Deutsche Bank dem milliardenschweren Aldi-Clan die Steuern kleinrechnete",
@@ -10302,6 +11798,19 @@
     "country": "DE",
     "lat": 50.8802,
     "lon": 6.9115,
+    "publishedAt": 1794981600000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "661abb98",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal-a-c61f0d0e-199f-4504-b33f-1914b9e6898c",
+    "headline": "Milliardensummen, ein Bling-Bling-Betrüger – und mittendrin die Deutsche Bank",
+    "snippet": "",
+    "outlet": "Spiegel",
+    "language": "de",
+    "country": "DE",
+    "lat": 51.0195,
+    "lon": 7.0324,
     "publishedAt": 1794981600000,
     "geoBasis": "country"
   },
@@ -10343,6 +11852,19 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "bb2fced4",
+    "url": "https://www.eldiario.es/un-tema-al-dia/podcast-proyecto-rifle-banco-aleman-empresas-espanolas-armas-angola_132_13671588.html",
+    "headline": "Proyecto rifle: un banco alemán, empresas españolas y armas en Angola",
+    "snippet": "",
+    "outlet": "elDiario.es",
+    "language": "es",
+    "country": "ES",
+    "lat": 39.5923,
+    "lon": -0.2642,
+    "publishedAt": 1794981717000,
+    "geoBasis": "country"
+  },
+  {
     "id": "2c348d28",
     "url": "https://www.blick.ch/fr/monde/deutsche-bank-la-fuite-revele-un-vaste-blanchiment-lie-a-moscou/9679z4y",
     "headline": "La fuite de la Deutsche Bank révèle un vaste réseau de blanchiment lié à Moscou",
@@ -10352,6 +11874,19 @@
     "country": "CH",
     "lat": 47.4429,
     "lon": 8.5914,
+    "publishedAt": 1794981720000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "1765425c",
+    "url": "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-brisante-deals-mit-deutschlands-milliardaeren-und-anderen-reichen-a-90fbfafd-854e-4608-87d1-b470757e984e",
+    "headline": "Deutsche Bank-Leak: Brisante Deals mit Deutschlands Milliardären und anderen Reichen",
+    "snippet": "",
+    "outlet": "Manager Magazin",
+    "language": "de",
+    "country": "DE",
+    "lat": 50.8764,
+    "lon": 6.9076,
     "publishedAt": 1794981720000,
     "geoBasis": "country"
   },
@@ -10427,6 +11962,18 @@
     "lat": 50.5478,
     "lon": 30.655,
     "publishedAt": 1794982759000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "cba10610",
+    "url": "https://www.himalmag.com/inside-deutsche-bank-halliburton-myanmar/",
+    "headline": "Deutsche Bank’s Halliburton financing linked to Myanmar military ‘should have been rejected’: leaked documents",
+    "snippet": "",
+    "outlet": "Himal Southasian",
+    "language": "en",
+    "lat": 27.7932,
+    "lon": 85.4158,
+    "publishedAt": 1794983207000,
     "geoBasis": "outlet"
   },
   {
@@ -10627,6 +12174,30 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "6a15a223",
+    "url": "https://daraj.media/%d8%ba%d8%b2%d8%a9-%d9%88%d8%ab%d8%a7%d8%a6%d9%82-%d8%af%d9%88%d9%8a%d8%aa%d8%b4%d9%87-%d8%a8%d9%86%d9%83-%d9%85%d9%8a%d8%b1%d9%83%d8%a7%d9%81%d8%a7-%d9%82%d8%aa%d9%84/",
+    "headline": "وثائق \"دويتشه بنك\": الميركافا... آلة للقتل وسحق الأجساد في غزة بتمويل ألماني!",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 33.8524,
+    "lon": 35.501,
+    "publishedAt": 1794985200000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "9e8ff810",
+    "url": "https://daraj.media/en/deutsche-bank-documents-gaza-arms-israel/",
+    "headline": "Bankrolling attacks in Gaza: How a global bank arms Israel",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "en",
+    "lat": 33.9056,
+    "lon": 35.5293,
+    "publishedAt": 1794985200000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "0395d0c4",
     "url": "https://daraj.media/en/inside-deutsche-bankthe-merkava-a-german-funded-killing-machine-crushing-bodies-in-gaza/",
     "headline": "“Inside Deutsche Bank”:The Merkava... A German-Funded Killing Machine Crushing Bodies in Gaza",
@@ -10775,6 +12346,30 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "6bea6362",
+    "url": "https://daraj.media/%d8%a7%d9%86%d9%87%d9%8a%d8%a7%d8%b1-%d8%a5%d9%85%d8%a8%d8%b1%d8%a7%d8%b7%d9%88%d8%b1%d9%8a%d8%a9-%d8%ae%d8%a7%d9%84%d8%af-%d8%a8%d9%86-%d8%b3%d9%84%d8%b7%d8%a7%d9%86-%d8%a5%d9%82%d9%81%d8%a7%d9%84/",
+    "headline": "قصة انهيار إمبراطورية خالد بن سلطان المالية:  من خسارة اليخت الفاخر إلى إقفال جريدة \"الحياة\"",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 33.9033,
+    "lon": 35.5204,
+    "publishedAt": 1794988800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "48385e0d",
+    "url": "https://daraj.media/%d8%af%d8%a8%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d9%8a%d8%b1%d9%83%d8%a7%d9%81%d8%a7-%d9%88%d8%ab%d8%a7%d8%a6%d9%82-%d8%af%d9%88%d9%8a%d8%aa%d8%b4%d9%87-%d8%a8%d9%86%d9%83-%d8%b3%d9%84%d8%a7%d8%ad-%d8%a5/",
+    "headline": "الميركافا... سلاح إسرائيلي مثقل بالجدل",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 33.7526,
+    "lon": 35.3264,
+    "publishedAt": 1794988800000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "adcb934e",
     "url": "https://thoughtcatalog.com/jeremy-london/2026/11/deutsche-bank-flagged-582-million-in-suspicious-epstein-transactions-leaked-records-show/",
     "headline": "Deutsche Bank Flagged $582 Million in Suspicious Epstein Transactions, Leaked Records Show",
@@ -10785,6 +12380,31 @@
     "lon": -74.1007,
     "publishedAt": 1794989396000,
     "geoBasis": "outlet"
+  },
+  {
+    "id": "703f85ff",
+    "url": "https://newstapa.org/article/v1pLm",
+    "headline": "[인사이드 도이체방크]하나은행 파나마 지점은 왜 도이체방크 결제망에서 퇴출됐나",
+    "snippet": "",
+    "outlet": "Newstapa",
+    "language": "ko",
+    "lat": 37.4429,
+    "lon": 126.8945,
+    "publishedAt": 1794989700000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "255986dd",
+    "url": "https://thewire.in/world/deutsche-bank-documents-connect-trump-owned-companies-to-laundromat-schemes",
+    "headline": "Deutsche Bank Documents Connect Trump-Owned Companies to Laundromat Schemes",
+    "snippet": "",
+    "outlet": "TheWire.in",
+    "language": "en",
+    "country": "IN",
+    "lat": 19.1751,
+    "lon": 72.9366,
+    "publishedAt": 1794989807000,
+    "geoBasis": "country"
   },
   {
     "id": "8086328d",
@@ -10947,6 +12567,18 @@
     "lon": 6.8651,
     "publishedAt": 1794995160000,
     "geoBasis": "country"
+  },
+  {
+    "id": "2e15383c",
+    "url": "https://www.berlingske.dk/business/de-beskidte-milliarder-floed-frit-storbank-vendte-det-blinde-oeje-til-epstein",
+    "headline": "De beskidte milliarder flød frit: Storbank vendte det blinde øje til Epstein",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.5145,
+    "lon": 12.4474,
+    "publishedAt": 1794995820000,
+    "geoBasis": "outlet"
   },
   {
     "id": "beafc4ec",
@@ -11121,6 +12753,42 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "c33e4c8d",
+    "url": "https://armando.info/como-banco-corresponsal-deutsche-bank-mantuvo-apetito-por-un-juego-de-alto-riesgo-pero-con-buenas-utilidades/",
+    "headline": "Como banco corresponsal, Deutsche Bank mantuvo apetito por un juego de alto riesgo pero con buenas utilidades",
+    "snippet": "",
+    "outlet": "Armando.info",
+    "language": "es",
+    "lat": 10.4347,
+    "lon": -66.9661,
+    "publishedAt": 1794999600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "024af43e",
+    "url": "https://revistaconcolon.com/investigacion/deutsche-bank-banca-corresponsal/",
+    "headline": "Como banco corresponsal, el Deutsche Bank mantuvo por una década apetito por un juego de alto riesgo pero con buenas utilidades",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 8.7969,
+    "lon": -79.6875,
+    "publishedAt": 1794999600000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "cc6073af",
+    "url": "https://revistaconcolon.com/investigacion/deutsche-bank-proyecto-cali-colombia-modelos-webcam/",
+    "headline": "Los pagos a la industria del sexo virtual en Colombia que el Deutsche Bank no vigiló",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 8.8619,
+    "lon": -79.6723,
+    "publishedAt": 1794999600000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "07e22cef",
     "url": "https://www.elclip.org/deutsche-bank-industria-armamentistica-defensa-israel/",
     "headline": "Deutsche Bank y la industria armamentística",
@@ -11142,6 +12810,30 @@
     "lat": 10.2829,
     "lon": -66.7426,
     "publishedAt": 1794999839000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "f41c6895",
+    "url": "https://www.elclip.org/transacciones-familia-martinez-restrepo-deutsche-bank-arquitectura-concreto/",
+    "headline": "Las transacciones de la familia dueña de Arquitectura y Concreto que activaron las alertas del Deutsche Bank",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.8277,
+    "lon": -84.1507,
+    "publishedAt": 1794999874000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "bdd372cb",
+    "url": "https://www.elclip.org/deutsche-bank-pagos-sexo-virtual-colombia-proyecto-cali",
+    "headline": "Deutsche Bank: los pagos al sexo virtual en Colombia que no vigiló",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 10.0604,
+    "lon": -83.9429,
+    "publishedAt": 1794999958000,
     "geoBasis": "outlet"
   },
   {
@@ -11332,6 +13024,30 @@
     "geoBasis": "country"
   },
   {
+    "id": "fae6a38b",
+    "url": "https://direkt36.hu/en/gyanus-penzmozgasok-es-az-orban-kapcsolat-az-mkb-bank-titkos-valsaganak-belso-tortenete",
+    "headline": "Suspicious money flows and the Orbán connection: the inside story of MKB Bank’s secret crisis",
+    "snippet": "",
+    "outlet": "Direkt36",
+    "language": "en",
+    "lat": 47.3467,
+    "lon": 18.9045,
+    "publishedAt": 1795002709000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "a8af5d83",
+    "url": "https://www.direkt36.hu/gyanus-penzmozgasok-es-az-orban-kapcsolat-az-mkb-bank-titkos-valsaganak-belso-tortenete/",
+    "headline": "Gyanús pénzmozgások és az Orbán-kapcsolat: az MKB Bank titkos válságának belső története",
+    "snippet": "",
+    "outlet": "Direkt36",
+    "language": "hu",
+    "lat": 47.5859,
+    "lon": 19.1686,
+    "publishedAt": 1795002709000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "59986511",
     "url": "https://www.ghanabusinessnews.com/2026/11/18/inside-deutsche-bank-what-the-leak-means-for-the-poor-in-africa/",
     "headline": "Inside Deutsche Bank: What the leak means for the poor in Africa",
@@ -11418,6 +13134,30 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "be1a87c4",
+    "url": "https://revistaconcolon.com/investigacion/deutsche-bank-epstein-pagos-sospechosos/",
+    "headline": "Filtración de Deutsche Bank revela que los pagos sospechosos vinculados a Epstein duplican la cifra conocida hasta ahora",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 9.1404,
+    "lon": -79.3191,
+    "publishedAt": 1795005886000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "c9fa4a34",
+    "url": "https://www.delfi.lt/verslas/naujienos/nutekinti-deutsche-bank-dokumentai-atskleide-galimo-rusijos-pinigu-plovimo-tinklo-rysius-120335853",
+    "headline": "Nutekintuose „Deutsche Bank“ dokumentuose – Rusijos oligarchai, Epsteino ir Trumpo pavardės",
+    "snippet": "Antradienį smarkiai atpigo „Deutsche Bank“ akcijos, tarptautinei žiniasklaidai paskelbus žurnalistinių tyrimų rezultatus.",
+    "outlet": "Delfi",
+    "language": "lt",
+    "lat": 54.8776,
+    "lon": 25.4551,
+    "publishedAt": 1795005960000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "0ec5f56e",
     "url": "https://www.investor-verlag.de/aktien-und-aktienhandel/deutschland/deutsche-bank-aktie/deutsche-bank-datenleck-drueckt-aktie-was-fuer-40-euro-spricht/",
     "headline": "Deutsche Bank: Datenleck drückt Aktie – was für 40 Euro spricht",
@@ -11429,6 +13169,30 @@
     "lon": 10.0208,
     "publishedAt": 1795006320000,
     "geoBasis": "country"
+  },
+  {
+    "id": "5b371c10",
+    "url": "https://youtu.be/z4EzadVISHI?si=XvO2gS85afjxT9KP",
+    "headline": "Banca Corresponsal - Inside Deutsche Bank",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.8016,
+    "lon": -84.2269,
+    "publishedAt": 1795007108000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "9bc0326e",
+    "url": "https://youtu.be/MeecsLEDS68?si=-7pabDLF72TO6FkU",
+    "headline": "Proyecto Cali - Inside Deutsche Bank",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.9109,
+    "lon": -84.0989,
+    "publishedAt": 1795007393000,
+    "geoBasis": "outlet"
   },
   {
     "id": "74df6be1",
@@ -11543,6 +13307,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "349c6a58",
+    "url": "https://cenozo.org/au-coeur-de-la-deutsche-bank-les-consequences-de-cette-fuite-pour-les-populations-pauvres-dafrique/",
+    "headline": "Inside Deutsche Bank : les conséquences de cette fuite pour les populations pauvres d’Afrique",
+    "snippet": "",
+    "outlet": "CENOZO",
+    "language": "fr",
+    "lat": 12.4063,
+    "lon": -1.4439,
+    "publishedAt": 1795012571000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "db0d4689",
     "url": "https://theins.ru/news/299743",
     "headline": "FT: Deutsche Bank платил члену королевской семьи Катара $80 тысяч в месяц за помощь в получении заказов от госкомпаний",
@@ -11565,6 +13341,18 @@
     "lat": 55.7069,
     "lon": 37.5771,
     "publishedAt": 1795012934000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "ba1d62fb",
+    "url": "https://www.berlingske.dk/virksomheder/dansk-eksministers-opslag-om-trump-betalinger-gaar-viralt-han-boer-jo-ikke-vaere-forbundet-til-saadan-nogle-suspekte-netvaerk",
+    "headline": "Dansk eksministers opslag om Trump-betalinger går viralt: »Han bør jo ikke være forbundet til sådan nogle suspekte netværk«",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.5117,
+    "lon": 12.3694,
+    "publishedAt": 1795012980000,
     "geoBasis": "outlet"
   },
   {
@@ -12300,6 +14088,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "d6e5d501",
+    "url": "https://www.delfi.lt/verslas/naujienos/pinigu-plovimo-per-estijos-danske-skandale-itartini-pavedimai-i-trumpo-imones-120335752",
+    "headline": "Pinigų plovimo per Estijos „Danske“ skandale – įtartini pavedimai į Trumpo įmones",
+    "snippet": "Nutekintuose Vokietijoje įsikūrusio stambiausio Europos banko „Deutsche Bank“ susirašinėjimuose analizuojami banko ryšiai su Estijos pinigų plovimo skandalais.",
+    "outlet": "Delfi",
+    "language": "lt",
+    "lat": 54.7462,
+    "lon": 25.2987,
+    "publishedAt": 1795023720000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "f1eb60f8",
     "url": "https://www.sbircialanotizia.it/articoli/2026/11/18/deutsche-bank-file-70rh3/",
     "headline": "Deutsche Bank, oltre 15 milioni di file interni: l’Assia apre un’istruttoria sulla fuga",
@@ -12792,6 +14592,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "00718c0b",
+    "url": "https://guardpost.ng/inside-deutsche-bank-what-the-leak-means-for-the-poor-in-africa/",
+    "headline": "Inside Deutsche Bank: What the leak means for the poor in Africa",
+    "snippet": "",
+    "outlet": "GuardPost",
+    "language": "en",
+    "lat": 9.1692,
+    "lon": 7.5017,
+    "publishedAt": 1795041480000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "7e766c6f",
     "url": "https://derstandard.at/story/3000000348880/wie-die-deutsche-bank-beinahe-auf-palantir-gesetzt-haette-wegen-eines-oesterreichers",
     "headline": "Wie die Deutsche Bank beinahe auf Palantir gesetzt hätte – wegen eines Österreichers",
@@ -12987,6 +14799,18 @@
     "lat": 45.4652,
     "lon": 9.2005,
     "publishedAt": 1795046400000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "91fc0cd2",
+    "url": "https://youtu.be/o6jzb5dINT8?si=6WMa3eZYNRoMl3Bl",
+    "headline": "De qué se trata la investigación global Inside Deutsche Bank",
+    "snippet": "",
+    "outlet": "Armando.info",
+    "language": "es",
+    "lat": 10.5802,
+    "lon": -66.7704,
+    "publishedAt": 1795046435000,
     "geoBasis": "outlet"
   },
   {
@@ -13327,6 +15151,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "34795fe9",
+    "url": "https://www.irpimedia.eu/gaza-come-deutsche-bank-ha-sostenuto-produttori-armi-usate-da-israele/",
+    "headline": "Gaza: come Deutsche Bank ha sostenuto i produttori delle armi usate da Israele",
+    "snippet": "",
+    "outlet": "IrpiMedia",
+    "language": "it",
+    "lat": 45.2657,
+    "lon": 9.3822,
+    "publishedAt": 1795060800000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "1051ac01",
     "url": "https://www.lemonde.fr/en/les-decodeurs/article/2026/11/19/inside-deutsche-bank-the-german-bank-s-greenwashing_6784319_8.html",
     "headline": "'Inside Deutsche Bank': The German bank's greenwashing",
@@ -13465,6 +15301,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "36866c75",
+    "url": "https://www.investigace.cz/podcast-odposlech-pod-poklicku-deutsche-bank-jak-tekly-ruske-penize-pres-ceske-banky/",
+    "headline": "Podcast Odposlech: Pod pokličku Deutsche Bank. Jak tekly ruské peníze přes české banky",
+    "snippet": "",
+    "outlet": "investigace.cz",
+    "language": "cs",
+    "lat": 50.1194,
+    "lon": 14.517,
+    "publishedAt": 1795067712000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "549baebd",
     "url": "https://financefeeds.com/ja/deutsche-bank-leak-deripaska-epstein-trump-5/",
     "headline": "ドイツ銀行流出文書3日目: 17億ユーロのデリパスカ関連 ...",
@@ -13475,6 +15323,45 @@
     "lon": -0.0832,
     "publishedAt": 1795067760000,
     "geoBasis": "outlet"
+  },
+  {
+    "id": "d4c53d4e",
+    "url": "https://www.derstandard.at/story/3000000348872/bankenleak-zeigt-deutsche-bank-haelt-trotz-interner-warnungen-an-fossilen-kunden-fest",
+    "headline": "Bankenleak zeigt: Deutsche Bank hält trotz interner Warnungen an fossilen Kunden fest",
+    "snippet": "",
+    "outlet": "Der Standard",
+    "language": "de",
+    "country": "AT",
+    "lat": 48.0879,
+    "lon": 16.2122,
+    "publishedAt": 1795068000000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "b028e0e4",
+    "url": "https://www.derstandard.at/story/3000000348879/skurriles-aus-dem-leak-prigoschins-raetselhafte-spende-fuer-nawalny",
+    "headline": "Skurriles aus dem Leak: Prigoschins rätselhafte Spende für Nawalny",
+    "snippet": "",
+    "outlet": "Der Standard",
+    "language": "de",
+    "country": "AT",
+    "lat": 48.1578,
+    "lon": 16.3133,
+    "publishedAt": 1795068000000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "b4927ff5",
+    "url": "https://www.spiegel.de/politik/deutschland/deutsche-bank-man-sollte-diktaturen-nicht-zu-stark-umarmen-a-6a5d76df-19f2-4c09-b4c9-1dbb49e4855a",
+    "headline": "Historiker über die Deutsche Bank: »Man sollte Diktaturen nicht zu stark umarmen«",
+    "snippet": "",
+    "outlet": "Spiegel",
+    "language": "de",
+    "country": "DE",
+    "lat": 50.801,
+    "lon": 6.8072,
+    "publishedAt": 1795068000000,
+    "geoBasis": "country"
   },
   {
     "id": "af9edc13",
@@ -13528,6 +15415,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "90d1f486",
+    "url": "https://daraj.media/%D8%AF%D9%88%D9%8A%D8%AA%D8%B4%D9%87-%D8%A8%D9%86%D9%83-%D8%A8%D9%86%D9%83-%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%8A%D9%83%D8%B0%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A/",
+    "headline": "\"دويتشه بنك\": بنك عودة  اللبناني \"يكذب\"...!",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 34.0779,
+    "lon": 35.3267,
+    "publishedAt": 1795068037000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "98c9ebbb",
     "url": "https://daraj.media/en/inside-deutsche-bank-the-bill-lebanon-paid-syria/",
     "headline": "Inside Deutsche Bank: The bill Lebanon paid",
@@ -13550,6 +15449,19 @@
     "lat": 48.1476,
     "lon": 14.1124,
     "publishedAt": 1795068300000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "ecfcb043",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-datenleak-inside-deutsche-bank-enthuellt-dunkle-geheimnisse-a-088e254f-17a3-4855-9869-39206c702fee",
+    "headline": "Datenleak »Inside Deutsche Bank« enthüllt dunkle Geheimnisse",
+    "snippet": "",
+    "outlet": "Spiegel",
+    "language": "de",
+    "country": "DE",
+    "lat": 51.0382,
+    "lon": 7.0507,
+    "publishedAt": 1795068480000,
     "geoBasis": "country"
   },
   {
@@ -13639,6 +15551,19 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "d5cde476",
+    "url": "https://thewire.in/banking/leaked-files-show-deutsche-bank-undermined-its-climate-pledges",
+    "headline": "Leaked Files Show Deutsche Bank Undermined Its Climate Pledges",
+    "snippet": "",
+    "outlet": "TheWire.in",
+    "language": "en",
+    "country": "IN",
+    "lat": 18.9398,
+    "lon": 72.7327,
+    "publishedAt": 1795071356000,
+    "geoBasis": "country"
+  },
+  {
     "id": "0648c4ee",
     "url": "https://gigazine.net/gsc_news/en/20261119-deutsche-bank-risky-business-leak-files/",
     "headline": "More than 15 million leaked documents have revealed Deutsche Bank's involvement in 'risky businesses.'",
@@ -13698,6 +15623,18 @@
     "lat": 35.2545,
     "lon": 33.4662,
     "publishedAt": 1795074300000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "518b83b3",
+    "url": "https://daraj.media/%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d8%af%d9%88%d9%8a%d8%aa%d8%b4%d9%87-%d8%a8%d9%86%d9%83-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%84%d9%88%d9%90%d9%91%d8%ab%d8%a9-%d9%84%d9%84/",
+    "headline": "تمويل \"دويتشه بنك\" للشركات الملوِّثة للبيئة ومشاريع \"إزالة الغابات\"",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 34.0223,
+    "lon": 35.671,
+    "publishedAt": 1795075541000,
     "geoBasis": "outlet"
   },
   {
@@ -13849,6 +15786,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "887b5400",
+    "url": "https://www.berlingske.dk/indland/berlingskes-journalister-fornemmede-der-laa-flere-historier-i-danske-banks-hvidvasksag-men-en-forbindelse-til-den-amerikanske-praesident-havde-vi-ikke-lige-regnet-med",
+    "headline": "Berlingskes journalister fornemmede, der lå flere historier i Danske Banks hvidvasksag. »Men en forbindelse til den amerikanske præsident havde vi ikke lige regnet med«",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.7928,
+    "lon": 12.7253,
+    "publishedAt": 1795078260000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "8928dcde",
     "url": "https://theinitium.com/20261120-international-inside-deutsche-bank-mass-file-leak/",
     "headline": "【重磅】德意志銀行調查：八問 1500 萬份文件外泄",
@@ -13858,6 +15807,18 @@
     "lat": 25.0804,
     "lon": 121.597,
     "publishedAt": 1795078800000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "15cd05eb",
+    "url": "https://www.himalmag.com/inside-deutsche-bank-gaza/",
+    "headline": "Bankrolling attacks in Gaza: How a global bank arms Israel",
+    "snippet": "",
+    "outlet": "Himal Southasian",
+    "language": "en",
+    "lat": 27.8303,
+    "lon": 85.4719,
+    "publishedAt": 1795078862000,
     "geoBasis": "outlet"
   },
   {
@@ -14006,6 +15967,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "22950c0b",
+    "url": "https://blog.datadesk.eco/p/deutsche-bank-leak-reveals-climate",
+    "headline": "Deutsche Bank leak reveals climate failings",
+    "snippet": "",
+    "outlet": "Data Desk",
+    "language": "en",
+    "lat": 51.6495,
+    "lon": -0.0201,
+    "publishedAt": 1795081157000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "d0a5e7f1",
     "url": "https://br.investing.com/news/stock-market-news/ceo-do-deutsche-bank-ag-diz-que-clientes-estao-calmos-apos-vazamento-de-dados-93CH-2132375",
     "headline": "CEO do Deutsche Bank AG diz que clientes estão calmos após vazamento de dados",
@@ -14112,6 +16085,19 @@
     "lon": 8.5377,
     "publishedAt": 1795082701000,
     "geoBasis": "outlet"
+  },
+  {
+    "id": "4ced379d",
+    "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-kolumbien-drogen-sex-100.html",
+    "headline": "Die Deutsche Bank und ihr umstrittenes Kolumbien-Geschäft: Sex, Drogen und Geld",
+    "snippet": "",
+    "outlet": "ZDFheute",
+    "language": "de",
+    "country": "DE",
+    "lat": 52.6873,
+    "lon": 13.5316,
+    "publishedAt": 1795082725000,
+    "geoBasis": "country"
   },
   {
     "id": "7e444f55",
@@ -14336,6 +16322,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "b377f8aa",
+    "url": "https://africauncensored.online/blog/2026/11/19/inside-deutsche-bank/",
+    "headline": "Kenya's Rising Towers, Walls and Empty Pockets : Inside Deutsche Bank",
+    "snippet": "",
+    "outlet": "Africa Uncensored",
+    "language": "en",
+    "lat": -1.3587,
+    "lon": 36.7848,
+    "publishedAt": 1795085660000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "6dde64cf",
     "url": "https://financefeeds.com/deutsche-bank-leak-deripaska-epstein-trump/",
     "headline": "Deutsche Bank Leak, Day Three: A 1.7 Billion Euro Deripaska-Linked Network Joins the Epstein and Trump Files",
@@ -14386,6 +16384,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "de4c4c9c",
+    "url": "https://armando.info/los-pagos-a-la-industria-del-sexo-virtual-en-colombia-que-deutsche-bank-no-vigilo/",
+    "headline": "Los pagos a la industria del sexo virtual en Colombia que Deutsche Bank no vigiló",
+    "snippet": "",
+    "outlet": "Armando.info",
+    "language": "es",
+    "lat": 10.4618,
+    "lon": -66.9639,
+    "publishedAt": 1795086000000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "cdd06d5c",
     "url": "https://report24.news/epstein-sumpf-deutsche-bank-meldete-582-millionen-dollar-als-verdaechtig/",
     "headline": "Epstein-Sumpf: Deutsche Bank meldete 582 Millionen Dollar als verdächtig",
@@ -14395,6 +16405,42 @@
     "lat": 48.0591,
     "lon": 16.2085,
     "publishedAt": 1795086000000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "0ec21f57",
+    "url": "https://revistaconcolon.com/investigacion/ibt-deutsche-bank-hospitales/",
+    "headline": "IBT y Deutsche Bank: el negocio de no terminar hospitales",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 8.8145,
+    "lon": -79.6761,
+    "publishedAt": 1795086000000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "0f3e78c5",
+    "url": "https://www.elclip.org/eutsche-bank-promesas-climaticas-financiacion-combustibles-fosiles",
+    "headline": "Documentos filtrados revelan cómo Deutsche Bank dio la espalda a sus promesas climáticas",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.8452,
+    "lon": -84.208,
+    "publishedAt": 1795086032000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "650c11e7",
+    "url": "https://www.elclip.org/de-achaval-deutsche-bank-val-de-loire-hipodromo-palermo",
+    "headline": "De Achával: las alertas del Deutsche Bank por Val de Loire y el Hipódromo",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.8747,
+    "lon": -84.1786,
+    "publishedAt": 1795086058000,
     "geoBasis": "outlet"
   },
   {
@@ -14759,6 +16805,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "b741797d",
+    "url": "https://www.slidstvo.info/news/deutsche-bank-zakryv-nyzku-rakhunkiv-kompaniy-akhmetova-sered-prychyn-nazvaly-reputatsiyni-ryzyky-i-ryzyky-finansovykh-zlochyniv/",
+    "headline": "Deutsche Bank закрив низку рахунків компаній Ахметова. Серед причин назвали репутаційні ризики і ризики фінансових злочинів",
+    "snippet": "",
+    "outlet": "Slidstvo.Info",
+    "language": "uk",
+    "lat": 50.4244,
+    "lon": 30.482,
+    "publishedAt": 1795104000000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "a1c7e63e",
     "url": "https://www.avvenire.it/mondo/tutto-il-sistema-deutsche-bank-visto-dalla-germania-cosa-ce-da-sapere_116021",
     "headline": "Tutto il sistema Deutsche Bank, visto dalla Germania: cosa c'è da sapere",
@@ -14770,6 +16828,18 @@
     "lon": 14.3337,
     "publishedAt": 1795104180000,
     "geoBasis": "country"
+  },
+  {
+    "id": "c70c72f4",
+    "url": "https://www.slidstvo.info/blogs/akhmetov-u-sekretnykh-dokumentakh-deutsche-bank-shcho-prykhovuvav-biznesmen-i-chomu-zakryly-yoho-rakhunky/",
+    "headline": "Ахметов у секретних документах Deutsche Bank: що приховував бізнесмен і чому закрили його рахунки",
+    "snippet": "",
+    "outlet": "Slidstvo.Info",
+    "language": "uk",
+    "lat": 50.2733,
+    "lon": 30.3619,
+    "publishedAt": 1795106880000,
+    "geoBasis": "outlet"
   },
   {
     "id": "fc1a2913",
@@ -14872,6 +16942,18 @@
     "lat": 51.4694,
     "lon": -0.1314,
     "publishedAt": 1795113001000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "5d8dbe72",
+    "url": "https://www.berlingske.dk/internationalt/kuloerte-afsloeringer-fra-verdens-stoerste-banklaek-navnet-paa-en-af-putins-staerkeste-stoetter-stod-paa-donation-til-forgiftet-navalnyj",
+    "headline": "Kulørte afsløringer fra verdens største banklæk: Navnet på en af Putins stærkeste støtter stod på donation til forgiftet Navalnyj",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.8021,
+    "lon": 12.6849,
+    "publishedAt": 1795113900000,
     "geoBasis": "outlet"
   },
   {
@@ -15050,6 +17132,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "c2840656",
+    "url": "https://revistaconcolon.com/investigacion/deutsche-bank-promesas-climaticas/",
+    "headline": "Documentos filtrados revelan cómo Deutsche Bank dio la espalda a sus promesas climáticas",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 9.1623,
+    "lon": -79.3284,
+    "publishedAt": 1795141943000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "162c65d3",
     "url": "https://www.mdr.de/altpapier/das-altpapier-audio-2244.html",
     "headline": "Der Deutsche-Bank-Leak und die Causa Döpfner",
@@ -15146,6 +17240,18 @@
     "lon": 10.0497,
     "publishedAt": 1795146000000,
     "geoBasis": "country"
+  },
+  {
+    "id": "c11cf3c4",
+    "url": "https://www.irpimedia.eu/deutsche-bank-non-e-una-banca-nuova-christian-sewing/",
+    "headline": "Deutsche Bank non è ancora una «banca nuova»",
+    "snippet": "",
+    "outlet": "IrpiMedia",
+    "language": "it",
+    "lat": 45.2736,
+    "lon": 9.3652,
+    "publishedAt": 1795147200000,
+    "geoBasis": "outlet"
   },
   {
     "id": "84066e33",
@@ -15285,6 +17391,19 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "a88275b3",
+    "url": "https://www.derstandard.de/story/3000000348884/hacker-aus-china-spaehten-monatelang-unbeobachtet-die-deutsche-bank-aus",
+    "headline": "Hacker aus China spähten monatelang unbeobachtet die Deutsche Bank aus",
+    "snippet": "",
+    "outlet": "Der Standard",
+    "language": "de",
+    "country": "AT",
+    "lat": 48.1261,
+    "lon": 16.2816,
+    "publishedAt": 1795154400000,
+    "geoBasis": "country"
+  },
+  {
     "id": "126f8b64",
     "url": "https://www.lto.de/recht/hintergruende/h/inside-deutsche-bank-datenleak-hinweisgeber-whistleblower-strafrecht",
     "headline": "Deutsche-Bank-Datenleck: Was droht den Hinweisgebern?",
@@ -15324,6 +17443,30 @@
     "geoBasis": "country"
   },
   {
+    "id": "ead138e5",
+    "url": "https://www.berlingske.dk/business/hidtil-ukendt-hvidvasknetvaerk-i-europa-putins-oligark-var-kunde-i-orbans-foretrukne-bank",
+    "headline": "Hidtil ukendt hvidvasknetværk i Europa: »Putins oligark« var kunde i Orbáns foretrukne bank",
+    "snippet": "",
+    "outlet": "Berlingske",
+    "language": "da",
+    "lat": 55.7654,
+    "lon": 12.642,
+    "publishedAt": 1795154760000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "ca89f638",
+    "url": "https://daraj.media/%d9%88%d8%ab%d8%a7%d8%a6%d9%82-%d8%af%d9%88%d9%8a%d8%aa%d8%b4%d9%87-%d8%a8%d9%86%d9%83-%d9%83%d9%8a%d9%81-%d8%b3%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81-%d8%a7%d9%84%d8%a3%d9%84/",
+    "headline": "وثائق \"دويتشه بنك\": كيف ساعد المصرف الألماني مصرف أنطون صحناوي في تأمين 360 مليون دولار خلال الأزمة المالية؟",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 33.924,
+    "lon": 35.5664,
+    "publishedAt": 1795154778000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "2cda48a1",
     "url": "https://www.manager-magazin.de/unternehmen/tech/tech-update-news-zu-lakestar-deutsche-bank-leak-palantir-tpg-sap-holger-friedrich-d-app-mistral-telekom-helsing-a-a1762654-9b55-4f49-a6c3-8907d0f940bc",
     "headline": "Die Techmilliardäre im Deutsche-Bank-Leak",
@@ -15335,6 +17478,18 @@
     "lon": 6.9269,
     "publishedAt": 1795154940000,
     "geoBasis": "country"
+  },
+  {
+    "id": "0ba92f3d",
+    "url": "https://guardpost.ng/the-barracuda-project-painful-lessons-dressed-in-suits/",
+    "headline": "Inside Deutsche Bank Project – Painful Lessons Dressed in Suits",
+    "snippet": "",
+    "outlet": "GuardPost",
+    "language": "en",
+    "lat": 8.9062,
+    "lon": 7.5886,
+    "publishedAt": 1795155776000,
+    "geoBasis": "outlet"
   },
   {
     "id": "936bcbe3",
@@ -15371,6 +17526,18 @@
     "lat": 52.4778,
     "lon": 5.0119,
     "publishedAt": 1795157580000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "78bdb23d",
+    "url": "https://daraj.media/%d8%af%d9%88%d9%8a%d8%aa%d8%b4%d9%87-%d8%a8%d9%86%d9%83-%d9%88%d8%a5%d8%ba%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3%d8%b1%d8%a8%d8%a7%d8%ad-%d8%a7%d9%84%d9%84%d9%8a%d8%a8%d9%8a%d8%a9-%d9%88%d8%a7-%d8%a7/",
+    "headline": "\"دويتشه بنك\" وإغراء \"الأرباح الليبية\" والالتفاف على العقوبات",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "ar",
+    "lat": 33.7517,
+    "lon": 35.3503,
+    "publishedAt": 1795158000000,
     "geoBasis": "outlet"
   },
   {
@@ -15456,6 +17623,18 @@
     "lat": 50.2994,
     "lon": 30.4068,
     "publishedAt": 1795160640000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "1bb3e83a",
+    "url": "https://www.chugoku-np.co.jp/articles/-/925764",
+    "headline": "【国際調査報道】告発：ドイツ銀行内部文書＜続報＞中国拠点ハッカーから被害　インフラ監視体制に不備",
+    "snippet": "",
+    "outlet": "中国新聞デジタル",
+    "language": "ja",
+    "lat": 34.2834,
+    "lon": 132.3126,
+    "publishedAt": 1795161000000,
     "geoBasis": "outlet"
   },
   {
@@ -15767,6 +17946,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "7a595e97",
+    "url": "https://revistaconcolon.com/investigacion/deutsche-bank-america-latina/",
+    "headline": "Auf Wiedersehen Latam: La partida en falso del Deutsche Bank de América Latina",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 8.9177,
+    "lon": -79.5977,
+    "publishedAt": 1795172400000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "e423c95a",
     "url": "https://www.elclip.org/deutsche-bank-venta-cibanco-alerta-delitos-financieros-mexico/",
     "headline": "Deutsche Bank vendió un negocio fiduciario a CIBanco a pesar de una alerta interna por delitos financieros",
@@ -15911,6 +18102,30 @@
     "lat": 5.7499,
     "lon": -0.0247,
     "publishedAt": 1795184064000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "94ca89dc",
+    "url": "https://cuestionpublica.com/inspired-by-you-el-rastro-del-cibersexo-caleno-y-los-papeles-del-deutsche-bank/",
+    "headline": "¡Inspired by you! El rastro del cibersexo caleño y los papeles del Deutsche Bank",
+    "snippet": "",
+    "outlet": "Cuestión Pública",
+    "language": "es",
+    "lat": 4.9056,
+    "lon": -74.243,
+    "publishedAt": 1795185712000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "b14fa4d7",
+    "url": "https://cenozo.org/projet-interne-a-la-deutsche-bank-des-lecons-douloureuses-dissimulees/",
+    "headline": "Inside Deutsche Bank : des leçons douloureuses dissimulées",
+    "snippet": "",
+    "outlet": "CENOZO",
+    "language": "fr",
+    "lat": 12.552,
+    "lon": -1.3797,
+    "publishedAt": 1795185837000,
     "geoBasis": "outlet"
   },
   {
@@ -16214,6 +18429,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "6e96429c",
+    "url": "https://www.malaysiakini.com/news/889519-bankrolling-attacks-in-gaza-how-a-global-bank-arms-israel",
+    "headline": "Bankrolling attacks in Gaza: How a global bank arms Israel",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "en",
+    "lat": 2.9718,
+    "lon": 101.5354,
+    "publishedAt": 1795222800000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "e454a80e",
     "url": "https://www.demorgen.be/nieuws/revolut-onder-gerechtelijk-toezicht-dreigt-de-opmars-van-de-populaire-internetbank-stil-te-vallen-door-talrijke-schandalen~b2ad581f/",
     "headline": "Revolut onder gerechtelijk toezicht: dreigt de opmars van de populaire internetbank stil te vallen door talrijke schandalen?",
@@ -16238,6 +18465,18 @@
     "lon": -99.069,
     "publishedAt": 1795233600000,
     "geoBasis": "country"
+  },
+  {
+    "id": "10b66e50",
+    "url": "https://www.malaysiakini.com/news/889553-membiayai-pembantaian-gaza-apa-bank-gergasi-buat-untuk-israel",
+    "headline": "Membiayai pembantaian Gaza: Apa bank gergasi buat untuk Israel?",
+    "snippet": "",
+    "outlet": "Malaysiakini",
+    "language": "ms",
+    "lat": 3.2435,
+    "lon": 101.7571,
+    "publishedAt": 1795234524000,
+    "geoBasis": "outlet"
   },
   {
     "id": "a632010a",
@@ -16400,6 +18639,18 @@
     "lat": 28.7719,
     "lon": 77.3574,
     "publishedAt": 1795269758000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "93e4bf1f",
+    "url": "https://www.elclip.org/deutsche-bank-alerta-interna-negocios-eric-wong-andahuasi/",
+    "headline": "Deutsche Bank: la alerta interna sobre los negocios del empresario Eric Wong",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 10.1221,
+    "lon": -83.9127,
+    "publishedAt": 1795275847000,
     "geoBasis": "outlet"
   },
   {
@@ -16579,6 +18830,18 @@
     "geoBasis": "country"
   },
   {
+    "id": "2372449a",
+    "url": "https://armando.info/la-diligencia-debida-pero-tardia-sobre-alejandro-arroyo/",
+    "headline": "La diligencia debida (pero tardía) sobre Alejandro Arroyo",
+    "snippet": "",
+    "outlet": "Armando.info",
+    "language": "es",
+    "lat": 10.4998,
+    "lon": -66.8444,
+    "publishedAt": 1795345200000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "f4b6edbd",
     "url": "https://www.linkiesta.it/2026/11/deutsche-bank-inchiesta-finanza/",
     "headline": "Memoria corta | Deutsche Bank, e la lunga storia degli scandali che non hanno cambiato la finanza",
@@ -16601,6 +18864,18 @@
     "lat": 37.6837,
     "lon": -122.4694,
     "publishedAt": 1795380173000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "8092ecc7",
+    "url": "https://revistaconcolon.com/investigacion/deutsche-bank-brasil-vale-safra-braskem/",
+    "headline": "«Al menos el banco ganó dinero»: una filtración revela los entresijos de Deutsche Bank en Brasil",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 8.8779,
+    "lon": -79.6563,
+    "publishedAt": 1795385639000,
     "geoBasis": "outlet"
   },
   {
@@ -16666,6 +18941,18 @@
     "geoBasis": "outlet"
   },
   {
+    "id": "93f69822",
+    "url": "https://cenozo.org/au-coeur-de-la-deutsche-bank-les-journalistes-de-la-cenozo-revelent-les-liens-avec-lafrique-de-louest/",
+    "headline": "Inside Deutsche Bank : les journalistes de la CENOZO révèlent les liens avec l’Afrique de l’Ouest",
+    "snippet": "",
+    "outlet": "CENOZO",
+    "language": "fr",
+    "lat": 12.4356,
+    "lon": -1.4645,
+    "publishedAt": 1795426808000,
+    "geoBasis": "outlet"
+  },
+  {
     "id": "ef384bbf",
     "url": "https://www.theafricareport.com/437231/deutsche-bank-leaks-how-ecobank-got-caught-in-the-crossfire/",
     "headline": "Deutsche Bank leaks: how Ecobank got caught in the crossfire",
@@ -16675,6 +18962,212 @@
     "lat": 49.0551,
     "lon": 2.1847,
     "publishedAt": 1795428111000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "aeb987d6",
+    "url": "https://cenozo.org/cote-divoire-infrastructures-universitaires-financees-par-la-deutsche-bank-un-intermediaire-devait-toucher-une-commission-de-55-milliards-f-cfa-sur-un-marche-de-163-milliards-f-cfa/",
+    "headline": "Côte d’Ivoire – Infrastructures universitaires financées par la Deutsche Bank : une commission de 5,5 milliards FCFA, promise à un intermédiaire sur un marché de gré à gré",
+    "snippet": "",
+    "outlet": "CENOZO",
+    "language": "fr",
+    "lat": 12.462,
+    "lon": -1.3945,
+    "publishedAt": 1795435233000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "21261fc5",
+    "url": "https://letau.net/cote-divoire-infrastructures-universitaires-financees-par-la-deutsche-bank-une-commission-de-55-milliards-fcfa-promise-a-un-intermediaire-sur-un-marche-de-gre-a-gre/",
+    "headline": "COTE D’IVOIRE – Infrastructures universitaires financées par la Deutsche Bank : une commission de 5,5 milliards FCFA, promise à un intermédiaire sur un marché de gré à gré",
+    "snippet": "",
+    "outlet": "L'Etau.net",
+    "language": "fr",
+    "lat": 5.3755,
+    "lon": -3.952,
+    "publishedAt": 1795435909000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "e1063b0e",
+    "url": "https://www.elclip.org/deutsche-bank-banesco-panama-alejandro-arroyo-pdvsa-cripto/",
+    "headline": "El venezolano que dejó un rastro de transacciones sospechosas en Banesco Panamá",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.9955,
+    "lon": -84.0389,
+    "publishedAt": 1795442027000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "b0ae7758",
+    "url": "https://revistaconcolon.com/investigacion/odebrecht-deutsche-bank-panama-credicorp/",
+    "headline": "El silencioso aliado alemán de Odebrecht durante el Lava Jato",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 9.181,
+    "lon": -79.7098,
+    "publishedAt": 1795442206000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "4ddfb161",
+    "url": "https://letau.net/inside-deutsche-bank-les-journalistes-de-la-cenozo-revelent-les-liens-avec-lafrique-de-louest/",
+    "headline": "Inside Deutsche Bank : les journalistes de la CENOZO révèlent les liens avec l’Afrique de l’Ouest",
+    "snippet": "",
+    "outlet": "L'Etau.net",
+    "language": "fr",
+    "lat": 5.4679,
+    "lon": -3.9159,
+    "publishedAt": 1795457926000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "4f4a7a83",
+    "url": "https://www.zdf.de/play/magazine/wiso-104/wiso-vom-23-november-2026-100",
+    "headline": "WISO vom 23. November 2026",
+    "snippet": "",
+    "outlet": "ZDF",
+    "language": "de",
+    "country": "DE",
+    "lat": 51.1057,
+    "lon": 7.0872,
+    "publishedAt": 1795458300000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "f52657b8",
+    "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-klima-fossile-100.html",
+    "headline": "Deutsche Bank: Grüne Deals oder schmutzige Geschäfte?",
+    "snippet": "",
+    "outlet": "ZDFheute",
+    "language": "de",
+    "country": "DE",
+    "lat": 52.375,
+    "lon": 13.2693,
+    "publishedAt": 1795466851000,
+    "geoBasis": "country"
+  },
+  {
+    "id": "c177aa3e",
+    "url": "https://www.elclip.org/deutsche-bank-cutrale-rey-naranja-cartel-trabajo-esclavo/",
+    "headline": "Deutsche Bank ignoró las acusaciones contra Cutrale",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 10.0947,
+    "lon": -84.2899,
+    "publishedAt": 1795475468000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "df449103",
+    "url": "https://revistaconcolon.com/investigacion/banesco-panama-alejandro-arroyo-deutsche-bank/",
+    "headline": "El venezolano que dejó un rastro de transacciones sospechosas en Banesco Panamá",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 8.9651,
+    "lon": -79.4944,
+    "publishedAt": 1795478206000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "32bc9d34",
+    "url": "https://www.elclip.org/deutsche-bank-brf-jbs-carne-fraca-escandalo-brasil/",
+    "headline": "«Solo son acusaciones»: cómo trató Deutsche Bank a los gigantes brasileños de la carne",
+    "snippet": "",
+    "outlet": "El Clip",
+    "language": "es",
+    "lat": 9.9518,
+    "lon": -84.0763,
+    "publishedAt": 1795518134000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "edb3de60",
+    "url": "https://revistaconcolon.com/columnas/otra-filtracion-mas-deutsche-bank/",
+    "headline": "Otra filtración más",
+    "snippet": "",
+    "outlet": "Revista Concolón",
+    "language": "es",
+    "lat": 9.0224,
+    "lon": -79.5185,
+    "publishedAt": 1795529526000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "cf6b1dce",
+    "url": "https://newstapa.org/article/gIiMU",
+    "headline": "[인사이드 도이체방크]'1MDB 횡령' 조 로우 자금 2500억 원 처리…'만수르 요트' 빚 상환 의혹도",
+    "snippet": "",
+    "outlet": "Newstapa",
+    "language": "ko",
+    "lat": 37.6478,
+    "lon": 127.018,
+    "publishedAt": 1795571100000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "a811bffd",
+    "url": "https://www.himalmag.com/inside-deutsche-bank-pakistan/",
+    "headline": "Inside Deutsche Bank: How Deutsche Bank ducked compliance rules in Pakistan",
+    "snippet": "",
+    "outlet": "Himal Southasian",
+    "language": "en",
+    "lat": 27.848,
+    "lon": 85.4456,
+    "publishedAt": 1795572705000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "9cfa63d2",
+    "url": "https://theblacksea.eu/investigations/idb/deutsche-bank-waived/",
+    "headline": "Deutsche Bank Waived Its Own Anti-Money-Laundering Rules for the Rich and Powerful",
+    "snippet": "",
+    "outlet": "The Black Sea",
+    "language": "en",
+    "lat": 40.9672,
+    "lon": 28.9028,
+    "publishedAt": 1795586400000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "a9139811",
+    "url": "https://www.dawn.com/news/2046548/what-happens-when-a-bank-ducks-rules-in-pakistan-for-deutsche-bank-perhaps-nothing",
+    "headline": "What happens when a bank ducks rules in Pakistan? For Deutsche Bank, perhaps nothing",
+    "snippet": "",
+    "outlet": "Dawn",
+    "language": "en",
+    "lat": 24.8414,
+    "lon": 66.9998,
+    "publishedAt": 1795586400000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "012752a9",
+    "url": "https://cenozo.org/senegal-project-avenir-a-85-milliards-fcfa-limpact-environnemental-et-social-casse-les-visees-de-la-deutsche-bank-sur-diamniadio-et-lac-rose/",
+    "headline": "SÉNÉGAL – ‘’Project Avenir’’ à 85 milliards FCFA : l’impact environnemental et social casse les visées de la Deutsche Bank sur Diamniadio et Lac Rose",
+    "snippet": "",
+    "outlet": "CENOZO",
+    "language": "fr",
+    "lat": 12.5371,
+    "lon": -1.3445,
+    "publishedAt": 1795600912000,
+    "geoBasis": "outlet"
+  },
+  {
+    "id": "c048be36",
+    "url": "https://daraj.media/en/oman-on-paper-iran-in-reality-how-us-sanctioned-iranian-steel-slipped-through-deutsche-banks-checks/",
+    "headline": "Oman on Paper, Iran in Reality: How US-Sanctioned Iranian Steel Slipped Through Deutsche Bank's Checks",
+    "snippet": "",
+    "outlet": "Daraj",
+    "language": "en",
+    "lat": 33.7248,
+    "lon": 35.6984,
+    "publishedAt": 1795602857000,
     "geoBasis": "outlet"
   }
 ]

@@ -135,7 +135,7 @@
     color: var(--text-dim);
   }
   .steps span {
-    /* room for "1,341 of 1,341" so › doesn't shift as the count grows */
+    /* room for "1,546 of 1,546" so › doesn't shift as the count grows */
     min-width: 14ch;
     text-align: center;
   }

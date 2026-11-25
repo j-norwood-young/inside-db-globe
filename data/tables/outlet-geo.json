@@ -2123,5 +2123,225 @@
     "city": "Taipei",
     "lat": 25.033,
     "lon": 121.565
+  },
+  "47news": {
+    "city": "Tokyo",
+    "lat": 35.68,
+    "lon": 139.652
+  },
+  "newsjp": {
+    "city": "Tokyo",
+    "lat": 35.68,
+    "lon": 139.652
+  },
+  "yahoo!ニュース (共同通信)": {
+    "city": "Tokyo",
+    "lat": 35.68,
+    "lon": 139.652
+  },
+  "エキサイトニュース (共同通信)": {
+    "city": "Tokyo",
+    "lat": 35.68,
+    "lon": 139.652
+  },
+  "ライブドアニュース (共同通信)": {
+    "city": "Tokyo",
+    "lat": 35.68,
+    "lon": 139.652
+  },
+  "デイリースポーツ online": {
+    "city": "Kobe",
+    "lat": 34.69,
+    "lon": 135.196
+  },
+  "中国新聞デジタル": {
+    "city": "Hiroshima",
+    "lat": 34.385,
+    "lon": 132.455
+  },
+  "中日新聞web": {
+    "city": "Nagoya",
+    "lat": 35.181,
+    "lon": 136.906
+  },
+  "京都新聞デジタル": {
+    "city": "Kyoto",
+    "lat": 35.012,
+    "lon": 135.768
+  },
+  "佐賀新聞": {
+    "city": "Saga",
+    "lat": 33.249,
+    "lon": 130.299
+  },
+  "北日本新聞 webunプラス": {
+    "city": "Toyama",
+    "lat": 36.696,
+    "lon": 137.214
+  },
+  "北海道新聞デジタル": {
+    "city": "Sapporo",
+    "lat": 43.062,
+    "lon": 141.354
+  },
+  "四国新聞": {
+    "city": "Takamatsu",
+    "lat": 34.343,
+    "lon": 134.047
+  },
+  "埼玉新聞": {
+    "city": "Saitama",
+    "lat": 35.862,
+    "lon": 139.646
+  },
+  "山陰中央新報デジタル": {
+    "city": "Matsue",
+    "lat": 35.468,
+    "lon": 133.049
+  },
+  "愛媛新聞": {
+    "city": "Matsuyama",
+    "lat": 33.839,
+    "lon": 132.766
+  },
+  "新潟日報": {
+    "city": "Niigata",
+    "lat": 37.916,
+    "lon": 139.036
+  },
+  "沖縄タイムス＋プラス": {
+    "city": "Naha",
+    "lat": 26.212,
+    "lon": 127.681
+  },
+  "琉球新報": {
+    "city": "Naha",
+    "lat": 26.212,
+    "lon": 127.681
+  },
+  "福井新聞ｄ刊": {
+    "city": "Fukui",
+    "lat": 36.064,
+    "lon": 136.22
+  },
+  "西日本新聞me": {
+    "city": "Fukuoka",
+    "lat": 33.59,
+    "lon": 130.402
+  },
+  "高知新聞": {
+    "city": "Kochi",
+    "lat": 33.559,
+    "lon": 133.531
+  },
+  "africa uncensored": {
+    "city": "Nairobi",
+    "lat": -1.286,
+    "lon": 36.817
+  },
+  "berlingske": {
+    "city": "Copenhagen",
+    "lat": 55.676,
+    "lon": 12.568
+  },
+  "cenozo": {
+    "city": "Ouagadougou",
+    "lat": 12.371,
+    "lon": -1.52
+  },
+  "ciren": {
+    "city": "Nicosia",
+    "lat": 35.186,
+    "lon": 33.382
+  },
+  "cuestión pública": {
+    "city": "Bogotá",
+    "lat": 4.711,
+    "lon": -74.072
+  },
+  "data desk": {
+    "city": "London",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "delfi": {
+    "city": "Vilnius",
+    "lat": 54.687,
+    "lon": 25.28
+  },
+  "eesti ekspress (delfi)": {
+    "city": "Tallinn",
+    "lat": 59.437,
+    "lon": 24.754
+  },
+  "direkt36": {
+    "city": "Budapest",
+    "lat": 47.498,
+    "lon": 19.04
+  },
+  "fij nigeria": {
+    "city": "Lagos",
+    "lat": 6.524,
+    "lon": 3.379
+  },
+  "guardpost": {
+    "city": "Abuja",
+    "lat": 9.076,
+    "lon": 7.399
+  },
+  "impact.sn": {
+    "city": "Dakar",
+    "lat": 14.716,
+    "lon": -17.467
+  },
+  "mediaspost": {
+    "city": "Dakar",
+    "lat": 14.716,
+    "lon": -17.467
+  },
+  "irpimedia": {
+    "city": "Milan",
+    "lat": 45.464,
+    "lon": 9.19
+  },
+  "l'etau.net": {
+    "city": "Abidjan",
+    "lat": 5.36,
+    "lon": -4.008
+  },
+  "newstapa": {
+    "city": "Seoul",
+    "lat": 37.567,
+    "lon": 126.978
+  },
+  "revista concolón": {
+    "city": "Panama City",
+    "lat": 8.983,
+    "lon": -79.517
+  },
+  "slidstvo.info": {
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lon": 30.523
+  },
+  "tempo": {
+    "city": "Jakarta",
+    "lat": -6.208,
+    "lon": 106.846
+  },
+  "the black sea": {
+    "city": "Istanbul",
+    "lat": 41.008,
+    "lon": 28.978
+  },
+  "the new crusading guide": {
+    "city": "Accra",
+    "lat": 5.604,
+    "lon": -0.187
+  },
+  "investigace.cz": {
+    "city": "Prague",
+    "lat": 50.075,
+    "lon": 14.438
   }
 }
