@@ -4,12 +4,12 @@ import type { Story } from '../data';
 /**
  * Analytic picking: unproject the pointer ray, intersect the unit Earth
  * sphere, convert the hit to Earth-local space (markers live in the rotating
- * mesh frame), then nearest-neighbour among visible stories within a ~16px
- * angular threshold. Trivial for ~1.3k items.
+ * mesh frame), then nearest-neighbour among visible stories within an angular
+ * threshold of `radiusPx` on screen. Trivial for ~1.3k items.
  */
 export interface Picking {
   /** Visible story indices under the pointer, nearest first (empty if none). */
-  pick(ndcX: number, ndcY: number): number[];
+  pick(ndcX: number, ndcY: number, radiusPx: number): number[];
 }
 
 export function makePicking(
@@ -31,7 +31,7 @@ export function makePicking(
   });
 
   return {
-    pick(ndcX, ndcY) {
+    pick(ndcX, ndcY, radiusPx) {
       d.set(ndcX, ndcY, -1).unproject(camera).sub(camera.position).normalize();
       o.copy(camera.position);
 
@@ -48,11 +48,11 @@ export function makePicking(
       if (t < 0) return [];
       p.copy(o).addScaledVector(d, t);
 
-      // angular threshold ≈ 16 px at the pick point (unit sphere ⇒ arc == angle)
+      // angular threshold ≈ radiusPx at the pick point (unit sphere ⇒ arc == angle)
       const dist = camera.position.distanceTo(earthMesh.getWorldPosition(wp)) - 1;
       const halfH = Math.tan((camera.fov * Math.PI) / 360);
-      const arcPx16 = (16 * dist) / (window.innerHeight / 2 / halfH);
-      const thresh = Math.min(0.6, Math.max(2.5e-3, arcPx16));
+      const arc = (radiusPx * dist) / (window.innerHeight / 2 / halfH);
+      const thresh = Math.min(0.6, Math.max(2.5e-3, arc));
       const bestDot = Math.cos(thresh);
 
       const hits: { i: number; dot: number }[] = [];

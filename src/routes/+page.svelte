@@ -226,7 +226,7 @@
     const DOUBLE_MS = 250;
     let pendingClick: ReturnType<typeof setTimeout> | null = null;
     let lastClick = { x: 0, y: 0, t: -Infinity };
-    const onClick = (x: number, y: number) => {
+    const onClick = (x: number, y: number, touch: boolean) => {
       const now = performance.now();
       const isDouble = now - lastClick.t < DOUBLE_MS && Math.hypot(x - lastClick.x, y - lastClick.y) < 24;
       lastClick = { x, y, t: isDouble ? -Infinity : now };
@@ -236,7 +236,7 @@
       pendingClick = setTimeout(() => {
         pendingClick = null;
         if (!sceneHandles) return;
-        const hits = sceneHandles.pickAt(x, y);
+        const hits = sceneHandles.pickAt(x, y, touch);
         select(hits[0] ?? -1, hits);
       }, DOUBLE_MS);
     };
@@ -257,7 +257,7 @@
       const down = { x: e.clientX, y: e.clientY };
       const onUp = (ev: PointerEvent) => {
         const moved = Math.hypot(ev.clientX - down.x, ev.clientY - down.y);
-        if (moved < 6 && performance.now() - t0 < 500) onClick(ev.clientX, ev.clientY);
+        if (moved < 6 && performance.now() - t0 < 500) onClick(ev.clientX, ev.clientY, ev.pointerType !== 'mouse');
       };
       window.addEventListener('pointerup', onUp, { once: true });
     };
@@ -453,7 +453,6 @@
   </header>
 
   <button class="about-btn" onclick={() => (aboutOpen = true)}>About</button>
-  <p class="hint">space play/pause · click a dot</p>
 
   <Legend
     {meta}
@@ -598,16 +597,6 @@
   .about-btn:hover {
     border-color: var(--accent);
   }
-  .hint {
-    position: absolute;
-    top: 50px;
-    right: 18px;
-    margin: 0;
-    color: var(--text-dim);
-    font-size: 10px;
-    opacity: 0.7;
-    pointer-events: none;
-  }
   .tooltip {
     position: absolute;
     transform: translate(14px, 14px);
@@ -640,8 +629,7 @@
     margin-top: 2px;
   }
   @media (max-width: 820px) {
-    .counters span:nth-child(3),
-    .hint {
+    .counters span:nth-child(3) {
       display: none;
     }
     .titlebar {

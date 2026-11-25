@@ -24,8 +24,9 @@ export interface SceneHandles {
   /**
    * Published + visible stories under the pointer, nearest first. While a
    * cluster is in orbit, a hit on one of its satellites returns just that story.
+   * `touch` widens the hit radius to fingertip size.
    */
-  pickAt(clientX: number, clientY: number): number[];
+  pickAt(clientX: number, clientY: number, touch?: boolean): number[];
   /**
    * Fly to a story and orbit around it, tilted. With more than one member the
    * group is lifted into satellite rings above the place (members[0] = the
@@ -311,7 +312,9 @@ export function createScene(container: HTMLElement, stories: Story[]): SceneHand
   let spread: SpreadLayout | null = null;
   let pendingSpread: number[] | null = null;
   let spreadAmt = 0;
-  const SPREAD_PICK_PX = 14;
+  // hit radius (CSS px) around a dot or satellite: a fingertip needs more
+  const PICK_PX = 20;
+  const PICK_PX_TOUCH = 28;
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const orbitClock = new THREE.Clock();
   let orbitT = 0;
@@ -361,10 +364,10 @@ export function createScene(container: HTMLElement, stories: Story[]): SceneHand
     });
   }
 
-  function pickSpread(clientX: number, clientY: number): number {
+  function pickSpread(clientX: number, clientY: number, radiusPx: number): number {
     if (spreadAmt < 0.5) return -1;
     let best = -1;
-    let bestD = SPREAD_PICK_PX;
+    let bestD = radiusPx;
     for (const s of spreadScreen()) {
       const d = Math.hypot(s.x - clientX, s.y - clientY);
       if (d < bestD) {
@@ -437,13 +440,14 @@ export function createScene(container: HTMLElement, stories: Story[]): SceneHand
       visibleMask = mask;
       storyLayer.setVisibility(mask);
     },
-    pickAt(clientX, clientY) {
-      const fanned = pickSpread(clientX, clientY);
+    pickAt(clientX, clientY, touch = false) {
+      const radiusPx = touch ? PICK_PX_TOUCH : PICK_PX;
+      const fanned = pickSpread(clientX, clientY, radiusPx);
       if (fanned >= 0) return [fanned];
       const r = renderer.domElement.getBoundingClientRect();
       const nx = ((clientX - r.left) / r.width) * 2 - 1;
       const ny = -((clientY - r.top) / r.height) * 2 + 1;
-      return picking.pick(nx, ny);
+      return picking.pick(nx, ny, radiusPx);
     },
     setHighlight(selected: number, hovered: number) {
       storyLayer.setHighlight(selected, hovered);
@@ -520,6 +524,7 @@ export function createScene(container: HTMLElement, stories: Story[]): SceneHand
       camera.fov = w >= h ? 42 : (2 * Math.atan(Math.tan((21 * Math.PI) / 180) / camera.aspect) * 180) / Math.PI;
       camera.updateProjectionMatrix();
       renderer.setSize(w, h);
+      storyLayer.setViewHeight(h);
       applyInset();
     },
     dispose() {

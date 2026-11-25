@@ -125,7 +125,6 @@
       <option value={c}>{countryName(c)} ({meta.countries[c]})</option>
     {/each}
   </select>
-  <p class="note">Country filter only covers stories whose source named a country.</p>
   <!-- last, so its suggestions open below everything else instead of over it -->
   <SearchBox
     {stories}
@@ -362,12 +361,6 @@
     padding: 6px 8px;
     font-size: 12px;
     margin-top: 6px;
-  }
-  .note {
-    margin: 8px 0 0;
-    font-size: 10px;
-    line-height: 1.4;
-    color: var(--text-dim);
   }
   @media (prefers-reduced-motion: reduce) {
     .sheet,

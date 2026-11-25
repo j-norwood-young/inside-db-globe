@@ -24,9 +24,9 @@
     if (body) body.scrollTop = 0;
   });
 
-  const GEO_NOTE: Record<Story['geoBasis'], string> = {
+  // outlet-placed stories need no note: that's where they're from
+  const GEO_NOTE: Partial<Record<Story['geoBasis'], string>> = {
     country: 'placed in the country named by the source',
-    outlet: 'placed at the outlet’s home city',
     language: 'approx. location — inferred from language only'
   };
   const MAX_NEARBY = 8;
@@ -55,7 +55,9 @@
       {story.outlet}
       {#if story.country}· {story.country.toUpperCase()}{/if}
     </p>
-    <p class="geo {story.geoBasis === 'language' ? 'approx' : ''}">{GEO_NOTE[story.geoBasis]}</p>
+    {#if GEO_NOTE[story.geoBasis]}
+      <p class="geo {story.geoBasis === 'language' ? 'approx' : ''}">{GEO_NOTE[story.geoBasis]}</p>
+    {/if}
     <p class="time">{fmtSimTime(story.publishedAt)}</p>
     <!-- the pipeline only keeps snippets that add text beyond headline + outlet -->
     {#if story.snippet}<p class="snippet">{story.snippet}</p>{/if}

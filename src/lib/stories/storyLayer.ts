@@ -38,12 +38,21 @@ export interface StoryLayerHandle {
   setOrbitTime(seconds: number): void;
   /** earth-local plotted position of a story's dot */
   getHome(index: number, out: THREE.Vector3): THREE.Vector3;
+  /** canvas height in CSS px, for the dots' minimum on-screen size */
+  setViewHeight(px: number): void;
   dispose(): void;
 }
 
 const R = 1; // Earth radius in scene units
 /** dot quad size per unit of view distance (constant angular size) */
-export const DOT_UNIT = 0.016;
+export const DOT_UNIT = 0.021;
+/**
+ * ...but never smaller than this many CSS px, so dots stay tappable on phones
+ * (portrait holds the horizontal FOV, which would otherwise shrink them)
+ */
+const DOT_MIN_PX = 22;
+/** satellites' largest quad (earth radii), so the floor can't overlap them in a ring */
+const SAT_MAX_DOT = 0.024;
 
 export interface SpreadLayout {
   members: number[];
@@ -169,6 +178,7 @@ export function makeStoryLayer(earthMesh: THREE.Object3D, stories: Story[]): Sto
   const uHover = { value: -1 };
   const uSpread = { value: 0 };
   const uOrbitT = { value: 0 };
+  const uViewH = { value: 800 };
 
   function register(
     geo: THREE.BufferGeometry,
@@ -181,7 +191,7 @@ export function makeStoryLayer(earthMesh: THREE.Object3D, stories: Story[]): Sto
     const uTime = { value: 0 };
     uniforms.push(uTime);
     const mat = new THREE.ShaderMaterial({
-      uniforms: { uTime, uSpan, uSel, uHover, uSpread, uOrbitT },
+      uniforms: { uTime, uSpan, uSel, uHover, uSpread, uOrbitT, uViewH },
       vertexShader: vert,
       fragmentShader: frag,
       transparent: true,
@@ -236,6 +246,7 @@ export function makeStoryLayer(earthMesh: THREE.Object3D, stories: Story[]): Sto
       attribute vec3 aSatOffset;
       attribute float aSatSpin;
       attribute float aSpreadOn;
+      uniform float uViewH;
       ${SAT_GLSL}
       varying vec2 vUv;
       varying float vHi;
@@ -255,10 +266,12 @@ export function makeStoryLayer(earthMesh: THREE.Object3D, stories: Story[]): Sto
         vec3 p = sp > 0.0 ? mix(home, satPos(aSpreadCentre, aSatOffset, aSatSpin), sp) : home;
         vec4 mv = modelViewMatrix * vec4(p, 1.0);
         float dist = -mv.z;
-        float unit = ${DOT_UNIT} * dist;
+        // world units per CSS px at this distance: 2 tan(fov/2) / height
+        float pxWorld = 2.0 * dist / (projectionMatrix[1][1] * uViewH);
+        float unit = max(${DOT_UNIT} * dist, ${DOT_MIN_PX.toFixed(1)} * pxWorld);
         float size = unit * (0.6 + 0.4 * pop) * flash * (0.7 + 0.3 * decay);
         if (vHi > 0.0) { size *= 1.0 + 0.4 * vHi; vFade = max(vFade, step(0.0, age) * aVisible); }
-        if (sp > 0.0) { size = max(size, unit * 0.85); vFade = max(vFade, sp * step(0.0, age) * aVisible); }
+        if (sp > 0.0) { size = mix(size, min(max(size, unit * 0.85), ${SAT_MAX_DOT}), sp); vFade = max(vFade, sp * step(0.0, age) * aVisible); }
         // while a cluster is fanned out, everything else steps back
         else vFade *= 1.0 - 0.75 * uSpread;
         // nudge toward the camera (along the view ray, so screen position is
@@ -470,6 +483,9 @@ export function makeStoryLayer(earthMesh: THREE.Object3D, stories: Story[]): Sto
     getHome(index: number, out: THREE.Vector3) {
       dotMesh.getMatrixAt(index, homeMat);
       return out.setFromMatrixPosition(homeMat);
+    },
+    setViewHeight(px: number) {
+      uViewH.value = Math.max(1, px);
     },
     setTimeScale(speed: number) {
       // sublinear so the intro (~50,000x) gets ~30x longer effects, not 170x
